@@ -1,0 +1,72 @@
+Item
+	ItemType = Misc
+	Name = "Topaz"
+	Icon = "Clutter\Gems\IconTopazFlawed.dds"
+	Model = "Clutter\Gems\TopazFlawed.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 0.1
+	CustomType = "Gem"
+End
+Item
+	ItemType = Misc
+	Name = "Pearl"
+	Icon = "Clutter\Gems\IconPearl.dds"
+	Model = "Clutter\Gems\Pearl.NIF"
+	BasePrice = 20
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 0.1
+	CustomType = "Gem"
+End
+Item
+	ItemType = Misc
+	Name = "Emerald"
+	Icon = "Clutter\Gems\IconEmeraldFlawless.dds"
+	Model = "Clutter\Gems\EmeraldFlawed.NIF"
+	BasePrice = 30
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 0.1
+	CustomType = "Gem"
+End
+Item
+	ItemType = Misc
+	Name = "Sapphire"
+	Icon = "Clutter\Gems\IconSapphireFlawed.dds"
+	Model = "Clutter\Gems\SapphireFlawed.NIF"
+	BasePrice = 40
+	ItemLevel = 15
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 0.1
+	CustomType = "Gem"
+End
+Item
+	ItemType = Misc
+	Name = "Ruby"
+	Icon = "Clutter\Gems\IconRubyFlawless.dds"
+	Model = "Clutter\Gems\RubyFlawed.NIF"
+	BasePrice = 60
+	ItemLevel = 20
+	MinEffectLevel = 10
+	MaxEffectLevel = 40
+	Weight = 0.1
+	CustomType = "Gem"
+End
+Item
+	ItemType = Misc
+	Name = "Diamond"
+	Icon = "Clutter\Gems\IconDiamondFlawless.dds"
+	Model = "Clutter\Gems\DiamondFlawed.NIF"
+	BasePrice = 80
+	ItemLevel = 25
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Gem"
+End

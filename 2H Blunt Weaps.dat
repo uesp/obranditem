@@ -1,0 +1,632 @@
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Iron"
+	Icon = "Weapons\IronWarhammer.dds"
+	Model = "Weapons\Iron\Warhammer.NIF"
+	BasePrice = 60
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 57
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 525
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Iron"
+	Icon = "Weapons\IronBattleAxe.dds"
+	Model = "Weapons\Iron\Battleaxe.NIF"
+	BasePrice = 35
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 500
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Steel"
+	Icon = "Weapons\SteelBattleAxe.dds"
+	Model = "Weapons\Steel\BattleAxe.NIF"
+	BasePrice = 75
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 475
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Steel"
+	Icon = "Weapons\SteelWarhammer.dds"
+	Model = "Weapons\Steel\Warhammer.NIF"
+	BasePrice = 125
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 49
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 500
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Silver"
+	Icon = "Weapons\SilverWarhammer.dds"
+	Model = "Weapons\Silver\Warhammer.NIF"
+	BasePrice = 200
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 64
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 575
+	Damage = 25
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Silver"
+	Icon = "Weapons\SilverBattleAxe.dds"
+	Model = "Weapons\Silver\Battleaxe.NIF"
+	BasePrice = 125
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 55
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 550
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warclub"
+	Material = "Silver"
+	Icon = "RD\sil2hmace.dds"
+	Model = "RD\rdwarclubsil.nif"
+	BasePrice = 200
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.1
+	Speed = 0.8
+	Health = 475
+	Damage = 23
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Plated"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerWood2H.nif"
+	BasePrice = 1300
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 45
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.1
+	Speed = 0.8
+	Health = 475
+	Damage = 25
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenWarhammer.dds"
+	Model = "Weapons\Dwarven\Warhammer.NIF"
+	BasePrice = 430
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 80
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 650
+	Damage = 28
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenBattleAxe.dds"
+	Model = "Weapons\Dwarven\Battleaxe.NIF"
+	BasePrice = 300
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 65
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 625
+	Damage = 27
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warclub"
+	Material = "Dwarven"
+	Icon = "RD\dwarv2hmace.dds"
+	Model = "RD\rdwarclubdw.nif"
+	BasePrice = 430
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 72
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 600
+	Damage = 27
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Elven"
+	Icon = "Weapons\ElvenWarhammer.dds"
+	Model = "Weapons\Elven\Warhammer.NIF"
+	BasePrice = 800
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 39
+	EnchantPoints = 500
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 450
+	Damage = 29
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Elven"
+	Icon = "Weapons\ElvenBattleaxe.dds"
+	Model = "Weapons\Elven\Battleaxe.NIF"
+	BasePrice = 580
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 35
+	EnchantPoints = 500
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 425
+	Damage = 28
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Icon = "Weapons\Braided\bbattleaxe.dds"
+	Model = "Weapons\Braided\bbattleaxe.nif"
+	BasePrice = 580
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 55
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.8
+	Health = 500
+	Damage = 29
+	IgnoreResist = true
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Icon = "Weapons\Braided\bwarhammer.dds"
+	Model = "Weapons\Braided\bwarhammer.nif"
+	BasePrice = 800
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 64
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 500
+	Damage = 29
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Glass"
+	Icon = "Weapons\GlassWarhammer.dds"
+	Model = "Weapons\Glass\Warhammer.NIF"
+	BasePrice = 1500
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 400
+	Damage = 31
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Glass"
+	Icon = "Weapons\GlassBattleAxe.dds"
+	Model = "Weapons\Glass\Battleaxe.NIF"
+	BasePrice = 1050
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 27
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 375
+	Damage = 30
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warclub"
+	Material = "Glass"
+	Icon = "RD\glass2hmace.dds"
+	Model = "RD\rdwarclubgl.nif"
+	BasePrice = 1500
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 11
+	Speed = 0.8
+	Health = 420
+	Damage = 31
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyWarhammer.dds"
+	Model = "Weapons\Ebony\Warhammer.NIF"
+	BasePrice = 2800
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 86
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 700
+	Damage = 33
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyBattleAxe.dds"
+	Model = "Weapons\Ebony\Battleaxe.NIF"
+	BasePrice = 2100
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 71
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 675
+	Damage = 32
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warclub"
+	Material = "Ebony"
+	Icon = "RD\ebon2hmace.dds"
+	Model = "RD\rdwarclubeb.nif"
+	BasePrice = 2800
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 86
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.8
+	Health = 725
+	Damage = 33
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Plated"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerFineSteelCap2H.nif"
+	BasePrice = 1900
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 70
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.8
+	Health = 700
+	Damage = 33
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricWarhammer.dds"
+	Model = "Weapons\Daedric\Warhammer.NIF"
+	BasePrice = 5000
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 95
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.7
+	Health = 800
+	Damage = 36
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricBattleAxe.dds"
+	Model = "Weapons\Daedric\Battleaxe.NIF"
+	BasePrice = 3800
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 80
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.95
+	Speed = 0.75
+	Health = 775
+	Damage = 34
+	IgnoreResist = true
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Marble"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerMarble.nif"
+	BasePrice = 4500
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 90
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.05
+	Speed = 0.65
+	Health = 850
+	Damage = 35
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Quarterstaff"
+	Icon = "Weapons\xstaff.dds"
+	Model = "weapons\custom\quarterstafffine.nif"
+	BasePrice = 50
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.35
+	Speed = 1.0
+	Health = 300
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Quarterstaff"
+	Icon = "Weapons\xstaff.dds"
+	Model = "weapons\custom\quarterstaffred.nif"
+	BasePrice = 65
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.9
+	Health = 350
+	Damage = 25
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Quarterstaff"
+	Icon = "Weapons\xstaff.dds"
+	Model = "Weapons\custom\customstaves\quarterstaff1.nif"
+	BasePrice = 15
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 14
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 1.3
+	Health = 275
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Quarterstaff"
+	Icon = "Weapons\xstaff.dds"
+	Model = "Weapons\custom\customstaves\quarterstaff2.nif"
+	BasePrice = 25
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 1.3
+	Health = 300
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Bearded Axe"
+	Icon = "RD\rdironbeard.dds"
+	Model = "RD\rdbeardedaxe.NIF"
+	BasePrice = 80
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.05
+	Speed = 0.8
+	Health = 450
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Bearded"
+	Icon = "RD\rdsteelbeard.dds"
+	Model = "RD\rd2hsteelbeardaxe.NIF"
+	BasePrice = 150
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.1
+	Speed = 1
+	Health = 380
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Icon = "RD\rdtwobladedax.dds"
+	Model = "RD\rdvikingaxe1.NIF"
+	BasePrice = 300
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 60
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.1
+	Speed = 0.8
+	Health = 500
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End

@@ -1,0 +1,462 @@
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Iron"
+	MIcon = "Armor\Iron\Shield.dds"
+	MBModel = "Armor\Iron\Shield.NIF"
+	MWModel = "Armor\Iron\Shield.NIF"
+	FIcon = "Armor\Iron\Shield.dds"
+	FBModel = "Armor\Iron\Shield.NIF"
+	FWModel = "Armor\Iron\Shield.NIF"
+	BasePrice = 45
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 13
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 650
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Shield.dds"
+	MBModel = "Armor\Steel\Shield.NIF"
+	MWModel = "Armor\Steel\Shield.NIF"
+	FIcon = "Armor\Steel\Shield.dds"
+	FBModel = "Armor\Steel\Shield.NIF"
+	FWModel = "Armor\Steel\Shield.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 12
+	Armor = 1400
+	ArmorType = "Heavy"
+	Health = 725
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\Shield.dds"
+	MBModel = "Armor\Dwarven\Shield.NIF"
+	MWModel = "Armor\Dwarven\Shield.NIF"
+	FIcon = "Armor\Dwarven\Shield.dds"
+	FBModel = "Armor\Dwarven\Shield.NIF"
+	FWModel = "Armor\Dwarven\Shield.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 1050
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\Shield.dds"
+	FIcon = "Armor\Orcish\Shield.dds"
+	MBModel = "Armor\Orcish\Shield.NIF"
+	MWModel = "Armor\Orcish\Shield.NIF"
+	FBModel = "Armor\Orcish\Shield.NIF"
+	FWModel = "Armor\Orcish\Shield.NIF"
+	BasePrice = 460
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 17
+	Armor = 1700
+	ArmorType = "Heavy"
+	Health = 1100
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+
+
+
+Item
+	ItemType = Armor
+	Name = "Shield"
+	MIcon = "Armor\Noble Plate\nobleShield.dds"
+	FIcon = "Armor\Noble Plate\nobleShield.dds"
+	MBModel = "Armor\Noble Plate\nobleshield.nif"
+	MWModel = "Armor\Noble Plate\nobleshield.nif"
+	FBModel = "Armor\Noble Plate\nobleshield.nif"
+	FWModel = "Armor\Noble Plate\nobleshield.nif"
+	BasePrice = 460
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 15
+	Armor = 1800
+	ArmorType = "Heavy"
+	Health = 1250
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+
+
+
+#############################################
+##     More Shields - Skull & Yin-yang     ##
+##             Ebony Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Silver Skull Heavy Shield
+	MIcon = "Armor\skull\shield.dds"
+	MBModel = "Armor\skull\shield.nif"
+	MWModel = "Armor\skull\shield.nif"
+	FIcon = "Armor\skull\shield.dds"
+	FBModel = "Armor\skull\shield.nif"
+	FWModel = "Armor\skull\shield.nif"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 20
+	Armor = 1900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Yin-Yang Heavy Shield
+	MIcon = "Armor\yin-yangshi\shield.dds"
+	MBModel = "Armor\yin-yangshi\shield.nif"
+	MWModel = "Armor\yin-yangshi\shield.nif"
+	FIcon = "Armor\yin-yangshi\shield.dds"
+	FBModel = "Armor\yin-yangshi\shield.nif"
+	FWModel = "Armor\yin-yangshi\shield.nif"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 20
+	Armor = 1900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\Shield.dds"
+	MBModel = "Armor\Ebony\Shield.NIF"
+	MWModel = "Armor\Ebony\Shield.NIF"
+	FIcon = "Armor\Ebony\Shield.dds"
+	FBModel = "Armor\Ebony\Shield.NIF"
+	FWModel = "Armor\Ebony\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 20
+	Armor = 1900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	MIcon = "Armor\HBraided\hbshield.dds"
+	FIcon = "Armor\HBraided\hbshield.dds"
+	MBModel = "Armor\HBraided\hbshield.nif"
+	MWModel = "Armor\HBraided\hbshield.nif"
+	FBModel = "Armor\HBraided\hbshield.nif"
+	FWModel = "Armor\HBraided\hbshield.nif"
+	BasePrice = 1000
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 20
+	Armor = 1900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\Shield.dds"
+	MBModel = "Armor\majesty\Shield.NIF"
+	MWModel = "Armor\majesty\Shield.NIF"
+	FIcon = "Armor\majesty\Shield.dds"
+	FBModel = "Armor\majesty\Shield.NIF"
+	FWModel = "Armor\majesty\Shield.NIF"
+	BasePrice = 2750
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 24
+	Armor = 2300
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\Shield.dds"
+	MBModel = "Armor\Daedric\Shield.NIF"
+	MWModel = "Armor\Daedric\Shield.NIF"
+	FIcon = "Armor\Daedric\Shield.dds"
+	FBModel = "Armor\Daedric\Shield.NIF"
+	FWModel = "Armor\Daedric\Shield.NIF"
+	BasePrice = 2500
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 24
+	Armor = 2300
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+#############################################
+##     Custom Armor - More Shields         ##
+##            Daedric Equivalent           ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Red Dragon Heavy Shield
+	MIcon = "Armor\reddragonsh\shield.dds"
+	MBModel = "Armor\reddragonsh\shield.nif"
+	MWModel = "Armor\reddragonsh\shield.nif"
+	FIcon = "Armor\reddragonsh\shield.dds"
+	FBModel = "Armor\reddragonsh\shield.nif"
+	FWModel = "Armor\reddragonsh\shield.nif"
+	BasePrice = 2500
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 24
+	Armor = 2300
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Scorpion Heavy Shield
+	MIcon = "Armor\scorpions\shield.dds"
+	MBModel = "Armor\scorpions\shield.nif"
+	MWModel = "Armor\scorpions\shield.nif"
+	FIcon = "Armor\scorpions\shield.dds"
+	FBModel = "Armor\scorpions\shield.nif"
+	FWModel = "Armor\scorpions\shield.nif"
+	BasePrice = 2500
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 24
+	Armor = 2300
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+
+
+
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Tanzit Heavy Shield
+	MIcon = "SephisTanzit\icontdaTanzitshield.dds"
+	MBModel = "SephisTanzit\TanzitShield\tda_TanzitDefender.nif"
+	MWModel = "SephisTanzit\TanzitShield\tda_TanzitDefender.nif"
+	FIcon = "SephisTanzit\icontdaTanzitshield.dds"
+	FBModel = "SephisTanzit\TanzitShield\tda_TanzitDefender.nif"
+	FWModel = "SephisTanzit\TanzitShield\tda_TanzitDefender.nif"
+	BasePrice = 2750
+	ItemLevel = 26
+	MinEffectLevel = 20
+	MaxEffectLevel = 50
+	Weight = 20
+	Armor = 2400
+	ArmorType = "Heavy"
+	Health = 2150
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+
+
+
+#############################################
+##    Armor - Defensive Staves (Shields)   ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Daedric"
+	MIcon = "Armor\defensivestaves\staffdaedric.dds"
+	MBModel = "Armor\defensivestaves\daedricstaff.NIF"
+	MWModel = "Armor\defensivestaves\daedricstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffdaedric.dds"
+	FBModel = "Armor\defensivestaves\daedricstaff.NIF"
+	FWModel = "Armor\defensivestaves\daedricstaff.NIF"
+	BasePrice = 4500
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 21
+	Armor = 2200
+	ArmorType = "Heavy"
+	Health = 1990
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Rod"
+	Material = "Dwarven"
+	MIcon = "Armor\defensivestaves\staffforked.dds"
+	MBModel = "Armor\defensivestaves\dwarvenstaff.NIF"
+	MWModel = "Armor\defensivestaves\dwarvenstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffforked.dds"
+	FBModel = "Armor\defensivestaves\dwarvenstaff.NIF"
+	FWModel = "Armor\defensivestaves\dwarvenstaff.NIF"
+	BasePrice = 400
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 14
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 875
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Ebony"
+	MIcon = "Armor\defensivestaves\staffball.dds"
+	MBModel = "Armor\defensivestaves\ebonystaff.NIF"
+	MWModel = "Armor\defensivestaves\ebonystaff.NIF"
+	FIcon = "Armor\defensivestaves\staffball.dds"
+	FBModel = "Armor\defensivestaves\ebonystaff.NIF"
+	FWModel = "Armor\defensivestaves\ebonystaff.NIF"
+	BasePrice = 1800
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 19
+	Armor = 1800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Oaken"
+	MIcon = "Armor\defensivestaves\staffwood.dds"
+	MBModel = "Armor\defensivestaves\oakenstaff.NIF"
+	MWModel = "Armor\defensivestaves\oakenstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwood.dds"
+	FBModel = "Armor\defensivestaves\oakenstaff.NIF"
+	FWModel = "Armor\defensivestaves\oakenstaff.NIF"
+	BasePrice = 100
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 11
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 450
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Orcish"
+	MIcon = "Armor\defensivestaves\staffwar.dds"
+	MBModel = "Armor\defensivestaves\orcishstaff.NIF"
+	MWModel = "Armor\defensivestaves\orcishstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwar.dds"
+	FBModel = "Armor\defensivestaves\orcishstaff.NIF"
+	FWModel = "Armor\defensivestaves\orcishstaff.NIF"
+	BasePrice = 910
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 16
+	Armor = 1600
+	ArmorType = "Heavy"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Steel"
+	MIcon = "Armor\defensivestaves\staffwar.dds"
+	MBModel = "Armor\defensivestaves\steelstaff.NIF"
+	MWModel = "Armor\defensivestaves\steelstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwar.dds"
+	FBModel = "Armor\defensivestaves\steelstaff.NIF"
+	FWModel = "Armor\defensivestaves\steelstaff.NIF"
+	BasePrice = 185
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 12
+	Armor = 1300
+	ArmorType = "Heavy"
+	Health = 525
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "White"
+	MIcon = "Armor\defensivestaves\staffvarla.dds"
+	MBModel = "Armor\defensivestaves\solidwoodstaffwhite.NIF"
+	MWModel = "Armor\defensivestaves\solidwoodstaffwhite.NIF"
+	FIcon = "Armor\defensivestaves\staffvarla.dds"
+	FBModel = "Armor\defensivestaves\solidwoodstaffwhite.NIF"
+	FWModel = "Armor\defensivestaves\solidwoodstaffwhite.NIF"
+	BasePrice = 2000
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 18
+	Armor = 2400
+	ArmorType = "Heavy"
+	Health = 1800
+	BipedParts = Shield
+	CustomType = "H Shield"
+End

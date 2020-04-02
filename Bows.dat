@@ -1,0 +1,179 @@
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Iron"
+	Icon = "Weapons\IronBow.dds"
+	Model = "Weapons\Iron\Bow.NIF"
+	BasePrice = 11
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 300
+	Damage = 8
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Steel"
+	Icon = "Weapons\SteelBow.dds"
+	Model = "Weapons\Steel\Bow.NIF"
+	BasePrice = 10
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 275
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Silver"
+	Icon = "Weapons\SilverBow.dds"
+	Model = "Weapons\Silver\Bow.NIF"
+	BasePrice = 55
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 11
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 350
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenBow.dds"
+	Model = "Weapons\Dwarven\Bow.NIF"
+	BasePrice = 155
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 14
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 375
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Elven"
+	Icon = "Weapons\ElvenBow.dds"
+	Model = "Weapons\Elven\Bow.NIF"
+	BasePrice = 360
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 7
+	EnchantPoints = 350
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 225
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Icon = "Weapons\Braided\bbow.dds"
+	Model = "Weapons\Braided\bbow.nif"
+	BasePrice = 360
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 275
+	Damage = 17
+	IgnoreResist = true
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Glass"
+	Icon = "Weapons\GlassBow.dds"
+	Model = "Weapons\Glass\Bow.NIF"
+	BasePrice = 735
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 6
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 175
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyBow.dds"
+	Model = "Weapons\Ebony\Bow.NIF"
+	BasePrice = 1550
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 16
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 425
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricBow.dds"
+	Model = "Weapons\Daedric\Bow.NIF"
+	BasePrice = 3200
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 17
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 475
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "Bow"
+End

@@ -1,0 +1,370 @@
+#############################################
+##     Clothing - Necklaces (Amulet)       ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJade.NIF"
+	MWModel = "Clothes\Amulet\amuletjade_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Jeweled"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletJeweledNoJewel.NIF"
+	MWModel = "Clothes\Amulet\amuletJeweledNoJewel_gnd.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.5
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Gold"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletGold.NIF"
+	MWModel = "Clothes\Amulet\AmuletGold_gnd.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Silver"
+	MIcon = "Clothes\Amulet\AmuletSilver.dds"
+	MBModel = "Clothes\Amulet\AmuletSilver.NIF"
+	MWModel = "Clothes\Amulet\AmuletSilver_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Jade"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJade.NIF"
+	MWModel = "Clothes\Amulet\amuletjade_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Copper"
+	MIcon = "Clothes\Amulet\AmuletCopper.dds"
+	MBModel = "Clothes\Amulet\AmuletCopper.NIF"
+	MWModel = "Clothes\Amulet\AmuletCopper_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Bronze"
+	MIcon = "Clothes\Amulet\AmuletBronze.dds"
+	MBModel = "Clothes\Amulet\AmuletBronze.NIF"
+	MWModel = "Clothes\Amulet\AmuletBronze_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Jade"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJade.NIF"
+	MWModel = "Clothes\Amulet\amuletjade_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 0
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	MIcon = "Clothes\Amulet\AmuletArnoras.dds"
+	MBModel = "Clothes\Amulet\AmuletArnoras.NIF"
+	MWModel = "Clothes\Amulet\AmuletArnoras_gnd.NIF"
+	BasePrice = 150
+	ItemLevel = 6
+	Weight = 0.5
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	MIcon = "Clothes\Amulet\AmuletBronze.dds"
+	MBModel = "Clothes\Amulet\amuletbronzejeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletbronzejeweled_gnd.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	Weight = 0.5
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Jeweled"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\amuletjeweled.NIF"
+	MWModel = "Clothes\Amulet\AmuletJeweled_gnd.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.6
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Gold"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletGoldJeweled.NIF"
+	MWModel = "Clothes\Amulet\AmuletGoldJeweled_gnd.NIF"
+	BasePrice = 150
+	ItemLevel = 6
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Silver"
+	MIcon = "Clothes\Amulet\AmuletSilver.dds"
+	MBModel = "Clothes\Amulet\AmuletSilverJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletsilverjeweled_gnd.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Jade"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJadeJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletJadeJeweled_gnd.NIF"
+	BasePrice = 70
+	ItemLevel = 4
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Copper"
+	MIcon = "Clothes\Amulet\AmuletCopper.dds"
+	MBModel = "Clothes\Amulet\AmuletCopperJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletcopperjeweled_gnd.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Bronze"
+	MIcon = "Clothes\Amulet\AmuletBronze.dds"
+	MBModel = "Clothes\Amulet\amuletbronzejeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletbronzejeweled_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	MIcon = "Clothes\Amulet\AmuletCopper.dds"
+	MBModel = "Clothes\Amulet\AmuletCopper.NIF"
+	MWModel = "Clothes\Amulet\AmuletCopper_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	MIcon = "Clothes\Amulet\AmuletHenantierDreamworld.dds"
+	MBModel = "Clothes\Amulet\AmuletHenantierDreamworld.NIF"
+	MWModel = "Clothes\Amulet\AmuletHenantierDreamworld_gnd.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	Weight = 1
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+
+
+
+#############################################
+##     Clothing - Rings (Ring)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingEbonyDiamond.NIF"
+	MWModel = "Clothes\Ring\RingEbonyDiamond.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.2
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingEbonyEmerald.NIF"
+	MWModel = "Clothes\Ring\RingEbonyEmerald.NIF"
+	BasePrice = 180
+	ItemLevel = 6
+	Weight = 0.2
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldDiamond.NIF"
+	MWModel = "Clothes\Ring\RingGoldDiamond.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.2
+	BipedParts = Left Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldEmerald.NIF"
+	MWModel = "Clothes\Ring\RingGoldEmerald.NIF"
+	BasePrice = 160
+	ItemLevel = 6
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldSapphire.NIF"
+	MWModel = "Clothes\Ring\RingGoldSapphire.NIF"
+	BasePrice = 140
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverEmerald.NIF"
+	MWModel = "Clothes\Ring\RingSilverEmerald.NIF"
+	BasePrice = 140
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverSapphire.NIF"
+	MWModel = "Clothes\Ring\RingSilverSapphire.NIF"
+	BasePrice = 120
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeSapphire.NIF"
+	MWModel = "Clothes\Ring\RingJadeSapphire.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeRuby.NIF"
+	MWModel = "Clothes\Ring\RingJadeRuby.NIF"
+	BasePrice = 80
+	ItemLevel = 4
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeTopaz.NIF"
+	MWModel = "Clothes\Ring\RingJadeTopaz.NIF"
+	BasePrice = 60
+	ItemLevel = 3
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverRuby.NIF"
+	MWModel = "Clothes\Ring\RingSilverRuby.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End

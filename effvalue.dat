@@ -1,0 +1,223 @@
+#############################################
+##     Prefixes - Item Value (Mundane)     ##
+#############################################
+Prefix
+	Name = Damaged
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -60.0
+	MaxEffect = -54.0
+End
+Prefix
+	Name = Crude
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -54.0
+	MaxEffect = -47.0
+End
+Prefix
+	Name = Low Quality
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -47.0
+	MaxEffect = -40.0
+End
+Prefix
+	Name = Blemished
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -40.0
+	MaxEffect = -33.0
+End
+Prefix
+	Name = Imperfect
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -33.0
+	MaxEffect = -26.0
+End
+Prefix
+	Name = Cheap
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -26.0
+	MaxEffect = -19.0
+End
+Prefix
+	Name = Bargain
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 100
+	Multiplier = 1
+	MinEffect = -19.0
+	MaxEffect = -12.0
+End
+Prefix
+	Name = Inexpensive
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 1
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = -12.0
+	MaxEffect = -5.0
+End
+Prefix
+	Name = Overpriced
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 2
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 75.0
+	MaxEffect = 150.0
+End
+Prefix
+	Name = Fancy
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 4
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 150.0
+	MaxEffect = 200.0
+End
+Prefix
+	Name = Costly
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 7
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 200.0
+	MaxEffect = 250.0
+End
+Prefix
+	Name = Pricey
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 10
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 250.0
+	MaxEffect = 300.0
+End
+Prefix
+	Name = Expensive
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 14
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 300.0
+	MaxEffect = 350.0
+End
+Prefix
+	Name = Valuable
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 18
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 350.0
+	MaxEffect = 375.0
+End
+Prefix
+	Name = Extravagant
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 22
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 375.0
+	MaxEffect = 400.0
+End
+Prefix
+	Name = Exorbitant
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 26
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 400.0
+	MaxEffect = 425.0
+End
+Prefix
+	Name = Exquisite
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 30
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 425.0
+	MaxEffect = 450.0
+End
+Prefix
+	Name = Invaluable
+	EffectType = Value
+	Cursed = false
+	ItemLevel = 35
+	ItemMask = All
+	MinQuality = 0
+	MaxQuality = 0
+	Multiplier = 1
+	MinEffect = 450.0
+	MaxEffect = 500.0
+End
+
+
+
+

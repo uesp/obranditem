@@ -1,0 +1,416 @@
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Icon = "Weapons\Staff.dds"
+	Model = "Staffs\TestStaff.NIF"
+	BasePrice = 20
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1
+	Speed = 1
+	Health = 100
+	Damage = 5
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+
+##Item
+##	ItemType = Staff
+##	Name = "Staff"
+##	Icon = "Weapons\TestStaff.dds"
+##	Model = "Staffs\TestStaff03.NIF"
+##	BasePrice = 80
+##	ItemLevel = 4
+##	MinEffectLevel = 1
+##	MaxEffectLevel = 20
+##	Weight = 10
+##	EnchantPoints = 0
+##	Type = "Staff"
+##	Reach = 1
+##	Speed = 1
+##	Health = 100
+##	Damage = 5
+##	IgnoreResist = false
+##	CustomType = "Staff"
+##End
+
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Icon = "Weapons\MS43EverScamp.dds"
+	Model = "Staffs\MS43Everscamp.NIF"
+	BasePrice = 160
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 100
+	Damage = 5
+	IgnoreResist = true
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Icon = "Weapons\xstaff.dds"
+	Model = "weapons\custom\quarterstaff.nif"
+	BasePrice = 20
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 100
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Icon = "Weapons\dawabbajack.dds"
+	Model = "weapons\custom\customstaves\ebonystaff.nif"
+	BasePrice = 480
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 16.0
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 0
+	Speed = 1
+	Health = 900
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Icon = "Weapons\xstaffball.dds"
+	Model = "weapons\custom\customstaves\staffvarla.nif"
+	BasePrice = 560
+	ItemLevel = 28
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 20.0
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 0
+	Speed = 1
+	Health = 1500
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Steel"
+	Icon = "armor\defensivestaves\staffwar.dds"
+	Model = "armor\DefensiveStaves\steelstaff.nif"
+	BasePrice = 60
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 500
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Steel"
+	Icon = "armor\defensivestaves\staffwood.dds"
+	Model = "weapons\NewMagicStaves\ashenstaffoffense.nif"
+	BasePrice = 50
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 125
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Black"
+	Icon = "Armor\defensivestaves\staffball.dds"
+	Model = "weapons\NewMagicStaves\solidwoodstaffblackoffense.NIF"
+	BasePrice = 100
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 175
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Wood"
+	Icon = "Armor\defensivestaves\staffball.dds"
+	Model = "weapons\NewMagicStaves\solidwoodstaffbrownoffense.NIF"
+	BasePrice = 100
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 175
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Elven"
+	Icon = "Armor\defensivestaves\staffelven.dds"
+	Model = "weapons\NewMagicStaves\elvenstaffoffense.NIF"
+	BasePrice = 200
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 250
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Glass"
+	Icon = "Armor\defensivestaves\staffglass.dds"
+	Model = "weapons\NewMagicStaves\glassstaffoffense.NIF"
+	BasePrice = 300
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 350
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Silver"
+	Icon = "Armor\defensivestaves\staffwar.dds"
+	Model = "weapons\NewMagicStaves\silverstaffoffense.NIF"
+	BasePrice = 60
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 125
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Yew"
+	Icon = "Armor\defensivestaves\staffwood.dds"
+	Model = "weapons\NewMagicStaves\yewstaffoffense.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 125
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Daedric"
+	Icon = "Armor\defensivestaves\staffdaedric.dds"
+	Model = "weapons\NewMagicStaves\daedricstaffoffense.NIF"
+	BasePrice = 750
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 550
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Rod"
+	Material = "Dwarven"
+	Icon = "Armor\defensivestaves\staffforked.dds"
+	Model = "weapons\NewMagicStaves\dwarvenstaffoffense.NIF"
+	BasePrice = 80
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 180
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Ebony"
+	Icon = "Armor\defensivestaves\staffball.dds"
+	Model = "weapons\NewMagicStaves\ebonystaffoffense.NIF"
+	BasePrice = 600
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 450
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Oaken"
+	Icon = "Armor\defensivestaves\staffwood.dds"
+	Model = "weapons\NewMagicStaves\oakenstaffoffense.NIF"
+	BasePrice = 40
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 125
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Orcish"
+	Icon = "Armor\defensivestaves\staffwar.dds"
+	Model = "weapons\NewMagicStaves\orcishstaffoffense.NIF"
+	BasePrice = 200
+	ItemLevel = 9
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 250
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "Steel"
+	Icon = "Armor\defensivestaves\staffwar.dds"
+	Model = "weapons\NewMagicStaves\steelstaffoffense.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 125
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End
+Item
+	ItemType = Staff
+	Name = "Staff"
+	Material = "White"
+	Icon = "Armor\defensivestaves\staffvarla.dds"
+	Model = "weapons\NewMagicStaves\solidwoodstaffwhiteoffense.NIF"
+	BasePrice = 900
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Staff"
+	Reach = 1.2
+	Speed = 1
+	Health = 750
+	Damage = 0
+	IgnoreResist = false
+	CustomType = "Staff"
+End

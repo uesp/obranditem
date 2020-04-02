@@ -1,0 +1,21 @@
+BaseItems = "D:\VCSource\Uesp\Oblivion\obranditem\baseitems.dat"
+Effects = "D:\VCSource\Uesp\Oblivion\obranditem\Effects.dat"
+Uniques = ""
+Options
+	OutputEsp = "testitems.esp"
+	IDPrefix = ""
+	IDType = Long
+	ItemMask = Armor | Clothing | Apparel | Misc | Scroll | Weapon | Staff | All
+	MinLevel = 1
+	MaxLevel = 100
+	NumItems = 100
+	RemoveDuplicates = false
+	UseBell = false
+	RandomBell = 50
+	ChanceNone = 10
+	PrefixChance = 0.25
+	SuffixChance = 0.5
+	UniqueChance = 0.25
+	CreateLevelLists = true
+	ListIDPrefix = ""
+End

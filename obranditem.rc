@@ -1,0 +1,1311 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\obranditem.ico"
+IDR_OBRANDTYPE          ICON    DISCARDABLE     "res\\obranditemDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    SEPARATOR
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New Project\tCtrl+N",        ID_FILE_NEW
+        MENUITEM "&Open Project...\tCtrl+O",    ID_FILE_OPEN
+        MENUITEM "&Save Project\tCtrl+S",       ID_FILE_SAVE
+        MENUITEM "Save Project &As...",         ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "Run &Batch...",               ID_FILE_RUNBATCH
+        MENUITEM SEPARATOR
+        MENUITEM "Save Mod File...",            ID_FILE_SAVEESP
+        MENUITEM SEPARATOR
+        MENUITEM "Recent File",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+        MENUITEM SEPARATOR
+        MENUITEM "&Options...",                 ID_VIEW_OPTIONS
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "SI Wiki Article at UESP",     ID_HELP_SIWIKIARTICLE
+        MENUITEM SEPARATOR
+        MENUITEM "&About obranditem...",        ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 84
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About obranditem"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "ObRandItem v0.57-Beta",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2006",IDC_STATIC,53,21,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+    LTEXT           "by Dave Humphrey\nuesp@sympatico.ca\nwww.uesp.net",
+                    IDC_STATIC,53,39,119,33
+END
+
+IDD_OBRANDITEM_FORM DIALOG DISCARDABLE  0, 0, 527, 259
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Tab1",IDC_TABCTRL,"SysTabControl32",TCS_FOCUSNEVER,0,2,
+                    527,257
+END
+
+IDD_ITEMVIEW DIALOGEX 0, 0, 528, 227
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_RECORDLIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_OWNERDATA | WS_TABSTOP,115,4,413,
+                    223,WS_EX_CLIENTEDGE
+    CONTROL         "Tree1",IDC_TREECTRL,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_SHOWSELALWAYS | 
+                    TVS_FULLROWSELECT | WS_TABSTOP,0,4,115,222,
+                    WS_EX_CLIENTEDGE
+END
+
+IDD_GENERATEVIEW DIALOG DISCARDABLE  0, 0, 402, 244
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON      "Generate New Items",IDC_GENERATE_BUTTON,305,199,73,16
+    GROUPBOX        "Data Files",IDC_STATIC,7,7,276,106
+    CONTROL         "Base Items .......",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,16,53,9
+    EDITTEXT        IDC_BASEITEMS_TEXT,66,15,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_BASEITEMS,220,15,48,12
+    CONTROL         "Effects .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,31,53,9
+    EDITTEXT        IDC_EFFECTS_TEXT,66,30,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_EFFECTS,220,30,48,12
+    CONTROL         "Uniques ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,47,53,9
+    EDITTEXT        IDC_UNIQUES_TEXT,66,45,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_UNIQUES,220,45,48,12
+    GROUPBOX        "Statistics",IDC_STATIC,286,7,109,106
+    CONTROL         "Base Items ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,17,39,9
+    EDITTEXT        IDC_BASEITEM_COUNT,336,15,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Suffixes .....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,48,39,9
+    EDITTEXT        IDC_SUFFIX_COUNT,336,46,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Prefixes .....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,32,39,9
+    EDITTEXT        IDC_PREFIX_COUNT,336,30,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Uniques .....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,63,39,9
+    EDITTEXT        IDC_UNIQUES_COUNT,336,61,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "New Items .",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,78,39,9
+    EDITTEXT        IDC_NEWITEMS_COUNT,336,76,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    GROUPBOX        "Random Options",IDC_STATIC,7,115,100,57
+    CONTROL         "Prefix Chance ...",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,126,53,9
+    EDITTEXT        IDC_PREFIX_CHANCE,66,124,29,12,ES_AUTOHSCROLL
+    CONTROL         "Suffix Chance ...",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,140,53,9
+    EDITTEXT        IDC_SUFFIX_CHANCE,66,139,29,12,ES_AUTOHSCROLL
+    CONTROL         "Unique Chance ",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,13,156,53,9
+    EDITTEXT        IDC_UNIQUE_CHANCE,66,154,29,12,ES_AUTOHSCROLL
+    CONTROL         "%",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,96,
+                    126,8,9
+    CONTROL         "%",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,96,
+                    142,8,9
+    CONTROL         "%",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,96,
+                    156,8,9
+    GROUPBOX        "Generate Items",IDC_STATIC,286,174,109,63
+    CONTROL         "Progress1",IDC_PROGRESSBAR,"msctls_progress32",
+                    PBS_SMOOTH,290,186,100,11
+    CONTROL         "ID Prefix ...............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,290,128,44,9
+    EDITTEXT        IDC_IDPREFIX_TEXT,335,125,54,12,ES_AUTOHSCROLL
+    CONTROL         "ID Type ................",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,290,142,44,9
+    COMBOBOX        IDC_IDTYPE_LIST,335,140,56,87,CBS_DROPDOWNLIST | 
+                    CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "ID/Name Options",IDC_STATIC,286,115,109,57
+    EDITTEXT        IDC_NUMITEMS_TEXT,163,141,30,12,ES_AUTOHSCROLL
+    CONTROL         "Level Range .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,116,127,47,9
+    EDITTEXT        IDC_MINLEVEL_TEXT,165,124,19,12,ES_AUTOHSCROLL
+    CONTROL         "to",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,
+                    187,126,8,9
+    EDITTEXT        IDC_MAXLEVEL_TEXT,197,124,19,12,ES_AUTOHSCROLL
+    GROUPBOX        "Generation Options",IDC_STATIC,110,115,173,122
+    CONTROL         "Armor ............",IDC_ARMOR_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,158,46,9
+    CONTROL         "Scrolls ...........",IDC_SCROLL_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,210,46,9
+    CONTROL         "Weapons ......",IDC_WEAPON_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,201,170,46,9
+    CONTROL         "Clothing .........",IDC_CLOTHING_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,171,46,9
+    GROUPBOX        "Level List Options",IDC_STATIC,7,175,100,27
+    CONTROL         "Create Level Lists",IDC_CREATELIST_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,13,189,82,9
+    CONTROL         "Misc ..............",IDC_MISC_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,197,46,9
+    CONTROL         "Staffs ............",IDC_STAFF_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,201,157,46,9
+    CONTROL         "Output File ........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,78,53,9
+    EDITTEXT        IDC_ESPFILE_TEXT,66,76,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_ESPFILE,220,76,48,12
+    CONTROL         "Level Lists ........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,13,62,53,9
+    EDITTEXT        IDC_LEVELLISTS_TEXT,66,60,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_LEVELLISTS,220,60,48,12
+    CONTROL         "Level Lists .",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,295,94,39,9
+    EDITTEXT        IDC_LEVELLIST_COUNT,336,92,39,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Merged ESP ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,13,94,53,9
+    EDITTEXT        IDC_MERGEDESPFILE_TEXT,66,92,153,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Browse...",IDC_BROWSE_MERGEDESPFILE,220,92,48,12
+    EDITTEXT        IDC_ARMORCOUNT_TEXT,163,156,30,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_CLOTHINGCOUNT_TEXT,163,169,30,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MISCCOUNT_TEXT,163,195,30,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SCROLLCOUNT_TEXT,163,208,30,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_STAFFCOUNT_TEXT,250,155,30,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_WEAPONCOUNT_TEXT,250,168,30,12,ES_AUTOHSCROLL
+    CONTROL         "Num Items .....",IDC_ITEMS_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,143,46,9
+    CONTROL         "Light ..........",IDC_LIGHT_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,114,184,46,9
+    EDITTEXT        IDC_LIGHTCOUNT_TEXT,163,182,30,12,ES_AUTOHSCROLL
+    CONTROL         "",IDC_STATIC,"Static",SS_BLACKFRAME | SS_SUNKEN,196,156,
+                    1,79
+    CONTROL         "Sigil Stone ",IDC_SIGIL_CHECK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,114,223,46,9
+    EDITTEXT        IDC_SIGILLCOUNT_TEXT,163,221,30,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Extended Options...",IDC_OPTIONS_BUTTON,19,214,73,16
+    PUSHBUTTON      "Generate More Items",IDC_GENERATEMORE_BUTTON,305,217,73,
+                    16
+    CONTROL         "Ext. ID ..........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,290,159,44,9
+    EDITTEXT        IDC_EXTID_TEXT,335,156,54,12,ES_AUTOHSCROLL
+END
+
+IDD_ERRORVIEW DIALOG DISCARDABLE  0, 0, 267, 50
+STYLE WS_CHILD
+FONT 10, "Courier New"
+BEGIN
+    EDITTEXT        IDC_ERRORTEXT,0,0,267,49,ES_MULTILINE | ES_READONLY | 
+                    NOT WS_BORDER | WS_VSCROLL
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,5,7,0
+ PRODUCTVERSION 0,5,7,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "obranditem MFC Application\0"
+            VALUE "FileVersion", "0, 5, 7, 0\0"
+            VALUE "InternalName", "obranditem\0"
+            VALUE "LegalCopyright", "Copyright (C) 2006\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "obranditem.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "obranditem Application\0"
+            VALUE "ProductVersion", "0, 5, 7, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 77
+    END
+
+    IDD_OBRANDITEM_FORM, DIALOG
+    BEGIN
+        TOPMARGIN, 2
+    END
+
+    IDD_ITEMVIEW, DIALOG
+    BEGIN
+        TOPMARGIN, 4
+    END
+
+    IDD_GENERATEVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 395
+        VERTGUIDE, 13
+        VERTGUIDE, 66
+        VERTGUIDE, 141
+        VERTGUIDE, 166
+        VERTGUIDE, 337
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 237
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "ObRandItem\n\nObranditem\nObRandItem Files (*.obri)\n.obri\nObranditem.Document\nObrand Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "obranditem"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new project\nNew Project"
+    ID_FILE_OPEN            "Open an existing project\nOpenProject"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active project\nSave Project"
+    ID_FILE_SAVE_AS         "Save the active project with a new name\nSave Project As"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_HELP_SIWIKIARTICLEATUESP 
+                            "Open a web browser to a Wiki article at www.uesp.net.\nWiki Article at UESP"
+    ID_FILE_SAVEESP         "Save the generated items to a plugin file\nSave Mod File..."
+    ID_VIEW_OPTIONS         "Display the extended options dialog.\n&Options"
+    ID_FILE_RUNBATCH        "Run a batch of project files in series.\nRun &Batch..."
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (Canada) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENC)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\obranditem.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_LIST_MENU MENU DISCARDABLE 
+BEGIN
+    POPUP "ListMenu"
+    BEGIN
+        MENUITEM "Generation Details...",       ID_LISTMENU_GENERATIONDETAILS
+
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_LVLI_DLG DIALOGEX 0, 0, 373, 207
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Level List --"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,58,22,107,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID ..........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,49,9
+    CONTROL         "Calculate from all levels <= PC's level",
+                    IDC_CALCULATEALL,"Button",BS_AUTOCHECKBOX | WS_DISABLED | 
+                    WS_TABSTOP,174,7,132,11
+    CONTROL         "Calculate for each item in count",IDC_CALCULATEEACH,
+                    "Button",BS_AUTOCHECKBOX | WS_DISABLED | WS_TABSTOP,174,
+                    21,130,11
+    EDITTEXT        IDC_CHANCENONE,58,38,49,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Chance None ..",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,39,49,9
+    CONTROL         "List1",IDC_ITEM_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_TABSTOP,7,55,359,
+                    145,WS_EX_CLIENTEDGE
+    EDITTEXT        IDC_FORMID2,58,7,50,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,9,49,9
+    EDITTEXT        IDC_USERDATA,212,38,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,174,40,35,9
+END
+
+IDD_ENCH_DLG DIALOGEX 0, 0, 408, 207
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Enchantment -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,351,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,351,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,58,22,107,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID ..........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,24,49,9
+    CONTROL         "Auto Calculate",IDC_AUTOCALC,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,7,62,11
+    EDITTEXT        IDC_TYPE,202,22,49,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Type ...",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,174,24,26,9
+    CONTROL         "List1",IDC_EFFECT_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_TABSTOP,7,41,394,
+                    159,WS_EX_CLIENTEDGE
+    EDITTEXT        IDC_CHARGE,290,7,34,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Charge",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,264,9,24,9
+    EDITTEXT        IDC_COST,290,22,34,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Cost ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,264,23,24,9
+    EDITTEXT        IDC_FORMID,58,7,50,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,9,49,9
+END
+
+IDD_WEAP_DLG DIALOG DISCARDABLE  0, 0, 373, 177
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Weapon -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,24,48,9
+    CONTROL         "Ignores Normal Weapon Resistance",IDC_IGNORERESIST,
+                    "Button",BS_AUTOCHECKBOX | WS_DISABLED | WS_TABSTOP,174,
+                    7,132,11
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,40,48,9
+    EDITTEXT        IDC_TYPE,56,52,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Type ..............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,54,48,9
+    EDITTEXT        IDC_WEIGHT,56,127,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,129,48,9
+    EDITTEXT        IDC_VALUE,56,142,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,143,48,9
+    EDITTEXT        IDC_HEALTH,56,158,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Health ............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,158,48,9
+    EDITTEXT        IDC_DAMAGE,165,127,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Damage ..",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,128,129,35,9
+    EDITTEXT        IDC_SPEED,165,142,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Speed .....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,128,145,35,9
+    EDITTEXT        IDC_REACH,165,158,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Reach .....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,128,160,35,9
+    EDITTEXT        IDC_ENCHANTMENT,56,73,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Enchantment",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,74,48,9
+    EDITTEXT        IDC_ENCHANTCHARGE,56,87,46,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Charge ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,89,48,9
+    EDITTEXT        IDC_SCRIPT,56,108,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,110,48,9
+    PUSHBUTTON      "...",IDC_EDIT_ENCHANTMENT,150,73,14,12
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,108,14,12
+    EDITTEXT        IDC_MODEL,237,57,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Model .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,59,31,9
+    EDITTEXT        IDC_ICONTEXT,237,74,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,76,31,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    EDITTEXT        IDC_USERDATA,321,158,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,283,160,35,9
+END
+
+IDD_ARMO_DLG DIALOG DISCARDABLE  0, 0, 373, 201
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Armor -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,48,9
+    CONTROL         "Playable",IDC_PLAYABLE,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,240,7,44,11
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,39,48,9
+    EDITTEXT        IDC_TYPE,56,74,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Type ..............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,76,48,9
+    EDITTEXT        IDC_WEIGHT,56,137,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,139,48,9
+    EDITTEXT        IDC_VALUE,56,152,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,153,48,9
+    EDITTEXT        IDC_ARMOR,56,167,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Armor ............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,168,48,9
+    EDITTEXT        IDC_HEALTH,56,182,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Health ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,184,46,9
+    EDITTEXT        IDC_ENCHANTMENT,56,94,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Enchantment",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,95,48,9
+    EDITTEXT        IDC_SCRIPT,56,115,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,117,48,9
+    PUSHBUTTON      "...",IDC_EDIT_ENCHANTMENT,150,94,14,12
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,115,14,12
+    EDITTEXT        IDC_MALEWORLD,231,100,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "World Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,102,42,9
+    EDITTEXT        IDC_MALEICON,231,114,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,185,116,42,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    CONTROL         "Hide Rings",IDC_HIDERINGS,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,23,52,11
+    CONTROL         "Hide Amulet",IDC_HIDEAMULET,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,7,52,11
+    GROUPBOX        "Male",IDC_STATIC,174,73,192,59
+    EDITTEXT        IDC_MALEBIPED,231,84,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Biped Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,87,42,9
+    EDITTEXT        IDC_FEMALEWORLD,231,162,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "World Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,164,42,9
+    EDITTEXT        IDC_FEMALEICON,231,177,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Icon .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,185,178,42,9
+    GROUPBOX        "Female",IDC_STATIC,174,135,192,59
+    EDITTEXT        IDC_FEMALEBIPED,231,146,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Biped Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,149,42,9
+    EDITTEXT        IDC_BIPEDPARTS,56,56,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Biped Parts ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,57,48,9
+    EDITTEXT        IDC_USERDATA3,313,58,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,276,60,35,9
+END
+
+IDD_CLOT_DLG DIALOG DISCARDABLE  0, 0, 373, 201
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Clothing -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,48,9
+    CONTROL         "Playable",IDC_PLAYABLE,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,240,7,44,11
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,39,48,9
+    EDITTEXT        IDC_WEIGHT,56,120,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,122,48,9
+    EDITTEXT        IDC_VALUE,56,135,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,136,48,9
+    EDITTEXT        IDC_ENCHANTMENT,56,77,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Enchantment",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,78,48,9
+    EDITTEXT        IDC_SCRIPT,56,98,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,100,48,9
+    PUSHBUTTON      "...",IDC_EDIT_ENCHANTMENT,150,77,14,12
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,98,14,12
+    EDITTEXT        IDC_MALEWORLD,231,100,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "World Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,102,42,9
+    EDITTEXT        IDC_MALEICON,231,114,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,185,116,42,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    CONTROL         "Hide Rings",IDC_HIDERINGS,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,23,52,11
+    CONTROL         "Hide Amulet",IDC_HIDEAMULET,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,7,52,11
+    GROUPBOX        "Male",IDC_STATIC,174,73,192,59
+    EDITTEXT        IDC_MALEBIPED,231,84,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Biped Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,87,42,9
+    EDITTEXT        IDC_FEMALEWORLD,231,162,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "World Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,164,42,9
+    EDITTEXT        IDC_FEMALEICON,231,177,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Icon .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,185,178,42,9
+    GROUPBOX        "Female",IDC_STATIC,174,135,192,59
+    EDITTEXT        IDC_FEMALEBIPED,231,146,129,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "Biped Model",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,185,149,42,9
+    EDITTEXT        IDC_BIPEDPARTS,56,56,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Biped Parts ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,57,48,9
+    EDITTEXT        IDC_USERDATA2,56,156,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,158,46,9
+END
+
+IDD_MISC_DLG DIALOG DISCARDABLE  0, 0, 373, 110
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Misc -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,48,9
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,39,48,9
+    EDITTEXT        IDC_WEIGHT,56,75,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,77,48,9
+    EDITTEXT        IDC_VALUE,56,90,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,91,48,9
+    EDITTEXT        IDC_SCRIPT,56,56,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,58,48,9
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,56,14,12
+    EDITTEXT        IDC_MODEL,237,57,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Model .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,59,31,9
+    EDITTEXT        IDC_ICONTEXT,237,74,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,76,31,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    EDITTEXT        IDC_USERDATA,237,90,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,92,31,9
+END
+
+IDD_SCPT_DLG DIALOG DISCARDABLE  0, 0, 373, 226
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Script -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",-1,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,23,48,9
+    EDITTEXT        IDC_TYPE,223,7,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Type ......",-1,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,
+                    189,9,33,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",-1,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,8,47,9
+    EDITTEXT        IDC_TEXT,7,42,359,177,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_READONLY | WS_VSCROLL
+END
+
+IDD_BOOK_DLG DIALOG DISCARDABLE  0, 0, 373, 226
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Book -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,48,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    EDITTEXT        IDC_TEXT,7,120,359,99,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_READONLY | WS_VSCROLL
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,39,48,9
+    EDITTEXT        IDC_WEIGHT2,56,88,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,90,48,9
+    EDITTEXT        IDC_VALUE2,56,103,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,104,48,9
+    EDITTEXT        IDC_ENCHANTMENT,56,54,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Enchantment",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,55,48,9
+    EDITTEXT        IDC_SCRIPT,56,70,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,72,48,9
+    PUSHBUTTON      "...",IDC_EDIT_ENCHANTMENT,150,54,14,12
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,70,14,12
+    CONTROL         "Scroll",IDC_SCROLL,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,174,7,52,11
+    EDITTEXT        IDC_MODEL,237,54,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Model .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,56,31,9
+    EDITTEXT        IDC_ICONTEXT,237,71,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,73,31,9
+    EDITTEXT        IDC_USERDATA,165,103,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,120,105,42,9
+    EDITTEXT        IDC_TEACHES,165,88,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Teaches ........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,118,88,46,9
+END
+
+IDD_LIGH_DLG DIALOG DISCARDABLE  0, 0, 373, 222
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Light -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,316,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,316,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,56,22,109,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID .........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,23,48,9
+    EDITTEXT        IDC_NAME,56,38,155,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Name .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,39,48,9
+    EDITTEXT        IDC_WEIGHT,56,75,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,77,48,9
+    EDITTEXT        IDC_VALUE,56,90,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,91,48,9
+    EDITTEXT        IDC_SCRIPT,56,56,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,58,48,9
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,150,56,14,12
+    EDITTEXT        IDC_MODEL,237,56,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Model .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,58,31,9
+    EDITTEXT        IDC_ICONTEXT,237,71,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,73,31,9
+    EDITTEXT        IDC_FORMID,56,7,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,8,47,9
+    EDITTEXT        IDC_USERDATA,237,106,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Level .........",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,108,31,9
+    EDITTEXT        IDC_SOUNDTEXT,237,86,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Sound ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,203,89,31,9
+    EDITTEXT        IDC_FLICKER,56,124,64,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Flicker ............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,126,48,9
+    EDITTEXT        IDC_TIME,56,105,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Time .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,106,48,9
+    EDITTEXT        IDC_FALLOFF,56,139,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Falloff .............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,140,48,9
+    EDITTEXT        IDC_FOV,56,153,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "FOV ...............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,155,48,9
+    EDITTEXT        IDC_RADIUS,56,167,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Radius ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,169,48,9
+    EDITTEXT        IDC_COLOR,56,186,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Color ..............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,188,48,9
+    EDITTEXT        IDC_FADE,56,203,46,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Fade ..............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,204,48,9
+    CONTROL         "Carried",IDC_CARRIED,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,134,78,8
+    CONTROL         "Default Off",IDC_DEFAULTOFF,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,147,78,8
+    CONTROL         "Negative",IDC_NEGATIVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,160,78,8
+    CONTROL         "Dynamic",IDC_DYNAMIC,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,173,78,8
+    CONTROL         "Spot Light",IDC_SPOTLIGHT,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,186,78,8
+    CONTROL         "Spot Shadow",IDC_SPOTSHADOW,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,237,199,78,8
+END
+
+IDD_SGST_DLG DIALOGEX 0, 0, 408, 207
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Sigil Stone -- "
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,351,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,351,24,50,14,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDITORID,58,22,107,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Editor ID ..........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,24,49,9
+    EDITTEXT        IDC_USES,215,7,41,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Uses ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,187,9,26,9
+    CONTROL         "List1",IDC_EFFECT_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_TABSTOP,7,70,394,
+                    130,WS_EX_CLIENTEDGE
+    EDITTEXT        IDC_WEIGHT,303,7,41,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Weight",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,275,9,24,9
+    EDITTEXT        IDC_VALUE,303,22,41,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Value ....",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,275,24,24,9
+    EDITTEXT        IDC_FORMID,58,7,50,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Form ID ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,9,49,9
+    EDITTEXT        IDC_ITEMNAME,58,38,107,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Item Name ......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,40,49,9
+    EDITTEXT        IDC_SCRIPT,58,54,93,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Script ..............",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,56,51,9
+    PUSHBUTTON      "...",IDC_EDIT_SCRIPT,152,54,14,12
+    EDITTEXT        IDC_MODEL,215,39,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Model .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,181,41,31,9
+    EDITTEXT        IDC_ICONTEXT,215,54,129,12,ES_AUTOHSCROLL | ES_READONLY
+    CONTROL         "Icon .......",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,181,56,31,9
+END
+
+IDD_OPTIONS_DLG DIALOG DISCARDABLE  0, 0, 300, 175
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Extended Options"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,243,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,243,24,50,14
+    CONTROL         "Random Bell",IDC_RANDOMBELL_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,9,53,9
+    EDITTEXT        IDC_RANDOMBELL_TEXT,61,7,36,12,ES_AUTOHSCROLL
+    CONTROL         "Remove Normal Items",IDC_REMOVENORMAL_CHECK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,127,36,90,9
+    CONTROL         "Name Length ...",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,34,52,9
+    EDITTEXT        IDC_MAXNAMELENGTH_TEXT,61,31,36,12,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    CONTROL         "Remove Duplicates",IDC_REMOVEDUPLICATES_CHECK,"Button",
+                    BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,127,7,90,8
+    CONTROL         "Check Duplicates",IDC_CHECKUPLICATES_CHECK,"Button",
+                    BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,127,21,84,10
+    CONTROL         "Name Delimiter .",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,50,52,9
+    EDITTEXT        IDC_NAMEDELIMITER_TEXT,61,47,36,12,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    CONTROL         "Of String ...........",IDC_STATIC,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,65,52,9
+    EDITTEXT        IDC_OFSTRING_TEXT,61,62,36,12,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Hide Prefix2",IDC_HIDEPREFIX2_CHECK,"Button",
+                    BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,7,96,90,8
+    CONTROL         "Create List Parents",IDC_CREATELISTPARENTS_CHECK,"Button",
+                    BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,7,127,90,8
+    CONTROL         "Material Chance",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | 
+                    WS_GROUP,7,80,52,9
+    EDITTEXT        IDC_MATERIALCHANCE_TEXT,61,77,36,12,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    CONTROL         "%",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,97,
+                    79,9,9
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_LVLI_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 58
+        VERTGUIDE, 174
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 200
+    END
+
+    IDD_ENCH_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 401
+        VERTGUIDE, 58
+        VERTGUIDE, 174
+        VERTGUIDE, 264
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 200
+        HORZGUIDE, 34
+    END
+
+    IDD_WEAP_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 170
+    END
+
+    IDD_ARMO_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_CLOT_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_MISC_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 103
+    END
+
+    IDD_SCPT_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 219
+    END
+
+    IDD_BOOK_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 219
+    END
+
+    IDD_LIGH_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 366
+        VERTGUIDE, 56
+        VERTGUIDE, 102
+        VERTGUIDE, 120
+        VERTGUIDE, 165
+        VERTGUIDE, 174
+        VERTGUIDE, 211
+        VERTGUIDE, 237
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 215
+        HORZGUIDE, 57
+    END
+
+    IDD_SGST_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 401
+        VERTGUIDE, 58
+        VERTGUIDE, 174
+        VERTGUIDE, 215
+        VERTGUIDE, 303
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 200
+    END
+
+    IDD_OPTIONS_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 293
+        VERTGUIDE, 61
+        VERTGUIDE, 97
+        VERTGUIDE, 127
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 168
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_LISTMENU_GENERATIONDETAILS 
+                            "View details of item generation.\nGeneration Details..."
+END
+
+#endif    // English (Canada) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\obranditem.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,574 @@
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Iron"
+	Icon = "Weapons\IronMace.dds"
+	Model = "Weapons\Iron\Mace.NIF"
+	BasePrice = 17
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 27
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 375
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Iron"
+	Icon = "Weapons\IronWarAxe.dds"
+	Model = "Weapons\Iron\WarAxe.NIF"
+	BasePrice = 13
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 23
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 350
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Wooden"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerWood.nif"
+	BasePrice = 800
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.9
+	Speed = 1.0
+	Health = 425
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Steel"
+	Icon = "Weapons\SteelMace.dds"
+	Model = "Weapons\Steel\Mace.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 26
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 350
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Steel"
+	Icon = "Weapons\SteelWarAxe.dds"
+	Model = "Weapons\Steel\WarAxe.NIF"
+	BasePrice = 35
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 325
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Silver"
+	Icon = "Weapons\SilverMace.dds"
+	Model = "Weapons\Silver\Mace.NIF"
+	BasePrice = 70
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 29
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 425
+	Damage = 15
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Silver"
+	Icon = "Weapons\SilverWarAxe.dds"
+	Model = "Weapons\Silver\WarAxe.NIF"
+	BasePrice = 60
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 400
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Plated"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerCopper.nif"
+	BasePrice = 1100
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.9
+	Speed = 0.9
+	Health = 450
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenWarAxe.dds"
+	Model = "Weapons\Dwarven\WarAxe.NIF"
+	BasePrice = 165
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 33
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 450
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenMace.dds"
+	Model = "Weapons\Dwarven\Mace.NIF"
+	BasePrice = 180
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 475
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerFineWood.nif"
+	BasePrice = 1500
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 33
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 475
+	Damage = 17
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Elven"
+	Icon = "Weapons\ElvenMace.dds"
+	Model = "Weapons\Elven\Mace.NIF"
+	BasePrice = 380
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 19
+	EnchantPoints = 450
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 300
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Elven"
+	Icon = "Weapons\ElvenWaraxe.dds"
+	Model = "Weapons\Elven\Waraxe.NIF"
+	BasePrice = 345
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 16
+	EnchantPoints = 500
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 275
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Icon = "Weapons\Braided\bmace.dds"
+	Model = "Weapons\Braided\bmace.nif"
+	BasePrice = 380
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 300
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Icon = "Weapons\Braided\bwaraxe.dds"
+	Model = "Weapons\Braided\bwaraxe.nif"
+	BasePrice = 345
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 1.1
+	Speed = 0.9
+	Health = 340
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Glass"
+	Icon = "Weapons\GlassMace.dds"
+	Model = "Weapons\Glass\Mace.NIF"
+	BasePrice = 750
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 250
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Glass"
+	Icon = "Weapons\GlassWarAxe.dds"
+	Model = "Weapons\Glass\WarAxe.NIF"
+	BasePrice = 710
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 225
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyMace.dds"
+	Model = "Weapons\Ebony\Mace.NIF"
+	BasePrice = 1500
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 41
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 575
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyWarAxe.dds"
+	Model = "Weapons\Ebony\WarAxe.NIF"
+	BasePrice = 1450
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 38
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 550
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mauler"
+	Material = "Steel"
+	Icon = "Weapons\club.dds"
+	Model = "weapons\templar\club\TheMaulerSteel.nif"
+	BasePrice = 1900
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 38
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.9
+	Speed = 0.8
+	Health = 550
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricMace.dds"
+	Model = "Weapons\Daedric\Mace.NIF"
+	BasePrice = 3200
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 45
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.85
+	Speed = 0.9
+	Health = 675
+	Damage = 25
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricWarAxe.dds"
+	Model = "Weapons\Daedric\WarAxe.NIF"
+	BasePrice = 3100
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 650
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Sephis Axe"
+	Icon = "SephisTanzit\icontdaSephisAxe.dds"
+	Model = "SephisTanzit\SephisAxe\tda_SephisAxe.NIF"
+	BasePrice = 3100
+	ItemLevel = 25
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 36
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.05
+	Health = 750
+	Damage = 26
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Hammer"
+	Material = "Steel"
+	Icon = "RD\rdsteelhammer.dds"
+	Model = "RD\rdsil1hhammer.NIF"
+	BasePrice = 100
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 275
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Iron"
+	Icon = "RD\rdironbeard.dds"
+	Model = "RD\rd1hironbeardaxe.NIF"
+	BasePrice = 28
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 325
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Mithril"
+	Icon = "RD\rdmithaxe.dds"
+	Model = "RD\rdmithrilaxe.NIF"
+	BasePrice = 200
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 375
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Steel"
+	Icon = "RD\rdsteelbeard.dds"
+	Model = "RD\rd1hsteelbeardaxe.NIF"
+	BasePrice = 85
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 17
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 0.9
+	Speed = 1.15
+	Health = 275
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Icon = "Weapons\Noble Plate\noble mace.dds"
+	Model = "Weapons\Noble Plate\Noblemace.nif"
+	BasePrice = 775
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 19
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 500
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Icon = "Weapons\Noble Plate\noble waraxe.dds"
+	Model = "Weapons\Noble Plate\noblewaraxe.nif"
+	BasePrice = 725
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blunt One Hand"
+	Reach = 1.05
+	Speed = 1.1
+	Health = 475
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "War Axe"
+End

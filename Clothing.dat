@@ -1,0 +1,3064 @@
+#############################################
+##     Clothing - Hoods (Hair)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC01\hood.dds"
+	MBModel = "Clothes\RobeUC01\hood.NIF"
+	MWModel = "Clothes\RobeUC01\hood_gnd.NIF"
+	FIcon = "Clothes\RobeUC01\hood.dds"
+	FBModel = "Clothes\RobeUC01\hood.NIF"
+	FWModel = "Clothes\RobeUC01\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC02\hood.dds"
+	MBModel = "Clothes\RobeUC02\hood.NIF"
+	MWModel = "Clothes\RobeUC02\hood_gnd.NIF"
+	FIcon = "Clothes\RobeUC02\hood.dds"
+	FBModel = "Clothes\RobeUC02\hood.NIF"
+	FWModel = "Clothes\RobeUC02\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC01\hood.dds"
+	MBModel = "Clothes\RobeLC01\hood.NIF"
+	MWModel = "Clothes\RobeLC01\hood_gnd.NIF"
+	FIcon = "Clothes\RobeLC01\hood.dds"
+	FBModel = "Clothes\RobeLC01\hood.NIF"
+	FWModel = "Clothes\RobeLC01\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC02\hood.dds"
+	MBModel = "Clothes\RobeLC02\hood.NIF"
+	MWModel = "Clothes\RobeLC02\hood_gnd.NIF"
+	FIcon = "Clothes\RobeLC02\hood.dds"
+	FBModel = "Clothes\RobeLC02\hood.NIF"
+	FWModel = "Clothes\RobeLC02\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC03\hood.dds"
+	MBModel = "Clothes\RobeLC03\hood.NIF"
+	MWModel = "Clothes\RobeLC03\hood_gnd.NIF"
+	FIcon = "Clothes\RobeLC03\hood.dds"
+	FBModel = "Clothes\RobeLC03\hood.NIF"
+	FWModel = "Clothes\RobeLC03\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLCGrey\hood.dds"
+	MBModel = "Clothes\RobeLCGrey\Hood.NIF"
+	MWModel = "Clothes\RobeLCGrey\hood_gnd.NIF"
+	FIcon = "Clothes\RobeLCGrey\hood.dds"
+	FBModel = "Clothes\RobeLCGrey\Hood.NIF"
+	FWModel = "Clothes\RobeLCGrey\hood_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMCBlack\hood.dds"
+	FIcon = "Clothes\RobeMCBlack\hood.dds"
+	MBModel = "Clothes\RobeMCBlack\Hood.NIF"
+	MWModel = "Clothes\RobeMCBlack\hood_gnd.NIF"
+	FBModel = "Clothes\RobeMCBlack\Hood.NIF"
+	FWModel = "Clothes\RobeMCBlack\hood_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMage\hood.dds"
+	MBModel = "Clothes\RobeMage\Hood.NIF"
+	MWModel = "Clothes\RobeMage\hood_gnd.NIF"
+	FIcon = "Clothes\RobeMage\hood.dds"
+	FBModel = "Clothes\RobeMage\Hood.NIF"
+	FWModel = "Clothes\RobeMage\hood_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMageArch\hood.dds"
+	MBModel = "Clothes\RobeMageArch\Hood.NIF"
+	MWModel = "Clothes\RobeMageArch\hood_gnd.NIF"
+	FIcon = "Clothes\RobeMageArch\hood.dds"
+	FBModel = "Clothes\RobeMageArch\Hood.NIF"
+	FWModel = "Clothes\RobeMageArch\hood_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeKingWorm\hood.dds"
+	MBModel = "Clothes\RobeKingWorm\Hood.NIF"
+	MWModel = "Clothes\RobeKingWorm\hood_gnd.NIF"
+	FIcon = "Clothes\RobeKingWorm\hood.dds"
+	FBModel = "Clothes\RobeKingWorm\Hood.NIF"
+	FWModel = "Clothes\RobeKingWorm\hood_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeNecromancer\hood.dds"
+	MBModel = "Clothes\RobeNecromancer\Hood.NIF"
+	MWModel = "Clothes\RobeNecromancer\hood_gnd.NIF"
+	FIcon = "Clothes\RobeNecromancer\hood.dds"
+	FBModel = "Clothes\RobeNecromancer\Hood.NIF"
+	FWModel = "Clothes\RobeNecromancer\hood_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\MythicDawnrobe\hood.dds"
+	MBModel = "Clothes\MythicDawnrobe\Hood.NIF"
+	MWModel = "Clothes\MythicDawnrobe\hood_gnd.NIF"
+	FIcon = "Clothes\MythicDawnrobe\hood.dds"
+	FBModel = "Clothes\MythicDawnrobe\Hood.NIF"
+	FWModel = "Clothes\MythicDawnrobe\hood_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+
+
+
+#############################################
+##     Clothing - Shirts (Upper Body)      ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtShopkeeper\M\MCShirtShopkeeper.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtShopkeeper\F\MCShirtShopkeeper.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtShopkeeper\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtShopkeeper\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtShopkeeper\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtShopkeeper\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\12\M\Shirt12M.dds"
+	FIcon = "Clothes\LowerClass\12\F\Shirt12F.dds"
+	MBModel = "Clothes\LowerClass\12\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\12\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\12\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\12\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSuspender\M\MCShirtSuspender.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtSuspender\F\MCShirtSuspender.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\UpperClass\UCShirtHighway\Shirt.dds"
+	FIcon = "Clothes\UpperClass\UCShirtHighway\Shirt.dds"
+	MBModel = "Clothes\UpperClass\UCShirtHighway\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\UCShirtHighway\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCShirtHighway\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\UCShirtHighway\M\Shirt_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Silk"
+	MIcon = "Clothes\UpperClass\UCCountCountess\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\UCCountCountess\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\UCCountCountess\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\UCCountCountess\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCCountCountess\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\UCCountCountess\F\Shirt_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\LCShirtBeggar\M\LCShirtBeggar.dds"
+	FIcon = "Clothes\LowerClass\LCShirtBeggar\M\LCShirtBeggar.dds"
+	MBModel = "Clothes\LowerClass\LCBeggar\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\LCBeggar\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\LCBeggar\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\LCBeggar\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSneaky\M\MCShirtSneaky.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtSneaky\M\MCShirtSneaky.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSneaky\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSneaky\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSneaky\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSneaky\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtForester\M\MCShirtForester.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtForester\M\MCShirtForester.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtForester\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtForester\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtForester\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtForester\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtHobbit\M\MCShirtHobbit.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtHobbit\M\MCShirtHobbit.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtHobbit\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtHobbit\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtHobbit\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtHobbit\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSuspender\M\MCShirtSuspender.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtSuspender\F\MCShirtSuspender.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\13\M\Shirt13M.dds"
+	FIcon = "Clothes\LowerClass\13\F\Shirt13F.dds"
+	MBModel = "Clothes\LowerClass\13\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\13\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\13\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\13\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Wool"
+	MIcon = "Clothes\LowerClass\11\M\Shirt11M.dds"
+	FIcon = "Clothes\LowerClass\11\F\Shirt11F.dds"
+	MBModel = "Clothes\LowerClass\11\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\11\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\11\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\11\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\07\M\Shirt07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\07\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\06\M\Shirt06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\06\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Linen"
+	MIcon = "Clothes\MiddleClass\04\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Linen"
+	MIcon = "Clothes\LowerClass\04\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\04\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\01\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\02\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\02\M\Shirt.dds"
+	MBModel = "Clothes\LowerClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Tunic"
+	Material = "Flax"
+	MIcon = "Clothes\LowerClass\15\M\Shirt15M.dds"
+	FIcon = "Clothes\LowerClass\15\F\Shirt15F.dds"
+	MBModel = "Clothes\LowerClass\15\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\15\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\15\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\15\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Doublet"
+	Material = "Brocade"
+	MIcon = "Clothes\UpperClass\01\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\01\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\01\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Shirt_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Blouse"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\04\M\shirt.dds"
+	FIcon = "Clothes\UpperClass\04\F\shirt.dds"
+	MBModel = "Clothes\UpperClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Burlap"
+	MIcon = "Clothes\LowerClass\14\M\Shirt14M.dds"
+	FIcon = "Clothes\LowerClass\14\F\Shirt14F.dds"
+	MBModel = "Clothes\LowerClass\14\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\14\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\14\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\14\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\12\M\Shirt12M.dds"
+	FIcon = "Clothes\LowerClass\12\F\Shirt12F.dds"
+	MBModel = "Clothes\LowerClass\12\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\12\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\12\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\12\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\10\M\Shirt10M.dds"
+	FIcon = "Clothes\LowerClass\10\F\Shirt10F.dds"
+	MBModel = "Clothes\LowerClass\10\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\10\M\shirt_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\10\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\10\F\shirt_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\08\M\Shirt08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Shirt08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Shirt_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\08\F\Shirt_GND.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\03\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\03\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Doublet"
+	MIcon = "Clothes\MiddleClass\02\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+
+
+
+#############################################
+##    Clothing - Robes (Upper/Lower Body)  ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\MonkWhite\Shirt.dds"
+	MBModel = "Clothes\MonkWhite\M\Shirt.NIF"
+	MWModel = "Clothes\MonkWhite\M\Shirt_Gnd.NIF"
+	FIcon = "Clothes\MonkWhite\Shirt.dds"
+	FBModel = "Clothes\MonkWhite\M\Shirt.NIF"
+	FWModel = "Clothes\MonkWhite\M\Shirt_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC02\RobeUC02.dds"
+	FIcon = "Clothes\RobeUC02\RobeUC02.dds"
+	MBModel = "Clothes\RobeUC02\M\RobeUC02M.NIF"
+	MWModel = "Clothes\RobeUC02\M\RobeUC02M_gnd.NIF"
+	FBModel = "Clothes\RobeUC02\F\RobeUC02F.NIF"
+	FWModel = "Clothes\RobeUC02\M\RobeUC02M_gnd.NIF"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC01\RobeUC01.dds"
+	FIcon = "Clothes\RobeUC01\RobeUC01.dds"
+	MBModel = "Clothes\RobeUC01\M\RobeUC01M.NIF"
+	MWModel = "Clothes\RobeUC01\M\RobeUC01M_gnd.NIF"
+	FBModel = "Clothes\RobeUC01\F\RobeUC01F.NIF"
+	FWModel = "Clothes\RobeUC01\M\RobeUC01M_gnd.NIF"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeLC03\RobeLC03.dds"
+	FIcon = "Clothes\RobeLC03\RobeLC03.dds"
+	MBModel = "Clothes\RobeLC03\M\RobeLC03M.NIF"
+	MWModel = "Clothes\RobeLC03\M\RobeLC03M_gnd.NIF"
+	FBModel = "Clothes\RobeLC03\F\RobeLC03F.NIF"
+	FWModel = "Clothes\RobeLC03\M\RobeLC03M_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeLC02\RobeLC02.dds"
+	FIcon = "Clothes\RobeLC02\RobeLC02.dds"
+	MBModel = "Clothes\RobeLC02\M\RobeLC02M.NIF"
+	MWModel = "Clothes\RobeLC02\M\RobeLC02M_gnd.NIF"
+	FBModel = "Clothes\RobeLC02\F\RobeLC02F.NIF"
+	FWModel = "Clothes\RobeLC02\M\RobeLC02M_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeLC01\RobeLC01.dds"
+	FIcon = "Clothes\RobeLC01\RobeLC01.dds"
+	MBModel = "Clothes\RobeLC01\M\RobeLC01M.NIF"
+	MWModel = "Clothes\RobeLC01\M\RobeLC01M_gnd.NIF"
+	FBModel = "Clothes\RobeLC01\F\RobeLC01F.NIF"
+	FWModel = "Clothes\RobeLC01\M\RobeLC01M_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeMCBlack\RobeMCBlack.dds"
+	FIcon = "Clothes\RobeMCBlack\RobeMCBlack.dds"
+	MBModel = "Clothes\RobeMCBlack\M\RobeMCBlack.NIF"
+	MWModel = "Clothes\RobeMCBlack\M\RobeMCBlack_gnd.NIF"
+	FBModel = "Clothes\RobeMCBlack\F\RobeMCBlackF.NIF"
+	FWModel = "Clothes\RobeMCBlack\M\RobeMCBlack_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeMageArch\RobeMageArch.dds"
+	FIcon = "Clothes\RobeMageArch\RobeMageArch.dds"
+	MBModel = "Clothes\RobeMageArch\M\RobeMageArch.NIF"
+	MWModel = "Clothes\RobeMageArch\M\RobeMageArch_gnd.NIF"
+	FBModel = "Clothes\RobeMageArch\F\RobeMageArchF.NIF"
+	FWModel = "Clothes\RobeMageArch\M\RobeMageArch_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeMage\RobeMage.dds"
+	FIcon = "Clothes\RobeMage\RobeMage.dds"
+	MBModel = "Clothes\RobeMage\M\RobeMage.NIF"
+	MWModel = "Clothes\RobeMage\M\RobeMage_gnd.NIF"
+	FBModel = "Clothes\RobeMage\F\RobeMageF.NIF"
+	FWModel = "Clothes\RobeMage\M\RobeMage_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeKingWorm\RobeKingWorm.dds"
+	FIcon = "Clothes\RobeKingWorm\RobeKingWorm.dds"
+	MBModel = "Clothes\RobeKingWorm\M\RobeKingWormM.NIF"
+	MWModel = "Clothes\RobeKingWorm\M\RobeKingWormM_gnd.NIF"
+	FBModel = "Clothes\RobeKingWorm\F\RobeKingWormF.NIF"
+	FWModel = "Clothes\RobeKingWorm\M\RobeKingWormM_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeNecromancer\RobeNecromancer.dds"
+	FIcon = "Clothes\RobeNecromancer\RobeNecromancer.dds"
+	MBModel = "Clothes\RobeNecromancer\M\RobeNecromancerM.NIF"
+	MWModel = "Clothes\RobeNecromancer\M\RobeNecromancerM_gnd.NIF"
+	FBModel = "Clothes\RobeNecromancer\F\RobeNecromancerF.NIF"
+	FWModel = "Clothes\RobeNecromancer\M\RobeNecromancerM_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeLCGrey\RobeLCGreyrobe.dds"
+	FIcon = "Clothes\RobeLCGrey\RobeLCGreyrobe.dds"
+	MBModel = "Clothes\RobeLCGrey\M\RobeLCGreyM.NIF"
+	MWModel = "Clothes\RobeLCGrey\M\RobeLCGreyM_gnd.NIF"
+	FBModel = "Clothes\RobeLCGrey\F\RobeLCGreyF.NIF"
+	FWModel = "Clothes\RobeLCGrey\M\RobeLCGreyM_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Wizard\Shirt.dds"
+	MBModel = "Clothes\Wizard\Shirt.NIF"
+	MWModel = "Clothes\Wizard\Shirt_gnd.NIF"
+	FIcon = "Clothes\Wizard\Shirt.dds"
+	FBModel = "Clothes\Wizard\Shirt.NIF"
+	FWModel = "Clothes\Wizard\Shirt_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\MythicDawnrobe\MythicDawnrobe.dds"
+	FIcon = "Clothes\MythicDawnrobe\MythicDawnrobe.dds"
+	MBModel = "Clothes\MythicDawnrobe\M\MythicDawnrobeM.NIF"
+	MWModel = "Clothes\MythicDawnrobe\M\MythicDawnrobeM_gnd.NIF"
+	FBModel = "Clothes\MythicDawnrobe\F\MythicDawnrobeF.NIF"
+	FWModel = "Clothes\MythicDawnrobe\M\MythicDawnrobeM_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	BipedParts = Upper Body | Lower Body | Hand | Foot
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Monk\Shirt.dds"
+	MBModel = "Clothes\Monk\M\Shirt.NIF"
+	MWModel = "Clothes\Monk\M\Shirt_Gnd.NIF"
+	FIcon = "Clothes\Monk\Shirt.dds"
+	FBModel = "Clothes\Monk\M\Shirt.NIF"
+	FWModel = "Clothes\Monk\M\Shirt_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Overalls"
+	MIcon = "Clothes\LowerClass\09\M\Shirt09M.dds"
+	FIcon = "Clothes\LowerClass\09\F\Shirt09F.dds"
+	MBModel = "Clothes\LowerClass\09\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\09\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\09\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\09\F\Shirt_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\05\M\shirt.dds"
+	FIcon = "Clothes\UpperClass\05\F\shirt.dds"
+	MBModel = "Clothes\UpperClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\05\M\Shirt_gnd.NIF"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Felt"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\03\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\03\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\UpperClass\02\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\02\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\03\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\03\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Waders"
+	MIcon = "Clothes\LowerClass\09\M\Shirt09M.dds"
+	FIcon = "Clothes\LowerClass\09\F\Shirt09F.dds"
+	MBModel = "Clothes\LowerClass\09\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\09\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\09\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\09\F\Shirt_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Waders"
+End
+
+
+
+#############################################
+##       CM Tunics (Upper/Lower Body)      ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics01.nif"
+	MWModel = "Clothes\CMTunics\CMTunics01_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics02.nif"
+	MWModel = "Clothes\CMTunics\CMTunics02_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics03.nif"
+	MWModel = "Clothes\CMTunics\CMTunics03_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics04.nif"
+	MWModel = "Clothes\CMTunics\CMTunics04_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics05.nif"
+	MWModel = "Clothes\CMTunics\CMTunics05_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics06.nif"
+	MWModel = "Clothes\CMTunics\CMTunics06_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics07.nif"
+	MWModel = "Clothes\CMTunics\CMTunics07_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics08.nif"
+	MWModel = "Clothes\CMTunics\CMTunics08_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics09.nif"
+	MWModel = "Clothes\CMTunics\CMTunics09_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics10.nif"
+	MWModel = "Clothes\CMTunics\CMTunics10_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics11.nif"
+	MWModel = "Clothes\CMTunics\CMTunics11_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics12.nif"
+	MWModel = "Clothes\CMTunics\CMTunics12_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics13.nif"
+	MWModel = "Clothes\CMTunics\CMTunics13_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics14.nif"
+	MWModel = "Clothes\CMTunics\CMTunics14_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics15.nif"
+	MWModel = "Clothes\CMTunics\CMTunics15_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics16.nif"
+	MWModel = "Clothes\CMTunics\CMTunics16_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\CMTunics\CMTunics17.nif"
+	MWModel = "Clothes\CMTunics\CMTunics17_gnd.nif"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.nif"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+
+
+
+#############################################
+##     Clothing - Pants (Lower Body)       ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\01\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\01\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\01\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsKungfuBlk\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsAdventurer\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\03\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\03\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\03\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\01\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\01\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\01\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\02\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\02\M\Pants.dds"
+	MBModel = "Clothes\LowerClass\02\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\02\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Silks"
+	MIcon = "Clothes\UpperClass\UCCountCountess\M\Pant.dds"
+	FIcon = "Clothes\UpperClass\UCCountCountess\F\Pant.dds"
+	MBModel = "Clothes\UpperClass\UCCountCountess\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\UCCountCountess\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCCountCountess\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\UCCountCountess\F\Pants_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Britches"
+	MIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Garment"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\04\M\pants.dds"
+	FIcon = "Clothes\UpperClass\04\F\pants.dds"
+	MBModel = "Clothes\UpperClass\04\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\04\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\04\F\Pants_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\01\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Braies"
+	MIcon = "Clothes\LowerClass\08\M\Pants08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Pants08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Pants_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\08\M\Pants_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Breeches"
+	MIcon = "Clothes\LowerClass\07\M\Pants07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\07\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	Material = "Felt"
+	MIcon = "Clothes\LowerClass\06\M\Pants06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\06\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\04\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\02\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Pants_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\LowerClass\04\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\04\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\04\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Garment"
+	Material = "Silk"
+	MIcon = "Clothes\UpperClass\01\M\Pants.dds"
+	FIcon = "Clothes\UpperClass\01\F\Pants.dds"
+	MBModel = "Clothes\UpperClass\01\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Pants_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+
+
+
+#############################################
+##     Clothing - Shoes (Foot)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\04\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\02\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\Wizard\Shoes.dds"
+	MBModel = "Clothes\Wizard\Shoes.NIF"
+	MWModel = "Clothes\Wizard\Shoes_gnd.NIF"
+	FIcon = "Clothes\Wizard\Shoes.dds"
+	FBModel = "Clothes\Wizard\Shoes.NIF"
+	FWModel = "Clothes\Wizard\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\LowerClass\05\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Felt"
+	MIcon = "Clothes\MiddleClass\05\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Sandals"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\08\M\Shoes08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Shoes08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Shoes_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\08\F\Shoes_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Sandals"
+End
+Item
+	ItemType = Clothing
+	Name = "Clogs"
+	MIcon = "Clothes\LowerClass\07\M\Shoes07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\07\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Cowhide"
+	MIcon = "Clothes\MiddleClass\04\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Suede"
+	MIcon = "Clothes\UpperClass\03\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\03\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\UpperClass\02\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\02\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\03\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\03\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Doeskin"
+	MIcon = "Clothes\MiddleClass\02\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\LowerClass\06\M\Shoes06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\06\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Sandals"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Sandals"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Linen"
+	MIcon = "Clothes\LowerClass\04\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\04\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Moccasins"
+	MIcon = "Clothes\LowerClass\03\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\03\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\02\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\02\M\Shoes.dds"
+	MBModel = "Clothes\LowerClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Shoes_gnd.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Shoes_gnd.NIF"
+	FWModel = "Clothes\LowerClass\02\M\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Pigskin"
+	MIcon = "Clothes\MiddleClass\01\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\01\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\01\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\01\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\01\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+
+
+
+#############################################
+##        Clothing - Elegant Vests         ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Coat"
+	Material = "Black"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\blackcoat.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\blackcoat_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\blackcoat.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\blackcoat_gnd.nif"
+	BasePrice = 25
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Gloves"
+	Material = "Black"
+	MIcon = "Elegant Vests\gauntlets.dds"
+	FIcon = "Elegant Vests\gauntlets.dds"
+	MBModel = "Clothes\Elegant Vests\Gloves\m\goldband.nif"
+	MWModel = "Clothes\Elegant Vests\Gloves\f\goldband_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Gloves\f\goldband.nif"
+	FWModel = "Clothes\Elegant Vests\Gloves\f\goldband_gnd.nif"
+	BasePrice = 16
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hand
+	HideRings = true
+	CustomType = "Gloves"
+End
+Item
+	ItemType = Clothing
+	Name = "Gloves"
+	Material = "Guarhide"
+	MIcon = "Elegant Vests\gauntlets.dds"
+	FIcon = "Elegant Vests\gauntlets.dds"
+	MBModel = "clothes\Elegant Vests\Gloves\m\basic.nif"
+	MWModel = "clothes\Elegant Vests\Gloves\f\basic_gnd.nif"
+	FBModel = "clothes\Elegant Vests\Gloves\f\basic.nif"
+	FWModel = "clothes\Elegant Vests\Gloves\f\basic_gnd.nif"
+	BasePrice = 16
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hand
+	HideRings = true
+	CustomType = "Gloves"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Black"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\blackvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\blackvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\blackvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\blackvest_gnd.nif"
+	BasePrice = 23
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Coat"
+	Material = "Blue"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\bluecoat.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\bluecoat_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\bluecoat.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\bluecoat_gnd.nif"
+	BasePrice = 21
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Blue"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\bluevest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\bluevest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\bluevest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\bluevest_gnd.nif"
+	BasePrice = 24
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Gloves"
+	Material = "Burgundy"
+	MIcon = "Elegant Vests\gauntlets.dds"
+	FIcon = "Elegant Vests\gauntlets.dds"
+	MBModel = "Clothes\Elegant Vests\Gloves\m\burgundy.nif"
+	MWModel = "Clothes\Elegant Vests\Gloves\f\burgundy_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Gloves\f\burgundy.nif"
+	FWModel = "Clothes\Elegant Vests\Gloves\f\burgundy_gnd.nif"
+	BasePrice = 14
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hand
+	HideRings = true
+	CustomType = "Gloves"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\gildedvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\gildedvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\gildedvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\gildedvest_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Gilded"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\goldrosevest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\goldrosevest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\goldrosevest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\goldrosevest_gnd.nif"
+	BasePrice = 13
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\golddiamond.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\golddiamond_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\golddiamond.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\golddiamond_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Gold"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\goldvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\goldvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\goldvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\goldvest_gnd.nif"
+	BasePrice = 23
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Gloves"
+	Material = "Green"
+	MIcon = "Elegant Vests\gauntlets.dds"
+	FIcon = "Elegant Vests\gauntlets.dds"
+	MBModel = "Clothes\Elegant Vests\Gloves\m\green.nif"
+	MWModel = "Clothes\Elegant Vests\Gloves\f\green_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Gloves\f\green.nif"
+	FWModel = "Clothes\Elegant Vests\Gloves\f\green_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hand
+	HideRings = true
+	CustomType = "Gloves"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Green"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\greenvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\greenvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\greenvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\greenvest_gnd.nif"
+	BasePrice = 25
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Coat"
+	Material = "Grey"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\greycoat.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\greycoat_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\greycoat.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\greycoat_gnd.nif"
+	BasePrice = 26
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Grey"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\greyvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\greyvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\greyvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\greyvest_gnd.nif"
+	BasePrice = 23
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Black"
+	MIcon = "Elegant Vests\Pants.dds"
+	FIcon = "Elegant Vests\Pants.dds"
+	MBModel = "Clothes\Elegant Vests\Leather Pants\m\black.NIF"
+	MWModel = "Clothes\Elegant Vests\Leather Pants\f\black_gnd.NIF"
+	FBModel = "Clothes\Elegant Vests\Leather Pants\f\black.NIF"
+	FWModel = "Clothes\Elegant Vests\Leather Pants\f\black_gnd.NIF"
+	BasePrice = 21
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Gold"
+	MIcon = "Elegant Vests\Pants.dds"
+	FIcon = "Elegant Vests\Pants.dds"
+	MBModel = "Clothes\Elegant Vests\Leather Pants\m\gold.NIF"
+	MWModel = "Clothes\Elegant Vests\Leather Pants\f\gold_gnd.NIF"
+	FBModel = "Clothes\Elegant Vests\Leather Pants\f\gold.NIF"
+	FWModel = "Clothes\Elegant Vests\Leather Pants\f\gold_gnd.NIF"
+	BasePrice = 21
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Green"
+	MIcon = "Elegant Vests\Pants.dds"
+	FIcon = "Elegant Vests\Pants.dds"
+	MBModel = "Clothes\Elegant Vests\Leather Pants\m\darkgreen.NIF"
+	MWModel = "Clothes\Elegant Vests\Leather Pants\f\darkgreen_gnd.NIF"
+	FBModel = "Clothes\Elegant Vests\Leather Pants\f\darkgreen.NIF"
+	FWModel = "Clothes\Elegant Vests\Leather Pants\f\darkgreen_gnd.NIF"
+	BasePrice = 21
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Red"
+	MIcon = "Elegant Vests\Pants.dds"
+	FIcon = "Elegant Vests\Pants.dds"
+	MBModel = "Clothes\Elegant Vests\Leather Pants\m\brown.NIF"
+	MWModel = "Clothes\Elegant Vests\Leather Pants\f\brown_gnd.NIF"
+	FBModel = "Clothes\Elegant Vests\Leather Pants\f\brown.NIF"
+	FWModel = "Clothes\Elegant Vests\Leather Pants\f\brown_gnd.NIF"
+	BasePrice = 21
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Velvet"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\pinkvelvetvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\pinkvelvetvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\pinkvelvetvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\pinkvelvetvest_gnd.nif"
+	BasePrice = 24
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Pink"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\pinkvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\pinkvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\pinkvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\pinkvest_gnd.nif"
+	BasePrice = 25
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Sleeved"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\bluerosesleeves.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\bluerosesleeves_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\bluerosesleeves.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\bluerosesleeves_gnd.nif"
+	BasePrice = 26
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Valenwood"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\greengoldvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\greengoldvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\greengoldvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\greengoldvest_gnd.nif"
+	BasePrice = 22
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Sleeved"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\darkvioletcoat.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\darkvioletcoat_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\darkvioletcoat.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\darkvioletcoat_gnd.nif"
+	BasePrice = 23
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Violet"
+	MIcon = "Elegant Vests\VestedBlouse.dds"
+	FIcon = "Elegant Vests\VestedBlouse.dds"
+	MBModel = "Clothes\Elegant Vests\Vests\m\violetvest.nif"
+	MWModel = "Clothes\Elegant Vests\Vests\f\violetvest_gnd.nif"
+	FBModel = "Clothes\Elegant Vests\Vests\f\violetvest.nif"
+	FWModel = "Clothes\Elegant Vests\Vests\f\violetvest_gnd.nif"
+	BasePrice = 25
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Upper Body
+	HideAmulet = true
+	CustomType = "Vest"
+End
+
+
+
+#############################################
+##   Clothing - Tegeals Extra Robes/Hoods  ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\Extrarobes\dwarvenhood.dds"
+	MBModel = "Clothes\dwarvenpreist\hood.NIF"
+	MWModel = "Clothes\dwarvenpreist\hood_gnd.NIF"
+	FIcon = "Clothes\Extrarobes\dwarvenhood.dds"
+	FBModel = "Clothes\dwarvenpreist\hood.NIF"
+	FWModel = "Clothes\dwarvenpreist\hood_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\dwarvenpreist.dds"
+	FIcon = "Clothes\Extrarobes\dwarvenpreist.dds"
+	MBModel = "Clothes\dwarvenpreist\M\dwarvenpreist.NIF"
+	MWModel = "Clothes\dwarvenpreist\M\dwarvenpreist_Gnd.NIF"
+	FBModel = "Clothes\dwarvenpreist\f\dwarvenpreist.NIF"
+	FWModel = "Clothes\dwarvenpreist\M\dwarvenpreist_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeUC01\hood.dds"
+	MBModel = "Clothes\autumrobe\hood.nif"
+	MWModel = "Clothes\autumrobe\hood_gnd.nif"
+	FIcon = "Clothes\RobeUC01\hood.dds"
+	FBModel = "Clothes\autumrobe\hood.nif"
+	FWModel = "Clothes\autumrobe\hood_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\autumrobe.dds"
+	FIcon = "Clothes\Extrarobes\autumrobe.dds"
+	MBModel = "Clothes\autumrobe\m\autumrobe.nif"
+	MWModel = "Clothes\autumrobe\m\autumrobe_gnd.nif"
+	FBModel = "Clothes\autumrobe\f\autumrobef.nif"
+	FWModel = "Clothes\autumrobe\m\autumrobe_gnd.nif"
+	BasePrice = 20
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeUC01\hood.dds"
+	MBModel = "Clothes\bloodrobe\hood.nif"
+	MWModel = "Clothes\bloodrobe\hood_gnd.nif"
+	FIcon = "Clothes\RobeUC01\hood.dds"
+	FBModel = "Clothes\bloodrobe\hood.nif"
+	FWModel = "Clothes\bloodrobe\hood_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\bloodrobe.dds"
+	FIcon = "Clothes\Extrarobes\bloodrobe.dds"
+	MBModel = "Clothes\bloodrobe\M\bloodrobe.NIF"
+	MWModel = "Clothes\bloodrobe\M\bloodrobe_Gnd.NIF"
+	FBModel = "Clothes\bloodrobe\f\bloodrobef.NIF"
+	FWModel = "Clothes\bloodrobe\M\bloodrobe_Gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\robemagearch\hood.dds"
+	MBModel = "Clothes\blueandwhite\hood.nif"
+	MWModel = "Clothes\blueandwhite\hood_gnd.nif"
+	FIcon = "Clothes\robemagearch\hood.dds"
+	FBModel = "Clothes\blueandwhite\hood.nif"
+	FWModel = "Clothes\blueandwhite\hood_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\blueandwhite.dds"
+	FIcon = "Clothes\Extrarobes\blueandwhite.dds"
+	MBModel = "Clothes\blueandwhite\M\blueandwhite.NIF"
+	MWModel = "Clothes\blueandwhite\M\blueandwhite_Gnd.NIF"
+	FBModel = "Clothes\blueandwhite\f\blueandwhite.NIF"
+	FWModel = "Clothes\blueandwhite\M\blueandwhite_Gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\robenecromancer\hood.dds"
+	MBModel = "Clothes\damagedrobe\hood.nif"
+	MWModel = "Clothes\damagedrobe\hood_gnd.nif"
+	FIcon = "Clothes\robenecromancer\hood.dds"
+	FBModel = "Clothes\damagedrobe\hood.nif"
+	FWModel = "Clothes\damagedrobe\hood_gnd.nif"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\damagedrobe.dds"
+	FIcon = "Clothes\Extrarobes\damagedrobe.dds"
+	MBModel = "Clothes\damagedrobe\M\damagedrobe.NIF"
+	MWModel = "Clothes\damagedrobe\M\damagedrobe_Gnd.NIF"
+	FBModel = "Clothes\damagedrobe\f\damagedrobe.NIF"
+	FWModel = "Clothes\damagedrobe\M\damagedrobe_Gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\darkwizard.dds"
+	MBModel = "Clothes\darkwizard\shirt.nif"
+	MWModel = "Clothes\darkwizard\shirt_Gnd.nif"
+	FIcon = "Clothes\Extrarobes\darkwizard.dds"
+	FBModel = "Clothes\darkwizard\shirt.nif"
+	FWModel = "Clothes\darkwizard\shirt_Gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Daedric"
+	MIcon = "Clothes\Extrarobes\deadricwizard.dds"
+	MBModel = "Clothes\deadricwizard\shirt.nif"
+	MWModel = "Clothes\deadricwizard\shirt_Gnd.nif"
+	FIcon = "Clothes\Extrarobes\deadricwizard.dds"
+	FBModel = "Clothes\deadricwizard\shirt.nif"
+	FWModel = "Clothes\deadricwizard\shirt_Gnd.nif"
+	BasePrice = 30
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Gown"
+	MIcon = "Clothes\Extrarobes\druidmonk.dds"
+	MBModel = "Clothes\druidmonkrobe\m\druidmonkshirt.nif"
+	MWModel = "Clothes\druidmonk\druidmonkshirt_Gnd.nif"
+	FIcon = "Clothes\Extrarobes\druidmonk.dds"
+	FBModel = "Clothes\druidmonkrobe\m\druidmonkshirt.nif"
+	FWModel = "Clothes\druidmonk\druidmonkshirt_Gnd.nif"
+	BasePrice = 25
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\robeuc02\robeuc02.dds"
+	FIcon = "Clothes\robeuc02\robeuc02.dds"
+	MBModel = "Clothes\robemageoftheforest\M\robemageoftheforest.NIF"
+	MWModel = "Clothes\robemageoftheforest\M\robemageoftheforest_Gnd.NIF"
+	FBModel = "Clothes\robemageoftheforest\f\robemageoftheforest.NIF"
+	FWModel = "Clothes\robemageoftheforest\M\robemageoftheforest_Gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	Material = "Elven"
+	MIcon = "Clothes\Extrarobes\elvenhood.dds"
+	MBModel = "Clothes\elvenrobe\hood.nif"
+	MWModel = "Clothes\elvenrobe\hood_gnd.nif"
+	FIcon = "Clothes\Extrarobes\elvenhood.dds"
+	FBModel = "Clothes\elvenrobe\hood.nif"
+	FWModel = "Clothes\elvenrobe\hood_gnd.nif"
+	BasePrice = 10
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Elven"
+	MIcon = "Clothes\Extrarobes\elvenrobe.dds"
+	FIcon = "Clothes\Extrarobes\elvenrobe.dds"
+	MBModel = "Clothes\elvenrobe\M\elvenrobe.NIF"
+	MWModel = "Clothes\elvenrobe\M\elvenrobe_Gnd.NIF"
+	FBModel = "Clothes\elvenrobe\f\elvenrobe.NIF"
+	FWModel = "Clothes\elvenrobe\M\elvenrobe_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Cloak"
+	MIcon = "Clothes\Extrarobes\necrocloak.dds"
+	MBModel = "Clothes\necrocloak\necrocloak.NIF"
+	MWModel = "Clothes\necrocloak\necrocloak_Gnd.NIF"
+	FIcon = "Clothes\Extrarobes\necrocloak.dds"
+	FBModel = "Clothes\necrocloak\necrocloak.NIF"
+	FWModel = "Clothes\necrocloak\necrocloak_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\robeuc02\hood.dds"
+	MBModel = "Clothes\robemageoftheforest\hood.nif"
+	MWModel = "Clothes\robemageoftheforest\hood_gnd.nif"
+	FIcon = "Clothes\robeuc02\hood.dds"
+	FBModel = "Clothes\robemageoftheforest\hood.nif"
+	FWModel = "Clothes\robemageoftheforest\hood_gnd.nif"
+	BasePrice = 5
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\Extrarobes\royalbluehood.dds"
+	MBModel = "Clothes\royalbluerobe\hood.nif"
+	MWModel = "Clothes\royalbluerobe\hood_gnd.nif"
+	FIcon = "Clothes\Extrarobes\royalbluehood.dds"
+	FBModel = "Clothes\royalbluerobe\hood.nif"
+	FWModel = "Clothes\royalbluerobe\hood_gnd.nif"
+	BasePrice = 5
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\royalblue.dds"
+	FIcon = "Clothes\Extrarobes\royalblue.dds"
+	MBModel = "Clothes\royalbluerobe\M\royalbluerobe.NIF"
+	MWModel = "Clothes\royalbluerobe\M\royalbluerobe_Gnd.NIF"
+	FBModel = "Clothes\royalbluerobe\f\royalbluerobe.NIF"
+	FWModel = "Clothes\royalbluerobe\M\royalbluerobe_Gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Gown"
+	MIcon = "Clothes\Extrarobes\exqrobe.dds"
+	MBModel = "Clothes\royalmonk\m\royalmonkshirt.NIF"
+	MWModel = "Clothes\royalmonk\m\royalmonkshirt_Gnd.NIF"
+	FIcon = "Clothes\Extrarobes\exqrobe.dds"
+	FBModel = "Clothes\royalmonk\m\royalmonkshirt.NIF"
+	FWModel = "Clothes\royalmonk\m\royalmonkshirt_Gnd.NIF"
+	BasePrice = 12
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\Extrarobes\woodelvenhood.dds"
+	MBModel = "Clothes\underkingrobe\hood.nif"
+	MWModel = "Clothes\underkingrobe\hood_gnd.nif"
+	FIcon = "Clothes\Extrarobes\woodelvenhood.dds"
+	FBModel = "Clothes\underkingrobe\hood.nif"
+	FWModel = "Clothes\underkingrobe\hood_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\underking.dds"
+	FIcon = "Clothes\Extrarobes\underking.dds"
+	MBModel = "Clothes\underkingrobe\M\underkingrobe.NIF"
+	MWModel = "Clothes\underkingrobe\M\underkingrobe_Gnd.NIF"
+	FBModel = "Clothes\underkingrobe\f\underkingrobe.NIF"
+	FWModel = "Clothes\underkingrobe\M\underkingrobe_Gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 21
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\Extrarobes\woodelvenhood.dds"
+	MBModel = "Clothes\Wood Elven Robe\hood.nif"
+	MWModel = "Clothes\Wood Elven Robe\hood_gnd.nif"
+	FIcon = "Clothes\Extrarobes\woodelvenhood.dds"
+	FBModel = "Clothes\Wood Elven Robe\hood.nif"
+	FWModel = "Clothes\Wood Elven Robe\hood_gnd.nif"
+	BasePrice = 15
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Extrarobes\woodelvenrobe.dds"
+	FIcon = "Clothes\Extrarobes\woodelvenrobe.dds"
+	MBModel = "Clothes\Wood Elven Robe\M\woodelvenrobe.NIF"
+	MWModel = "Clothes\Wood Elven Robe\M\woodelvenrobe_Gnd.NIF"
+	FBModel = "Clothes\Wood Elven Robe\f\woodelvenrobe.NIF"
+	FWModel = "Clothes\Wood Elven Robe\M\woodelvenrobe_Gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 11
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	HideAmulet = true
+	CustomType = "Robe"
+End

@@ -1,0 +1,3321 @@
+#############################################
+##     Armor - Chainmail                   ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Helmet.dds"
+	FIcon = "Armor\Chainmail\F\Helmet.dds"
+	MBModel = "Armor\Chainmail\M\Helmet.NIF"
+	MWModel = "Armor\Chainmail\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Helmet.NIF"
+	FWModel = "Armor\Chainmail\M\Helmet_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 1.8
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Cuirass.dds"
+	FIcon = "Armor\Chainmail\F\Cuirass.dds"
+	MBModel = "Armor\Chainmail\M\Cuirass.NIF"
+	MWModel = "Armor\Chainmail\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Cuirass.NIF"
+	FWModel = "Armor\Chainmail\F\Cuirass_gnd.NIF"
+	BasePrice = 90
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 800
+	ArmorType = "Light"
+	Health = 270
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Gauntlets.dds"
+	MBModel = "Armor\Chainmail\M\Gauntlets.NIF"
+	MWModel = "Armor\Chainmail\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Gauntlets.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 1.8
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Greaves.dds"
+	MBModel = "Armor\Chainmail\M\Greaves.NIF"
+	MWModel = "Armor\Chainmail\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Greaves.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 5.4
+	Armor = 400
+	ArmorType = "Light"
+	Health = 202
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Boots.dds"
+	MBModel = "Armor\Chainmail\M\Boots.NIF"
+	MWModel = "Armor\Chainmail\M\Boots_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Boots.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 2
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Daedric                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Helmet.dds"
+	FIcon = "Armor\Daedric\F\Helmet.dds"
+	MBModel = "Armor\Daedric\M\Helmet.NIF"
+	MWModel = "Armor\Daedric\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Helmet.NIF"
+	FWModel = "Armor\Daedric\F\Helmet_gnd.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 12
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Head | Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Cuirass.dds"
+	FIcon = "Armor\Daedric\F\Cuirass.dds"
+	MBModel = "Armor\Daedric\M\Cuirass.NIF"
+	MWModel = "Armor\Daedric\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Cuirass.NIF"
+	FWModel = "Armor\Daedric\F\Cuirass_gnd.NIF"
+	BasePrice = 4800
+	ItemLevel = 34
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 60
+	Armor = 1875
+	ArmorType = "Heavy"
+	Health = 2700
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Gauntlets.dds"
+	MBModel = "Armor\Daedric\M\Gauntlets.NIF"
+	MWModel = "Armor\Daedric\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Gauntlets.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 12
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\Shield.dds"
+	MBModel = "Armor\Daedric\Shield.NIF"
+	MWModel = "Armor\Daedric\Shield.NIF"
+	BasePrice = 2500
+	ItemLevel = 25
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 24
+	Armor = 2250
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Greaves.dds"
+	FIcon = "Armor\Daedric\F\Greaves.dds"
+	MBModel = "Armor\Daedric\M\Greaves.NIF"
+	MWModel = "Armor\Daedric\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Greaves.NIF"
+	FWModel = "Armor\Daedric\F\Greaves_gnd.NIF"
+	BasePrice = 2500
+	ItemLevel = 25
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 36
+	Armor = 1125
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Boots.dds"
+	MBModel = "Armor\Daedric\M\Boots.NIF"
+	MWModel = "Armor\Daedric\M\Boots_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Boots.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 18
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Dwarven                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Helmet.dds"
+	MBModel = "Armor\Dwarven\M\Helmet.NIF"
+	MWModel = "Armor\Dwarven\M\Helmet_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Head | Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Curiass.dds"
+	MBModel = "Armor\Dwarven\M\Cuirass.NIF"
+	MWModel = "Armor\Dwarven\M\Cuirass_gnd.NIF"
+	BasePrice = 400
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 40
+	Armor = 1250
+	ArmorType = "Heavy"
+	Health = 800
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Gauntlet.dds"
+	MBModel = "Armor\Dwarven\M\Gauntlets.NIF"
+	MWModel = "Armor\Dwarven\M\Gauntlets_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\Shield.dds"
+	MBModel = "Armor\Dwarven\Shield.NIF"
+	MWModel = "Armor\Dwarven\Shield.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 16
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Greaves.dds"
+	MBModel = "Armor\Dwarven\M\Greaves.NIF"
+	MWModel = "Armor\Dwarven\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Dwarven\F\Greaves.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Boots.dds"
+	MBModel = "Armor\Dwarven\M\Boots.NIF"
+	MWModel = "Armor\Dwarven\M\Boots_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 12
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Ebony                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Helmet.dds"
+	FIcon = "Armor\Ebony\F\Helmet.dds"
+	MBModel = "Armor\Ebony\M\Helmet.NIF"
+	MWModel = "Armor\Ebony\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Helmet.NIF"
+	FWModel = "Armor\Ebony\F\Helmet_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 10.5
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Cuirass.dds"
+	FIcon = "Armor\Ebony\F\Cuirass.dds"
+	MBModel = "Armor\Ebony\M\Cuirass.NIF"
+	MWModel = "Armor\Ebony\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Cuirass.NIF"
+	FWModel = "Armor\Ebony\F\Cuirass_gnd.NIF"
+	BasePrice = 1900
+	ItemLevel = 21
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 52.5
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Gauntlets.dds"
+	MBModel = "Armor\Ebony\M\Gauntlets.NIF"
+	MWModel = "Armor\Ebony\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Gauntlets.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 10.5
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\Shield.dds"
+	MBModel = "Armor\Ebony\Shield.NIF"
+	MWModel = "Armor\Ebony\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 21
+	Armor = 1800
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Greaves.dds"
+	MBModel = "Armor\Ebony\M\Greaves.NIF"
+	MWModel = "Armor\Ebony\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Greaves.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 31.5
+	Armor = 900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Boots.dds"
+	FIcon = "Armor\Ebony\F\Boots.dds"
+	MBModel = "Armor\Ebony\M\Boots.NIF"
+	MWModel = "Armor\Ebony\M\Boots_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Boots.NIF"
+	FWModel = "Armor\Ebony\F\Boots_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 15.75
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Elven                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Helmet.dds"
+	FIcon = "Armor\Elven\Helmet.dds"
+	MBModel = "Armor\Elven\Helmet.NIF"
+	MWModel = "Armor\Elven\Helmet_gnd.NIF"
+	FBModel = "Armor\Elven\Helmet.NIF"
+	FWModel = "Armor\Elven\Helmet_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 2.6
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Cuirass.dds"
+	FIcon = "Armor\Elven\Cuirass.dds"
+	MBModel = "Armor\Elven\M\Cuirass.NIF"
+	MWModel = "Armor\Elven\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Elven\F\Cuirass.NIF"
+	FWModel = "Armor\Elven\F\Cuirass_gnd.NIF"
+	BasePrice = 600
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 13
+	Armor = 1000
+	ArmorType = "Light"
+	Health = 880
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Gauntlets.dds"
+	FIcon = "Armor\Elven\Gauntlets.dds"
+	MBModel = "Armor\Elven\M\Gauntlets.NIF"
+	MWModel = "Armor\Elven\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Elven\M\Gauntlets.NIF"
+	FWModel = "Armor\Elven\M\Gauntlets_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 2.6
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Elven"
+	MIcon = "Armor\Elven\shield.dds"
+	MBModel = "Armor\Elven\Shield.NIF"
+	MWModel = "Armor\Elven\Shield.NIF"
+	FBModel = "Armor\Elven\Shield.NIF"
+	FWModel = "Armor\Elven\Shield.NIF"
+	BasePrice = 315
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 5.2
+	Armor = 1200
+	ArmorType = "Light"
+	Health = 660
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Greaves.dds"
+	MBModel = "Armor\Elven\M\Greaves.NIF"
+	MWModel = "Armor\Elven\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Elven\F\Greaves.NIF"
+	BasePrice = 315
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 7.8
+	Armor = 600
+	ArmorType = "Light"
+	Health = 660
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Boots.dds"
+	FIcon = "Armor\Elven\Boots.dds"
+	MBModel = "Armor\Elven\M\Boots.NIF"
+	MWModel = "Armor\Elven\M\Boots_gnd.NIF"
+	FBModel = "Armor\Elven\F\Boots.NIF"
+	FWModel = "Armor\Elven\F\Boots_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 3.9
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Glass                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Helmet.dds"
+	MBModel = "Armor\Glass\Helmet.NIF"
+	MWModel = "Armor\Glass\Helmet_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 3
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Cuirass.dds"
+	FIcon = "Armor\Glass\F\Cuirass.dds"
+	MBModel = "Armor\Glass\M\Cuirass.NIF"
+	MWModel = "Armor\Glass\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Glass\F\Cuirass.NIF"
+	FWModel = "Armor\Glass\F\Cuirass_gnd.NIF"
+	BasePrice = 1800
+	ItemLevel = 21
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 15
+	Armor = 1250
+	ArmorType = "Light"
+	Health = 1350
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Gauntlets.dds"
+	MBModel = "Armor\Glass\M\Gauntlets.NIF"
+	MWModel = "Armor\Glass\M\Gauntlets_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 3
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Glass"
+	MIcon = "Armor\Glass\Shield.dds"
+	MBModel = "Armor\Glass\Shield.NIF"
+	MWModel = "Armor\Glass\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1000
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Greaves.dds"
+	FIcon = "Armor\Glass\F\Greaves.dds"
+	MBModel = "Armor\Glass\M\Greaves.NIF"
+	MWModel = "Armor\Glass\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Glass\F\Greaves.NIF"
+	FWModel = "Armor\Glass\F\Greaves_gnd.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 9
+	Armor = 750
+	ArmorType = "Light"
+	Health = 1000
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Boots.dds"
+	MBModel = "Armor\Glass\M\Boots.NIF"
+	MWModel = "Armor\Glass\M\Boots_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 4.5
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Iron                        ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Helmet.dds"
+	MBModel = "Armor\Iron\M\Helmet.NIF"
+	MWModel = "Armor\Iron\M\Helmet_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 6
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Cuirass.dds"
+	FIcon = "Armor\Iron\F\Cuirass.dds"
+	MBModel = "Armor\Iron\M\Cuirass.NIF"
+	MWModel = "Armor\Iron\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Iron\F\Cuirass.NIF"
+	FWModel = "Armor\Iron\F\Cuirass_gnd.NIF"
+	BasePrice = 85
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 30
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 300
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Gauntlets.dds"
+	FIcon = "Armor\Iron\F\Gauntlets.dds"
+	MBModel = "Armor\Iron\M\Gauntlets.NIF"
+	MWModel = "Armor\Iron\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Iron\F\Gauntlets.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 6
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Iron"
+	MIcon = "Armor\Iron\Shield.dds"
+	MBModel = "Armor\Iron\Shield.NIF"
+	MWModel = "Armor\Iron\Shield.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 12
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 225
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Greaves.dds"
+	FIcon = "Armor\Iron\F\Greaves.dds"
+	MBModel = "Armor\Iron\M\Greaves.NIF"
+	MWModel = "Armor\Iron\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Iron\F\Greaves.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 18
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 225
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Boots.dds"
+	MBModel = "Armor\Iron\M\Boots.NIF"
+	MWModel = "Armor\Iron\M\Boots_gnd.NIF"
+	FBModel = "Armor\Iron\F\Boots.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 9
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Leather                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Helmet.dds"
+	MBModel = "Armor\Thief\Helmet.NIF"
+	MWModel = "Armor\Thief\Helmet_gnd.NIF"
+	FBModel = "Armor\Thief\Helmet.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Cuirass.dds"
+	FIcon = "Armor\Thief\F\Cuirass.dds"
+	MBModel = "Armor\Thief\M\Cuirass.NIF"
+	MWModel = "Armor\Thief\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Thief\F\Cuirass.NIF"
+	FWModel = "Armor\Thief\F\Cuirass_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 7.5
+	Armor = 625
+	ArmorType = "Light"
+	Health = 160
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Bracers"
+	Material = "Leather"
+	MIcon = "Armor\DaedricBracers\Bracers.dds"
+	FIcon = "Armor\DaedricBracers\Bracers.dds"
+	MBModel = "Armor\Bracers\Bracer01M.NIF"
+	MWModel = "Armor\Bracers\Bracer01_gnd.NIF"
+	FBModel = "Armor\Bracers\Bracer01F.NIF"
+	FWModel = "Armor\Bracers\Bracer01_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1.5
+	Armor = 100
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Gauntlets.dds"
+	FIcon = "Armor\Thief\M\Gauntlets.dds"
+	MBModel = "Armor\Thief\M\Gauntlets.NIF"
+	MWModel = "Armor\Thief\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Thief\F\Gauntlets.NIF"
+	FWModel = "Armor\Thief\M\Gauntlets_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Leather"
+	MIcon = "Armor\Leather\Shield.dds"
+	MBModel = "Armor\Leather\Shield.NIF"
+	MWModel = "Armor\Leather\Shield.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 3
+	Armor = 750
+	ArmorType = "Light"
+	Health = 120
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Greaves.dds"
+	MBModel = "Armor\Thief\M\Greaves.NIF"
+	MWModel = "Armor\Thief\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Thief\F\Greaves.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 4.5
+	Armor = 375
+	ArmorType = "Light"
+	Health = 120
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Boots.dds"
+	FIcon = "Armor\Thief\M\Boots.dds"
+	MBModel = "Armor\Thief\M\Boots.NIF"
+	MWModel = "Armor\Thief\M\Boots_gnd.NIF"
+	FBModel = "Armor\Thief\F\Boots.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Fur                         ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Helmet.dds"
+	FIcon = "Armor\Fur\F\Helmet.dds"
+	MBModel = "Armor\Fur\M\Helmet.NIF"
+	MWModel = "Armor\Fur\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Fur\F\Helmet.NIF"
+	FWModel = "Armor\Fur\F\Helmet_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Cuirass.dds"
+	FIcon = "Armor\Fur\F\Cuirass.dds"
+	MBModel = "Armor\Fur\M\Cuirass.NIF"
+	MWModel = "Armor\Fur\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Fur\F\Cuirass.NIF"
+	FWModel = "Armor\Fur\F\Cuirass_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 5
+	Armor = 500
+	ArmorType = "Light"
+	Health = 100
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Gauntlets.dds"
+	FIcon = "Armor\Fur\F\Gauntlets.dds"
+	MBModel = "Armor\Fur\M\Gauntlets.NIF"
+	MWModel = "Armor\Fur\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Fur\F\Gauntlets.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Fur"
+	MIcon = "Armor\Fur\Shield.dds"
+	MBModel = "Armor\Fur\Shield.NIF"
+	MWModel = "Armor\Fur\Shield.NIF"
+	FBModel = "Armor\Fur\Shield.NIF"
+	FWModel = "Armor\Fur\Shield.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 2
+	Armor = 200
+	ArmorType = "Light"
+	Health = 75
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Greaves.dds"
+	FIcon = "Armor\Fur\F\Greaves.dds"
+	MBModel = "Armor\Fur\M\Greaves.NIF"
+	MWModel = "Armor\Fur\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Fur\F\Greaves.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 3
+	Armor = 300
+	ArmorType = "Light"
+	Health = 75
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Boots.dds"
+	FIcon = "Armor\Fur\F\Boots.dds"
+	MBModel = "Armor\Fur\M\Boots.NIF"
+	MWModel = "Armor\Fur\M\Boots_gnd.NIF"
+	FBModel = "Armor\Fur\F\Boots.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 1.5
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Mithril                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Helmet.dds"
+	MBModel = "Armor\Mithril\M\Helmet.NIF"
+	MWModel = "Armor\Mithril\M\Helmet_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 2.2
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Hair
+	CustomType = "L Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Cuirass.dds"
+	FIcon = "Armor\Mithril\F\Cuirass.dds"
+	MBModel = "Armor\Mithril\M\Cuirass.NIF"
+	MWModel = "Armor\Mithril\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Mithril\F\Cuirass.NIF"
+	FWModel = "Armor\Mithril\F\Cuirass_gnd.NIF"
+	BasePrice = 225
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 11
+	Armor = 875
+	ArmorType = "Light"
+	Health = 480
+	BipedParts = Upper Body
+	CustomType = "L Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Gauntlets.dds"
+	MBModel = "Armor\Mithril\M\Gauntlets.NIF"
+	MWModel = "Armor\Mithril\M\Gauntlets_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 2.2
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Hand
+	CustomType = "L Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\Shield.dds"
+	MBModel = "Armor\Mithril\Shield.NIF"
+	MWModel = "Armor\Mithril\Shield.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 4.4
+	Armor = 1050
+	ArmorType = "Light"
+	Health = 360
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Greaves.dds"
+	MBModel = "Armor\Mithril\M\Greaves.NIF"
+	MWModel = "Armor\Mithril\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Mithril\F\Greaves.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 6.6
+	Armor = 525
+	ArmorType = "Light"
+	Health = 360
+	BipedParts = Lower Body
+	CustomType = "L Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Boots.dds"
+	MBModel = "Armor\Mithril\M\Boots.NIF"
+	MWModel = "Armor\Mithril\M\Boots_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 3.3
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Foot
+	CustomType = "L Boots"
+End
+
+
+
+#############################################
+##     Armor - Orcish                      ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Helmet.dds"
+	MBModel = "Armor\Orcish\Helmet.NIF"
+	MWModel = "Armor\Orcish\Helmet_gnd.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Cuirass.dds"
+	FIcon = "Armor\Orcish\F\Cuirass.dds"
+	MBModel = "Armor\Orcish\M\Cuirass.NIF"
+	MWModel = "Armor\Orcish\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Cuirass.NIF"
+	FWModel = "Armor\Orcish\F\Cuirass_gnd.NIF"
+	BasePrice = 940
+	ItemLevel = 15
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 45
+	Armor = 1375
+	ArmorType = "Heavy"
+	Health = 1200
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Gauntlets.dds"
+	MBModel = "Armor\Orcish\M\Gauntlets.NIF"
+	MWModel = "Armor\Orcish\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Gauntlets.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\Shield.dds"
+	FIcon = "Armor\Orcish\Shield.dds"
+	MBModel = "Armor\Orcish\Shield.NIF"
+	MWModel = "Armor\Orcish\Shield.NIF"
+	BasePrice = 460
+	ItemLevel = 10
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 18
+	Armor = 1650
+	ArmorType = "Heavy"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Greaves.dds"
+	MBModel = "Armor\Orcish\M\Greaves.NIF"
+	MWModel = "Armor\Orcish\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Greaves.NIF"
+	BasePrice = 460
+	ItemLevel = 10
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 27
+	Armor = 825
+	ArmorType = "Heavy"
+	Health = 900
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Boots.dds"
+	MBModel = "Armor\Orcish\M\Boots.NIF"
+	MWModel = "Armor\Orcish\M\Boots_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Boots.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 13.5
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Steel                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Helmet.dds"
+	MBModel = "Armor\Steel\M\Helmet.NIF"
+	MWModel = "Armor\Steel\M\Helmet_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 7
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Cuirass.dds"
+	MBModel = "Armor\Steel\M\Cuirass.NIF"
+	MWModel = "Armor\Steel\M\Cuirass_gnd.NIF"
+	BasePrice = 180
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 35
+	Armor = 1125
+	ArmorType = "Heavy"
+	Health = 500
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Gauntlets.dds"
+	MBModel = "Armor\Steel\M\Gauntlets.NIF"
+	MWModel = "Armor\Steel\M\Gauntlets_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 7
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Shield.dds"
+	MBModel = "Armor\Steel\Shield.NIF"
+	MWModel = "Armor\Steel\Shield.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 14
+	Armor = 1350
+	ArmorType = "Heavy"
+	Health = 375
+	BipedParts = Shield
+	CustomType = "H Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Greaves.dds"
+	MBModel = "Armor\Steel\M\Greaves.NIF"
+	MWModel = "Armor\Steel\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Steel\F\Greaves.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 21
+	Armor = 675
+	ArmorType = "Heavy"
+	Health = 375
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Boots.dds"
+	MBModel = "Armor\Steel\M\Boots.NIF"
+	MWModel = "Armor\Steel\M\Boots_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 10.5
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+#############################################
+##               CLOTHING                  ##
+#############################################
+
+
+#############################################
+##     Clothing - Hoods (Hair)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC01\hood.dds"
+	MBModel = "Clothes\RobeUC01\hood.NIF"
+	MWModel = "Clothes\RobeUC01\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC02\hood.dds"
+	MBModel = "Clothes\RobeUC02\hood.NIF"
+	MWModel = "Clothes\RobeUC02\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC01\hood.dds"
+	MBModel = "Clothes\RobeLC01\hood.NIF"
+	MWModel = "Clothes\RobeLC01\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC02\hood.dds"
+	MBModel = "Clothes\RobeLC02\hood.NIF"
+	MWModel = "Clothes\RobeLC02\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLC03\hood.dds"
+	MBModel = "Clothes\RobeLC03\hood.NIF"
+	MWModel = "Clothes\RobeLC03\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeLCGrey\hood.dds"
+	MBModel = "Clothes\RobeLCGrey\Hood.NIF"
+	MWModel = "Clothes\RobeLCGrey\hood_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	Weight = 3
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMCBlack\hood.dds"
+	FIcon = "Clothes\RobeMCBlack\hood.dds"
+	MBModel = "Clothes\RobeMCBlack\Hood.NIF"
+	MWModel = "Clothes\RobeMCBlack\hood_gnd.NIF"
+	FBModel = "Clothes\RobeMCBlack\Hood.NIF"
+	FWModel = "Clothes\RobeMCBlack\hood_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMage\hood.dds"
+	MBModel = "Clothes\RobeMage\Hood.NIF"
+	MWModel = "Clothes\RobeMage\hood_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeMageArch\hood.dds"
+	MBModel = "Clothes\RobeMageArch\Hood.NIF"
+	MWModel = "Clothes\RobeMageArch\hood_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeKingWorm\hood.dds"
+	MBModel = "Clothes\RobeKingWorm\Hood.NIF"
+	MWModel = "Clothes\RobeKingWorm\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\RobeNecromancer\hood.dds"
+	MBModel = "Clothes\RobeNecromancer\Hood.NIF"
+	MWModel = "Clothes\RobeNecromancer\hood_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+Item
+	ItemType = Clothing
+	Name = "Hood"
+	MIcon = "Clothes\MythicDawnrobe\hood.dds"
+	MBModel = "Clothes\MythicDawnrobe\Hood.NIF"
+	MWModel = "Clothes\MythicDawnrobe\hood_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 3
+	BipedParts = Hair
+	CustomType = "Hood"
+End
+
+
+
+#############################################
+##     Clothing - Necklaces (Amulet)       ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Gold"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletGold.NIF"
+	MWModel = "Clothes\Amulet\AmuletGold_gnd.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Jeweled"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletJeweledNoJewel.NIF"
+	MWModel = "Clothes\Amulet\amuletJeweledNoJewel_gnd.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.5
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJade.NIF"
+	MWModel = "Clothes\Amulet\amuletjade_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Silver"
+	MIcon = "Clothes\Amulet\AmuletSilver.dds"
+	MBModel = "Clothes\Amulet\AmuletSilver.NIF"
+	MWModel = "Clothes\Amulet\AmuletSilver_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Copper"
+	MIcon = "Clothes\Amulet\AmuletCopper.dds"
+	MBModel = "Clothes\Amulet\AmuletCopper.NIF"
+	MWModel = "Clothes\Amulet\AmuletCopper_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Necklace"
+	Material = "Bronze"
+	MIcon = "Clothes\Amulet\AmuletBronze.dds"
+	MBModel = "Clothes\Amulet\AmuletBronze.NIF"
+	MWModel = "Clothes\Amulet\AmuletBronze_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 0.3
+	BipedParts = Amulet
+	CustomType = "Necklace"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Bronze"
+	MIcon = "Clothes\Amulet\AmuletBronze.dds"
+	MBModel = "Clothes\Amulet\amuletbronzejeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletbronzejeweled_gnd.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Jeweled"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\amuletjeweled.NIF"
+	MWModel = "Clothes\Amulet\AmuletJeweled_gnd.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.6
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Gold"
+	MIcon = "Clothes\Amulet\AmuletGold.dds"
+	MBModel = "Clothes\Amulet\AmuletGoldJeweled.NIF"
+	MWModel = "Clothes\Amulet\AmuletGoldJeweled_gnd.NIF"
+	BasePrice = 150
+	ItemLevel = 6
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Silver"
+	MIcon = "Clothes\Amulet\AmuletSilver.dds"
+	MBModel = "Clothes\Amulet\AmuletSilverJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletsilverjeweled_gnd.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Jade"
+	MIcon = "Clothes\Amulet\AmuletJade.dds"
+	MBModel = "Clothes\Amulet\AmuletJadeJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletJadeJeweled_gnd.NIF"
+	BasePrice = 70
+	ItemLevel = 4
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+Item
+	ItemType = Clothing
+	Name = "Amulet"
+	Material = "Copper"
+	MIcon = "Clothes\Amulet\AmuletCopper.dds"
+	MBModel = "Clothes\Amulet\AmuletCopperJeweled.NIF"
+	MWModel = "Clothes\Amulet\amuletcopperjeweled_gnd.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 0.4
+	BipedParts = Amulet
+	CustomType = "Amulet"
+End
+
+
+
+#############################################
+##     Clothing - Shirts (Upper Body)      ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtShopkeeper\M\MCShirtShopkeeper.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtShopkeeper\F\MCShirtShopkeeper.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtShopkeeper\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtShopkeeper\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtShopkeeper\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtShopkeeper\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\12\M\Shirt12M.dds"
+	FIcon = "Clothes\LowerClass\12\F\Shirt12F.dds"
+	MBModel = "Clothes\LowerClass\12\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\12\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\12\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\12\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSuspender\M\MCShirtSuspender.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtSuspender\F\MCShirtSuspender.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\UpperClass\UCShirtHighway\Shirt.dds"
+	MBModel = "Clothes\UpperClass\UCShirtHighway\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\UCShirtHighway\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCShirtHighway\F\Shirt.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Silk"
+	MIcon = "Clothes\UpperClass\UCCountCountess\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\UCCountCountess\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\UCCountCountess\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\UCCountCountess\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCCountCountess\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\UCCountCountess\F\Shirt_gnd.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\LCShirtBeggar\M\LCShirtBeggar.dds"
+	MBModel = "Clothes\LowerClass\LCBeggar\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\LCBeggar\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\LCBeggar\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\LCBeggar\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSneaky\M\MCShirtSneaky.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSneaky\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSneaky\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSneaky\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSneaky\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtForester\M\MCShirtForester.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtForester\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtForester\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtForester\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtForester\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtHobbit\M\MCShirtHobbit.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtHobbit\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtHobbit\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtHobbit\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtHobbit\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\MCShirtSuspender\M\MCShirtSuspender.dds"
+	FIcon = "Clothes\MiddleClass\MCShirtSuspender\F\MCShirtSuspender.dds"
+	MBModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\MCShirtSuspenders\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\MCShirtSuspenders\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\13\M\Shirt13M.dds"
+	FIcon = "Clothes\LowerClass\13\F\Shirt13F.dds"
+	MBModel = "Clothes\LowerClass\13\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\13\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\13\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\13\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Wool"
+	MIcon = "Clothes\LowerClass\11\M\Shirt11M.dds"
+	FIcon = "Clothes\LowerClass\11\F\Shirt11F.dds"
+	MBModel = "Clothes\LowerClass\11\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\11\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\11\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\11\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\07\M\Shirt07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\07\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\06\M\Shirt06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\06\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Linen"
+	MIcon = "Clothes\MiddleClass\04\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	Material = "Linen"
+	MIcon = "Clothes\LowerClass\04\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\04\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\MiddleClass\01\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Shirt"
+	MIcon = "Clothes\LowerClass\02\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\02\M\Shirt.dds"
+	MBModel = "Clothes\LowerClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Tunic"
+	Material = "Flax"
+	MIcon = "Clothes\LowerClass\15\M\Shirt15M.dds"
+	FIcon = "Clothes\LowerClass\15\F\Shirt15F.dds"
+	MBModel = "Clothes\LowerClass\15\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\15\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\15\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\15\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Doublet"
+	Material = "Brocade"
+	MIcon = "Clothes\UpperClass\01\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\01\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\01\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Shirt_gnd.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Blouse"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\04\M\shirt.dds"
+	FIcon = "Clothes\UpperClass\04\F\shirt.dds"
+	MBModel = "Clothes\UpperClass\04\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\04\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\04\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\04\F\Shirt_gnd.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	Material = "Burlap"
+	MIcon = "Clothes\LowerClass\14\M\Shirt14M.dds"
+	FIcon = "Clothes\LowerClass\14\F\Shirt14F.dds"
+	MBModel = "Clothes\LowerClass\14\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\14\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\14\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\14\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\12\M\Shirt12M.dds"
+	FIcon = "Clothes\LowerClass\12\F\Shirt12F.dds"
+	MBModel = "Clothes\LowerClass\12\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\12\M\shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\12\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\12\F\shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\10\M\Shirt10M.dds"
+	FIcon = "Clothes\LowerClass\10\F\Shirt10F.dds"
+	MBModel = "Clothes\LowerClass\10\M\shirt.NIF"
+	MWModel = "Clothes\LowerClass\10\M\shirt_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\10\F\shirt.NIF"
+	FWModel = "Clothes\LowerClass\10\F\shirt_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\08\M\Shirt08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Shirt08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Shirt_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\08\F\Shirt_GND.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Vest"
+	MIcon = "Clothes\LowerClass\03\M\Shirt.dds"
+	FIcon = "Clothes\LowerClass\03\F\Shirt.dds"
+	MBModel = "Clothes\LowerClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Vest"
+End
+Item
+	ItemType = Clothing
+	Name = "Doublet"
+	MIcon = "Clothes\MiddleClass\02\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body
+	CustomType = "Shirt"
+End
+
+
+
+#############################################
+##    Clothing - Robes (Upper/Lower Body)  ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\MonkWhite\Shirt.dds"
+	MBModel = "Clothes\MonkWhite\M\Shirt.NIF"
+	MWModel = "Clothes\MonkWhite\M\Shirt_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC02\RobeUC02.dds"
+	MBModel = "Clothes\RobeUC02\M\RobeUC02M.NIF"
+	MWModel = "Clothes\RobeUC02\M\RobeUC02M_gnd.NIF"
+	FBModel = "Clothes\RobeUC02\F\RobeUC02F.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	Material = "Silk"
+	MIcon = "Clothes\RobeUC01\RobeUC01.dds"
+	MBModel = "Clothes\RobeUC01\M\RobeUC01M.NIF"
+	MWModel = "Clothes\RobeUC01\M\RobeUC01M_gnd.NIF"
+	FBModel = "Clothes\RobeUC01\F\RobeUC01F.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeLC03\RobeLC03.dds"
+	MBModel = "Clothes\RobeLC03\M\RobeLC03M.NIF"
+	MWModel = "Clothes\RobeLC03\M\RobeLC03M_gnd.NIF"
+	FBModel = "Clothes\RobeLC03\F\RobeLC03F.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeLC02\RobeLC02.dds"
+	MBModel = "Clothes\RobeLC02\M\RobeLC02M.NIF"
+	MWModel = "Clothes\RobeLC02\M\RobeLC02M_gnd.NIF"
+	FBModel = "Clothes\RobeLC02\F\RobeLC02F.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeLC01\RobeLC01.dds"
+	MBModel = "Clothes\RobeLC01\M\RobeLC01M.NIF"
+	MWModel = "Clothes\RobeLC01\M\RobeLC01M_gnd.NIF"
+	FBModel = "Clothes\RobeLC01\F\RobeLC01F.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeMCBlack\RobeMCBlack.dds"
+	MBModel = "Clothes\RobeMCBlack\M\RobeMCBlack.NIF"
+	MWModel = "Clothes\RobeMCBlack\M\RobeMCBlack_gnd.NIF"
+	FBModel = "Clothes\RobeMCBlack\F\RobeMCBlackF.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeMageArch\RobeMageArch.dds"
+	MBModel = "Clothes\RobeMageArch\M\RobeMageArch.NIF"
+	MWModel = "Clothes\RobeMageArch\M\RobeMageArch_gnd.NIF"
+	FBModel = "Clothes\RobeMageArch\F\RobeMageArchF.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 3
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeMage\RobeMage.dds"
+	MBModel = "Clothes\RobeMage\M\RobeMage.NIF"
+	MWModel = "Clothes\RobeMage\M\RobeMage_gnd.NIF"
+	FBModel = "Clothes\RobeMage\F\RobeMageF.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 3
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeKingWorm\RobeKingWorm.dds"
+	MBModel = "Clothes\RobeKingWorm\M\RobeKingWormM.NIF"
+	MWModel = "Clothes\RobeKingWorm\M\RobeKingWormM_gnd.NIF"
+	FBModel = "Clothes\RobeKingWorm\F\RobeKingWormF.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\RobeNecromancer\RobeNecromancer.dds"
+	MBModel = "Clothes\RobeNecromancer\M\RobeNecromancerM.NIF"
+	MWModel = "Clothes\RobeNecromancer\M\RobeNecromancerM_gnd.NIF"
+	FBModel = "Clothes\RobeNecromancer\F\RobeNecromancerF.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\RobeLCGrey\RobeLCGreyrobe.dds"
+	MBModel = "Clothes\RobeLCGrey\M\RobeLCGreyM.NIF"
+	MWModel = "Clothes\RobeLCGrey\M\RobeLCGreyM_gnd.NIF"
+	FBModel = "Clothes\RobeLCGrey\F\RobeLCGreyF.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robes"
+	MIcon = "Clothes\Wizard\Shirt.dds"
+	MBModel = "Clothes\Wizard\Shirt.NIF"
+	MWModel = "Clothes\Wizard\Shirt_gnd.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 4
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\MythicDawnrobe\MythicDawnrobe.dds"
+	MBModel = "Clothes\MythicDawnrobe\M\MythicDawnrobeM.NIF"
+	MWModel = "Clothes\MythicDawnrobe\M\MythicDawnrobeM_gnd.NIF"
+	FBModel = "Clothes\MythicDawnrobe\F\MythicDawnrobeF.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 3
+	BipedParts = Upper Body | Lower Body | Hand | Foot
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Robe"
+	MIcon = "Clothes\Monk\Shirt.dds"
+	MBModel = "Clothes\Monk\M\Shirt.NIF"
+	MWModel = "Clothes\Monk\M\Shirt_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Robe"
+End
+Item
+	ItemType = Clothing
+	Name = "Overalls"
+	MIcon = "Clothes\LowerClass\09\M\Shirt09M.dds"
+	FIcon = "Clothes\LowerClass\09\F\Shirt09F.dds"
+	MBModel = "Clothes\LowerClass\09\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\09\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\09\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\09\F\Shirt_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\05\M\shirt.dds"
+	FIcon = "Clothes\UpperClass\05\F\shirt.dds"
+	MBModel = "Clothes\UpperClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\05\F\Shirt.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Felt"
+	MIcon = "Clothes\MiddleClass\05\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\05\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\05\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\05\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\05\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\03\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\03\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\UpperClass\02\M\Shirt.dds"
+	FIcon = "Clothes\UpperClass\02\F\Shirt.dds"
+	MBModel = "Clothes\UpperClass\02\M\Shirt.NIF"
+	MWModel = "Clothes\UpperClass\02\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\UpperClass\02\F\Shirt.NIF"
+	FWModel = "Clothes\UpperClass\02\F\Shirt_gnd.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Outfit"
+	MIcon = "Clothes\MiddleClass\03\M\Shirt.dds"
+	FIcon = "Clothes\MiddleClass\03\F\Shirt.dds"
+	MBModel = "Clothes\MiddleClass\03\M\Shirt.NIF"
+	MWModel = "Clothes\MiddleClass\03\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\03\F\Shirt.NIF"
+	FWModel = "Clothes\MiddleClass\03\F\Shirt_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Outfit"
+End
+Item
+	ItemType = Clothing
+	Name = "Waders"
+	MIcon = "Clothes\LowerClass\09\M\Shirt09M.dds"
+	FIcon = "Clothes\LowerClass\09\F\Shirt09F.dds"
+	MBModel = "Clothes\LowerClass\09\M\Shirt.NIF"
+	MWModel = "Clothes\LowerClass\09\M\Shirt_gnd.NIF"
+	FBModel = "Clothes\LowerClass\09\F\Shirt.NIF"
+	FWModel = "Clothes\LowerClass\09\F\Shirt_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Upper Body | Lower Body
+	CustomType = "Waders"
+End
+
+
+
+#############################################
+##     Clothing - Rings (Ring)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingEbonyDiamond.NIF"
+	MWModel = "Clothes\Ring\RingEbonyDiamond.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.2
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingEbonyEmerald.NIF"
+	MWModel = "Clothes\Ring\RingEbonyEmerald.NIF"
+	BasePrice = 180
+	ItemLevel = 6
+	Weight = 0.2
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldDiamond.NIF"
+	MWModel = "Clothes\Ring\RingGoldDiamond.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 0.2
+	BipedParts = Left Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldEmerald.NIF"
+	MWModel = "Clothes\Ring\RingGoldEmerald.NIF"
+	BasePrice = 160
+	ItemLevel = 6
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingGoldSapphire.NIF"
+	MWModel = "Clothes\Ring\RingGoldSapphire.NIF"
+	BasePrice = 140
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverEmerald.NIF"
+	MWModel = "Clothes\Ring\RingSilverEmerald.NIF"
+	BasePrice = 140
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverSapphire.NIF"
+	MWModel = "Clothes\Ring\RingSilverSapphire.NIF"
+	BasePrice = 120
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeSapphire.NIF"
+	MWModel = "Clothes\Ring\RingJadeSapphire.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeRuby.NIF"
+	MWModel = "Clothes\Ring\RingJadeRuby.NIF"
+	BasePrice = 80
+	ItemLevel = 4
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingJadeTopaz.NIF"
+	MWModel = "Clothes\Ring\RingJadeTopaz.NIF"
+	BasePrice = 60
+	ItemLevel = 3
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+Item
+	ItemType = Clothing
+	Name = "Ring"
+	MIcon = "Clothes\Ring\Ring.dds"
+	MBModel = "Clothes\Ring\RingSilverRuby.NIF"
+	MWModel = "Clothes\Ring\RingSilverRuby.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 0.1
+	BipedParts = Right Ring
+	CustomType = "Ring"
+End
+
+
+
+#############################################
+##     Clothing - Pants (Lower Body)       ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\01\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\01\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\01\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\F\Pants.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsKungfuBlk\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsKungfuBlk\F\Pants.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsAdventurer\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsAdventurer\F\Pants.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\05\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\05\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\03\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\03\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\03\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\01\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\01\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\01\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\02\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\02\M\Pants.dds"
+	MBModel = "Clothes\LowerClass\02\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\02\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Silks"
+	MIcon = "Clothes\UpperClass\UCCountCountess\M\Pant.dds"
+	FIcon = "Clothes\UpperClass\UCCountCountess\F\Pant.dds"
+	MBModel = "Clothes\UpperClass\UCCountCountess\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\UCCountCountess\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\UCCountCountess\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\UCCountCountess\F\Pants_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Britches"
+	MIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\F\Pants.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Garment"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\04\M\pants.dds"
+	FIcon = "Clothes\UpperClass\04\F\pants.dds"
+	MBModel = "Clothes\UpperClass\04\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\04\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\04\F\Pants_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\01\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Pants_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Braies"
+	MIcon = "Clothes\LowerClass\08\M\Pants08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Pants08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Pants_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\08\M\Pants_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Breeches"
+	MIcon = "Clothes\LowerClass\07\M\Pants07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\07\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	Material = "Felt"
+	MIcon = "Clothes\LowerClass\06\M\Pants06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\06\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\04\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Pants_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\MiddleClass\02\M\Pants.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Pants.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Pants.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Pants_gnd.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Linens"
+	MIcon = "Clothes\LowerClass\04\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\04\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\04\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Garment"
+	Material = "Silk"
+	MIcon = "Clothes\UpperClass\01\M\Pants.dds"
+	FIcon = "Clothes\UpperClass\01\F\Pants.dds"
+	MBModel = "Clothes\UpperClass\01\M\Pants.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Pants.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Pants_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	Weight = 1.5
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+
+
+
+#############################################
+##     Clothing - Shoes (Foot)             ##
+#############################################
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\04\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\02\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\Wizard\Shoes.dds"
+	MBModel = "Clothes\Wizard\Shoes.NIF"
+	MWModel = "Clothes\Wizard\Shoes_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\LowerClass\05\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Felt"
+	MIcon = "Clothes\MiddleClass\05\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\05\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Sandals"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\08\M\Shoes08M.dds"
+	FIcon = "Clothes\LowerClass\08\F\Shoes08F.dds"
+	MBModel = "Clothes\LowerClass\08\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\08\M\Shoes_Gnd.NIF"
+	FBModel = "Clothes\LowerClass\08\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\08\F\Shoes_Gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Sandals"
+End
+Item
+	ItemType = Clothing
+	Name = "Clogs"
+	MIcon = "Clothes\LowerClass\07\M\Shoes07M.dds"
+	FIcon = "Clothes\LowerClass\07\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\07\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\07\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\07\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\07\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Cowhide"
+	MIcon = "Clothes\MiddleClass\04\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\04\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Suede"
+	MIcon = "Clothes\UpperClass\03\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\03\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\UpperClass\02\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\02\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\MiddleClass\03\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\03\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Doeskin"
+	MIcon = "Clothes\MiddleClass\02\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\02\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\02\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\02\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	MIcon = "Clothes\LowerClass\06\M\Shoes06M.dds"
+	FIcon = "Clothes\LowerClass\06\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\06\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\06\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\06\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\06\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Sandals"
+	Material = "Cloth"
+	MIcon = "Clothes\LowerClass\05\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\05\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\05\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\05\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\05\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\05\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Sandals"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Linen"
+	MIcon = "Clothes\LowerClass\04\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\04\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\04\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\04\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\04\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\04\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Moccasins"
+	MIcon = "Clothes\LowerClass\03\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\03\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\03\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\03\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\03\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\03\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\02\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\02\M\Shoes.dds"
+	MBModel = "Clothes\LowerClass\02\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\02\M\Shoes_gnd.NIF"
+	FWModel = "Clothes\LowerClass\02\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Pigskin"
+	MIcon = "Clothes\MiddleClass\01\M\Shoes.dds"
+	FIcon = "Clothes\MiddleClass\01\F\Shoes.dds"
+	MBModel = "Clothes\MiddleClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\MiddleClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\MiddleClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Velvet"
+	MIcon = "Clothes\UpperClass\01\M\Shoes.dds"
+	FIcon = "Clothes\UpperClass\01\F\Shoes.dds"
+	MBModel = "Clothes\UpperClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\UpperClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\UpperClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\UpperClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 2.5
+	BipedParts = Foot
+	CustomType = "Shoes"
+End
+Item
+	ItemType = Clothing
+	Name = "Shoes"
+	Material = "Leather"
+	MIcon = "Clothes\LowerClass\01\M\Shoes.dds"
+	FIcon = "Clothes\LowerClass\01\F\Shoes.dds"
+	MBModel = "Clothes\LowerClass\01\M\Shoes.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Shoes_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Shoes.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Shoes_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 2
+	BipedParts = Foot
+	CustomType = "Shoes"
+End

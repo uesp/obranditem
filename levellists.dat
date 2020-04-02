@@ -1,0 +1,134 @@
+LevelList
+	Name = TopLevelList
+	Parent = NULL
+	Empty = true
+	MaxRecords = 100
+	ChanceNone = 1
+	CalculateAll = false
+	CalculateEach = false
+End
+LevelList
+	Name = TestTop
+	Parent = NULL
+	Empty = true
+	MaxRecords = 100
+	ChanceNone = 1
+	CalculateAll = false
+	CalculateEach = false
+End
+LevelList
+	Name = Weapons
+	Parent = TopLevelList
+	MaxRecords = 90
+	ChanceNone = 2
+	CalculateAll = true
+	CalculateEach = false
+	ItemType = Weapon
+End
+LevelList
+	Name = Armor
+	Parent = TopLevelList
+	MaxRecords = 80
+	ChanceNone = 3
+	CalculateAll = false
+	CalculateEach = true
+	ItemType = Armor
+End
+LevelList
+	Name = Clothing
+	Parent = TopLevelList
+	MaxRecords = 70
+	ChanceNone = 4
+	CalculateAll = true
+	CalculateEach = true
+	ItemType = Clothing
+End
+LevelList
+	Name = Misc
+	Parent = TopLevelList
+	MaxRecords = 70
+	ChanceNone = 4
+	CalculateAll = true
+	CalculateEach = true
+	ItemType = Misc
+End
+LevelList
+	Name = Scroll
+	Parent = TopLevelList
+	MaxRecords = 70
+	ChanceNone = 4
+	CalculateAll = true
+	CalculateEach = true
+	ItemType = Scroll
+End
+LevelList
+	Name = Staff
+	Parent = TopLevelList
+	MaxRecords = 70
+	ChanceNone = 4
+	CalculateAll = true
+	CalculateEach = true
+	ItemType = Staff
+End
+LevelList
+	Name = TestMask
+	Parent = TopLevelList
+	MaxRecords = 70
+	ChanceNone = 5
+	CalculateAll = true
+	CalculateEach = true
+	CustomTypes = test
+End
+LevelList
+	Name = TestDual
+	Parent = TopLevelList
+	Parent = TestTop
+	MaxRecords = 90
+	ChanceNone = 2
+	CalculateAll = true
+	CalculateEach = false
+	ItemType = Weapon
+End
+Insertion
+	EditorID = siFireBall1
+	Parent = TestTop
+	Parent = TopLevelList
+	Level = 11
+	Count = 2
+End
+LevelList
+	Name = TestNone
+	Parent = NULL
+	ItemEffects = None
+end
+LevelList
+	Name = TestSuffix
+	Parent = NULL
+	ItemEffects = Suffix
+end
+LevelList
+	Name = TestPrefix
+	Parent = NULL
+	ItemEffects = Prefix
+end
+LevelList
+	Name = TestAny
+	Parent = NULL
+	ItemEffects = Any
+end
+LevelList
+	Name = TestOnlySuffix
+	Parent = NULL
+	ItemEffects = OnlySuffix
+end
+LevelList
+	Name = TestOnlyPrefix
+	Parent = NULL
+	ItemEffects = OnlyPrefix
+end
+LevelList
+	Name = TestNoneOnlyPrefix
+	Parent = NULL
+	ItemEffects = None | OnlyPrefix
+end
+

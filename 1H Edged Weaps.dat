@@ -1,0 +1,2030 @@
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Iron"
+	Icon = "Weapons\IronDagger.dds"
+	Model = "Weapons\Iron\Dagger.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 7
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 275
+	Damage = 5
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Iron"
+	Icon = "Weapons\IronShortsword.dds"
+	Model = "Weapons\Iron\ShortSword.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 325
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Iron"
+	Icon = "Weapons\IronLongsword.dds"
+	Model = "Weapons\Iron\LongSword.NIF"
+	BasePrice = 20
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 400
+	Damage = 9
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Iron"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\ironkatana.nif"
+	BasePrice = 25
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 17
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 375
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Iron"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\irondunno.nif"
+	BasePrice = 22
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 15.0
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 350
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Iron"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\irontanto.nif"
+	BasePrice = 6
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 275
+	Damage = 6
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Iron"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\ironwakizashi.nif"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 7
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 275
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Steel"
+	Icon = "Weapons\SteelDagger.dds"
+	Model = "Weapons\Steel\Dagger.NIF"
+	BasePrice = 20
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 6
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 250
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Steel"
+	Icon = "Weapons\SteelLongsword.dds"
+	Model = "Weapons\Steel\Longsword.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 31
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 375
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Steel"
+	Icon = "Weapons\SteelShortsword.dds"
+	Model = "Weapons\Steel\Shortsword.NIF"
+	BasePrice = 25
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 11
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 300
+	Damage = 9
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Steel"
+	Icon = "Weapons\Cutlass.dds"
+	Model = "Weapons\Cutlass\Cutlass.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 225
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Steel"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\steelkatana.nif"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 325
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Steel"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\steeldunno.nif"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 300
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Steel"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\steeltanto.nif"
+	BasePrice = 20
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 175
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Steel"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\steelwakizashi.nif"
+	BasePrice = 32
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 7.0
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 225
+	Damage = 8
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Silver"
+	Icon = "Weapons\SilverDagger.dds"
+	Model = "Weapons\Silver\Dagger.NIF"
+	BasePrice = 40
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 325
+	Damage = 9
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Silver"
+	Icon = "Weapons\SilverShortsword.dds"
+	Model = "Weapons\Silver\ShortSword.NIF"
+	BasePrice = 50
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 13
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 375
+	Damage = 11
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Silver"
+	Icon = "Weapons\SilverLongsword.dds"
+	Model = "Weapons\Silver\LongSword.NIF"
+	BasePrice = 125
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 34
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 450
+	Damage = 13
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Silver"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\silverkatana.nif"
+	BasePrice = 135
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 29
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 375
+	Damage = 15
+	IgnoreResist = true
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Silver"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\silverdunno.nif"
+	BasePrice = 123
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 26
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 350
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Silver"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\silvertanto.nif"
+	BasePrice = 40
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 6
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 275
+	Damage = 9
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Silver"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\silverwakizashi.nif"
+	BasePrice = 48
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 7
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 250
+	Damage = 10
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenLongSword.dds"
+	Model = "Weapons\Dwarven\LongSword.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 500
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenShortSword.dds"
+	Model = "Weapons\Dwarven\ShortSword.NIF"
+	BasePrice = 145
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 16
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 425
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenDagger.dds"
+	Model = "Weapons\Dwarven\Dagger.NIF"
+	BasePrice = 110
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 400
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Dwarven"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\dwarvenkatana.nif"
+	BasePrice = 220
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 425
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Dwarven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\dwarvendunno.nif"
+	BasePrice = 208
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 37
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 450
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Dwarven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\dwarventanto.nif"
+	BasePrice = 110
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 350
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Dwarven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\dwarvenwakizashi.nif"
+	BasePrice = 130
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 325
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Elven"
+	Icon = "Weapons\ElvenLongsword.dds"
+	Model = "Weapons\Elven\LongSword.NIF"
+	BasePrice = 420
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	EnchantPoints = 400
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 325
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Elven"
+	Icon = "Weapons\ElvenShortsword.dds"
+	Model = "Weapons\Elven\ShortSword.NIF"
+	BasePrice = 320
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 9
+	EnchantPoints = 350
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 250
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Elven"
+	Icon = "Weapons\ElvenDagger.dds"
+	Model = "Weapons\Elven\Dagger.NIF"
+	BasePrice = 260
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 4
+	EnchantPoints = 300
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 200
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Elven"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\elvenkatana.nif"
+	BasePrice = 460
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 275
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Elven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\elvendunno.nif"
+	BasePrice = 420
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 23
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 275
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Elven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\elventanto.nif"
+	BasePrice = 260
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 4
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 200
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Elven"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\elvenwakizashi.nif"
+	BasePrice = 275
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 220
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Icon = "Weapons\Braided\bdagger.dds"
+	Model = "Weapons\Braided\bdagger.nif"
+	BasePrice = 300
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 4
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 200
+	Damage = 13
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Icon = "Weapons\Braided\bkatana.dds"
+	Model = "Weapons\Braided\bkatana.nif"
+	BasePrice = 420
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 275
+	Damage = 18
+	IgnoreResist = true
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Icon = "Weapons\Braided\blongsword.dds"
+	Model = "Weapons\Braided\blongsword.nif"
+	BasePrice = 500
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 325
+	Damage = 17
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Icon = "Weapons\Braided\bshortsword.dds"
+	Model = "Weapons\Braided\bshortsword.nif"
+	BasePrice = 350
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 250
+	Damage = 15
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Glass"
+	Icon = "Weapons\GlassLongsword.dds"
+	Model = "Weapons\Glass\LongSword.NIF"
+	BasePrice = 840
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 275
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Glass"
+	Icon = "Weapons\GlassShortsword.dds"
+	Model = "Weapons\Glass\ShortSword.NIF"
+	BasePrice = 670
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 200
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Glass"
+	Icon = "Weapons\GlassDagger.dds"
+	Model = "Weapons\Glass\Dagger.NIF"
+	BasePrice = 570
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 3
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 150
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Glass"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\glasskatana.nif"
+	BasePrice = 920
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 240
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Glass"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\glassdunno.nif"
+	BasePrice = 835
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 19
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 250
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Glass"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\glasstanto.nif"
+	BasePrice = 570
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 3
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 130
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Glass"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\glasswakizashi.nif"
+	BasePrice = 595
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 4
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 165
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Black"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\blackhandkatana.nif"
+	BasePrice = 1000
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 33
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 340
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Black"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\blackhanddunno.nif"
+	BasePrice = 850
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 23.0
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 325
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Black"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\blackhandtanto.nif"
+	BasePrice = 750
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 175
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Black"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\blackhandwakizashi.nif"
+	BasePrice = 750
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 7
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 185
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Reaver"
+	Icon = "Weapons\LNsoulreaver0001icon.dds"
+	Model = "Weapons\Steel\LN_soulreaver1a.nif"
+	BasePrice = 1900
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 750
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyLongsword.dds"
+	Model = "Weapons\Ebony\LongSword.NIF"
+	BasePrice = 1700
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 46
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 600
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyShortsword.dds"
+	Model = "Weapons\Ebony\ShortSword.NIF"
+	BasePrice = 1400
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 525
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyDagger.dds"
+	Model = "Weapons\Ebony\Dagger.NIF"
+	BasePrice = 1250
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 400
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Ebony"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\ebonykatana.nif"
+	BasePrice = 1870
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 525
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Ebony"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\ebonydunno.nif"
+	BasePrice = 1730
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 550
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Ebony"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\ebonytanto.nif"
+	BasePrice = 1250
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 375
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Ebony"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\ebonywakizashi.nif"
+	BasePrice = 1320
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 430
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Icon = "weapons\bridessword.dds"
+	Model = "weapons\billessword\longsword.nif"
+	BasePrice = 2000
+	ItemLevel = 20
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.1
+	Health = 575
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Icon = "weapons\bridessword.dds"
+	Model = "weapons\bridessword\longsword.nif"
+	BasePrice = 2000
+	ItemLevel = 20
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.1
+	Health = 550
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Icxth Sword"
+	# Instance 1
+	Icon = "tkIcxthSwordIcon.dds"
+	Model = "Weapons\throttle\tkIcxthSword.nif"
+	BasePrice = 3700
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 600
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Icxth Sword"
+	# Instance 2
+	Icon = "tkIcxthSwordIcon.dds"
+	Model = "Weapons\throttle\tkIcxthSword.nif"
+	BasePrice = 3700
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 600
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricLongsword.dds"
+	Model = "Weapons\Daedric\LongSword.NIF"
+	BasePrice = 3100
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 700
+	Damage = 23
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricShortsword.dds"
+	Model = "Weapons\Daedric\ShortSword.NIF"
+	BasePrice = 2900
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.95
+	Speed = 1.25
+	Health = 625
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricDagger.dds"
+	Model = "Weapons\Daedric\Dagger.NIF"
+	BasePrice = 2700
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 450
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Daedric"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\daedrickatana.nif"
+	BasePrice = 3410
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1.2
+	Health = 625
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Kodachi"
+	Material = "Daedric"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\daedricdunno.nif"
+	BasePrice = 3050
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 46
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.2
+	Health = 600
+	Damage = 23
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Tanto"
+	Material = "Daedric"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\daedrictanto.nif"
+	BasePrice = 2700
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 11
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.7
+	Speed = 1.6
+	Health = 375
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Wakizashi"
+	Material = "Daedric"
+	Icon = "Weapons\tanto.dds"
+	Model = "Weapons\SevArmory\daedricwakizashi.nif"
+	BasePrice = 2815
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.4
+	Health = 400
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F3_Metal1.nif"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 200
+	Damage = 7
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F2_Geisha.nif"
+	BasePrice = 90
+	ItemLevel = 6
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 250
+	Damage = 12
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F3_Flower.nif"
+	BasePrice = 130
+	ItemLevel = 9
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 250
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F2_LotusPond.nif"
+	BasePrice = 180
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 275
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F3_Yat.nif"
+	BasePrice = 210
+	ItemLevel = 15
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 300
+	Damage = 17
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F2_BWCircle.nif"
+	BasePrice = 270
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 375
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F3_Red.nif"
+	BasePrice = 310
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 475
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Fan"
+	Icon = "tkFanIcon.dds"
+	Model = "weapons\throttle\Fans\F2_Kanji.nif"
+	BasePrice = 360
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 2
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.5
+	Health = 600
+	Damage = 23
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Icon = "RD\rdelvenscim.dds"
+	Model = "RD\rdelvensword.nif"
+	BasePrice = 500
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.1
+	Speed = 1.1
+	Health = 300
+	Damage = 18
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Kukri"
+	Icon = "RD\rdkukri.dds"
+	Model = "RD\rdkukri.NIF"
+	BasePrice = 500
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.25
+	Health = 400
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Icon = "RD\rdtemplar.dds"
+	Model = "RD\rdtemplarsword.NIF"
+	BasePrice = 840
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 450
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Elmwood"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\elmwood_sabre_1h.nif"
+	BasePrice = 200
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 500
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "White"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\whiteleather_sabre_1H.nif"
+	BasePrice = 420
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 20
+	EnchantPoints = 400
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 325
+	Damage = 15
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Ivory"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\ivory_sabre_1h.nif"
+	BasePrice = 840
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 275
+	Damage = 17
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Ebony"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\ebony_sabre_1h.nif"
+	BasePrice = 1700
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 600
+	Damage = 18
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Brightwood"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\sabre_1h.nif"
+	BasePrice = 3250
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1.2
+	Health = 850
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Daedric"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\DaedricScimitar.nif"
+	BasePrice = 3200
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 43
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 0.9
+	Health = 730
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Dwarven"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\DwarvenScimitar.nif"
+	BasePrice = 250
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.9
+	Speed = 1.0
+	Health = 450
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Ebony"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\EbonyScimitar.nif"
+	BasePrice = 1700
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 625
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Elven"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\ElvenScimitar.nif"
+	BasePrice = 440
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 26
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 365
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Glass"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\GlassScimitar.nif"
+	BasePrice = 840
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 290
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Iron"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\IronScimitar.nif"
+	BasePrice = 25
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 400
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Silver"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\SilverScimitar.nif"
+	BasePrice = 130
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 34
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 470
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Scimitar"
+	Material = "Steel"
+	Icon = "Weapons\akavirilongsword.dds"
+	Model = "Weapons\Scimitar\SteelScimitar.nif"
+	BasePrice = 50
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.05
+	Speed = 1
+	Health = 375
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Daedric"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\DaedricCutlass.nif"
+	BasePrice = 3100
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 675
+	Damage = 23
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Ebony"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\EbonyCutlass.nif"
+	BasePrice = 1700
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 580
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Elven"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\ElvenCutlass.nif"
+	BasePrice = 420
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 23
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 310
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Steel"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\GrayCutlass.nif"
+	BasePrice = 45
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 360
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Glass"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\GlassCutlass.nif"
+	BasePrice = 840
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 260
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Iron"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\BlackCutlass.nif"
+	BasePrice = 20
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 380
+	Damage = 9
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Silver"
+	Icon = "Weapons\cutlass.dds"
+	Model = "Weapons\Cutlass\GoldCutlass.nif"
+	BasePrice = 130
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 425
+	Damage = 13
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Icon = "Weapons\Noble Plate\noble blade.dds"
+	Model = "Weapons\Noble Plate\noblelongsword.nif"
+	BasePrice = 850
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 475
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Longsword"
+End

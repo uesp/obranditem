@@ -1,0 +1,689 @@
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Fur"
+	MIcon = "Armor\Fur\Shield.dds"
+	FIcon = "Armor\Fur\Shield.dds"
+	MBModel = "Armor\Fur\Shield.NIF"
+	MWModel = "Armor\Fur\Shield.NIF"
+	FBModel = "Armor\Fur\Shield.NIF"
+	FWModel = "Armor\Fur\Shield.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 2
+	Armor = 400
+	ArmorType = "Light"
+	Health = 175
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Leather"
+	MIcon = "Armor\Leather\Shield.dds"
+	MBModel = "Armor\Leather\Shield.NIF"
+	MWModel = "Armor\Leather\Shield.NIF"
+	FIcon = "Armor\Leather\Shield.dds"
+	FBModel = "Armor\Leather\Shield.NIF"
+	FWModel = "Armor\Leather\Shield.NIF"
+	BasePrice = 20
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 3
+	Armor = 800
+	ArmorType = "Light"
+	Health = 200
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\Shield.dds"
+	MBModel = "Armor\Mithril\Shield.NIF"
+	MWModel = "Armor\Mithril\Shield.NIF"
+	FIcon = "Armor\Mithril\Shield.dds"
+	FBModel = "Armor\Mithril\Shield.NIF"
+	FWModel = "Armor\Mithril\Shield.NIF"
+	BasePrice = 115
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 4
+	Armor = 1000
+	ArmorType = "Light"
+	Health = 425
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Mithril"
+	MIcon = "Armor\gmithril\Shield.dds"
+	MBModel = "Armor\gmithril\Shield.NIF"
+	MWModel = "Armor\gmithril\Shield.NIF"
+	FIcon = "Armor\gmithril\Shield.dds"
+	FBModel = "Armor\gmithril\Shield.NIF"
+	FWModel = "Armor\gmithril\Shield.NIF"
+	BasePrice = 135
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 4
+	Armor = 1000
+	ArmorType = "Light"
+	Health = 425
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+#############################################
+##     More Shields - Skull & Yin-yang     ##
+##             Elven Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Silver Skull Light Shield
+	MIcon = "Armor\skull\shield.dds"
+	MBModel = "Armor\skull\shield.nif"
+	MWModel = "Armor\skull\shield.nif"
+	FIcon = "Armor\skull\shield.dds"
+	FBModel = "Armor\skull\shield.nif"
+	FWModel = "Armor\skull\shield.nif"
+	BasePrice = 315
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 7
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Yin-Yang Light Shield
+	MIcon = "Armor\yin-yangshi\shield.dds"
+	MBModel = "Armor\yin-yangshi\shield.nif"
+	MWModel = "Armor\yin-yangshi\shield.nif"
+	FIcon = "Armor\yin-yangshi\shield.dds"
+	FBModel = "Armor\yin-yangshi\shield.nif"
+	FWModel = "Armor\yin-yangshi\shield.nif"
+	BasePrice = 315
+	ItemLevel = 15
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 7
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Elven"
+	MIcon = "Armor\Elven\shield.dds"
+	FIcon = "Armor\Elven\shield.dds"
+	MBModel = "Armor\Elven\Shield.NIF"
+	MWModel = "Armor\Elven\Shield.NIF"
+	FBModel = "Armor\Elven\Shield.NIF"
+	FWModel = "Armor\Elven\Shield.NIF"
+	BasePrice = 315
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 7
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	MIcon = "Armor\Braided\bshield.dds"
+	FIcon = "Armor\Braided\bshield.dds"
+	MBModel = "Armor\Braided\bshield.nif"
+	MWModel = "Armor\Braided\bshield.nif"
+	FBModel = "Armor\Braided\bshield.nif"
+	FWModel = "Armor\Braided\bshield.nif"
+	BasePrice = 330
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 7
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\Shield.dds"
+	MBModel = "Armor\majesty\Shield.NIF"
+	MWModel = "Armor\majesty\Shield.NIF"
+	FIcon = "Armor\majesty\Shield.dds"
+	FBModel = "Armor\majesty\Shield.NIF"
+	FWModel = "Armor\majesty\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Glass"
+	MIcon = "Armor\Glass\Shield.dds"
+	MBModel = "Armor\Glass\Shield.NIF"
+	MWModel = "Armor\Glass\Shield.NIF"
+	FIcon = "Armor\Glass\Shield.dds"
+	FBModel = "Armor\Glass\Shield.NIF"
+	FWModel = "Armor\Glass\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+#############################################
+##     More Shields - Scorpion & Dragon    ##
+##             Glass Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Scorpion Light Shield
+	MIcon = "Armor\scorpions\shield.dds"
+	MBModel = "Armor\scorpions\shield.nif"
+	MWModel = "Armor\scorpions\shield.nif"
+	FIcon = "Armor\scorpions\shield.dds"
+	FBModel = "Armor\scorpions\shield.nif"
+	FWModel = "Armor\scorpions\shield.nif"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+    # Red Dragon Light Shield
+	MIcon = "Armor\reddragonsh\shield.dds"
+	MBModel = "Armor\reddragonsh\shield.nif"
+	MWModel = "Armor\reddragonsh\shield.nif"
+	FIcon = "Armor\reddragonsh\shield.dds"
+	FBModel = "Armor\reddragonsh\shield.nif"
+	FWModel = "Armor\reddragonsh\shield.nif"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Eldar"
+	MIcon = "Armor\elveneldar2\Shield.dds"
+	MBModel = "Armor\elveneldar2\Shield.NIF"
+	MWModel = "Armor\elveneldar2\Shield.NIF"
+	FIcon = "Armor\elveneldar2\Shield.dds"
+	FBModel = "Armor\elveneldar2\Shield.NIF"
+	FWModel = "Armor\elveneldar2\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Drakefire"
+	MIcon = "Armor\rglass\Shield.dds"
+	MBModel = "Armor\rglass\Shield.NIF"
+	MWModel = "Armor\rglass\Shield.NIF"
+	FIcon = "Armor\rglass\Shield.dds"
+	FBModel = "Armor\rglass\Shield.NIF"
+	FWModel = "Armor\rglass\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Elven"
+	MIcon = "Armor\elveneldar3\Shield.dds"
+	MBModel = "Armor\elveneldar3\Shield.NIF"
+	MWModel = "Armor\elveneldar3\Shield.NIF"
+	FIcon = "Armor\elveneldar3\Shield.dds"
+	FBModel = "Armor\elveneldar3\Shield.NIF"
+	FWModel = "Armor\elveneldar3\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Eboron"
+	MIcon = "Armor\dmithril\Shield.dds"
+	MBModel = "Armor\dmithril\Shield.NIF"
+	MWModel = "Armor\dmithril\Shield.NIF"
+	FIcon = "Armor\dmithril\Shield.dds"
+	FBModel = "Armor\dmithril\Shield.NIF"
+	FWModel = "Armor\dmithril\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Bronze"
+	MIcon = "Armor\bmithril\Shield.dds"
+	MBModel = "Armor\bmithril\Shield.NIF"
+	MWModel = "Armor\bmithril\Shield.NIF"
+	FIcon = "Armor\bmithril\Shield.dds"
+	FBModel = "Armor\bmithril\Shield.NIF"
+	FWModel = "Armor\bmithril\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1125
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+
+#############################################
+##     Armor - Severian's Offhand Weapons  ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Daedric"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\daedrickodachioff.nif"
+	MWModel = "weapons\SevArmory\daedrickodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\daedrickodachioff.nif"
+	FWModel = "weapons\SevArmory\daedrickodachioff.nif"
+	BasePrice = 3050
+	ItemLevel = 23
+	MinEffectLevel = 10
+	MaxEffectLevel = 50
+	Weight = 43
+	Armor = 1800
+	ArmorType = "Light"
+	Health = 825
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Dwarven"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\dwarvenkodachioff.nif"
+	MWModel = "weapons\SevArmory\dwarvenkodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\dwarvenkodachioff.nif"
+	FWModel = "weapons\SevArmory\dwarvenkodachioff.nif"
+	BasePrice = 208
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 27
+	Armor = 1400
+	ArmorType = "Light"
+	Health = 500
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Ebony"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\ebonykodachioff.nif"
+	MWModel = "weapons\SevArmory\ebonykodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\ebonykodachioff.nif"
+	FWModel = "weapons\SevArmory\ebonykodachioff.nif"
+	BasePrice = 1730
+	ItemLevel = 17
+	MinEffectLevel = 5
+	MaxEffectLevel = 35
+	Weight = 39
+	Armor = 1700
+	ArmorType = "Light"
+	Health = 750
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Elven"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\elvenkodachioff.nif"
+	MWModel = "weapons\SevArmory\elvenkodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\elvenkodachioff.nif"
+	FWModel = "weapons\SevArmory\elvenkodachioff.nif"
+	BasePrice = 420
+	ItemLevel = 17
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 32
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 750
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Glass"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\glasskodachioff.nif"
+	MWModel = "weapons\SevArmory\glasskodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\glasskodachioff.nif"
+	FWModel = "weapons\SevArmory\glasskodachioff.nif"
+	BasePrice = 835
+	ItemLevel = 23
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 35
+	Armor = 1600
+	ArmorType = "Light"
+	Health = 800
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Iron"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\ironkodachioff.nif"
+	MWModel = "weapons\SevArmory\ironkodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\ironkodachioff.nif"
+	FWModel = "weapons\SevArmory\ironkodachioff.nif"
+	BasePrice = 15
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 15
+	Armor = 1100
+	ArmorType = "Light"
+	Health = 175
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Silver"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\silverkodachioff.nif"
+	MWModel = "weapons\SevArmory\silverkodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\silverkodachioff.nif"
+	FWModel = "weapons\SevArmory\silverkodachioff.nif"
+	BasePrice = 123
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 23
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Offhand Kodachi"
+	Material = "Steel"
+	MIcon = "weapons\ninjato.dds"
+	MBModel = "weapons\SevArmory\steelkodachioff.nif"
+	MWModel = "weapons\SevArmory\steelkodachioff.nif"
+	FIcon = "weapons\ninjato.dds"
+	FBModel = "weapons\SevArmory\steelkodachioff.nif"
+	FWModel = "weapons\SevArmory\steelkodachioff.nif"
+	BasePrice = 45
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 19
+	Armor = 1200
+	ArmorType = "Light"
+	Health = 190
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+
+
+
+#############################################
+##    Armor - Defensive Staves (Shields)   ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Ashenwood"
+	MIcon = "Armor\defensivestaves\staffwood.dds"
+	MBModel = "Armor\defensivestaves\ashenstaff.NIF"
+	MWModel = "Armor\defensivestaves\ashenstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwood.dds"
+	FBModel = "Armor\defensivestaves\ashenstaff.NIF"
+	FWModel = "Armor\defensivestaves\ashenstaff.NIF"
+	BasePrice = 90
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 7
+	Armor = 900
+	ArmorType = "Light"
+	Health = 225
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Black"
+	MIcon = "Armor\defensivestaves\staffball.dds"
+	MBModel = "Armor\defensivestaves\solidwoodstaffblack.NIF"
+	MWModel = "Armor\defensivestaves\solidwoodstaffblack.NIF"
+	FIcon = "Armor\defensivestaves\staffball.dds"
+	FBModel = "Armor\defensivestaves\solidwoodstaffblack.NIF"
+	FWModel = "Armor\defensivestaves\solidwoodstaffblack.NIF"
+	BasePrice = 220
+	ItemLevel = 12
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 10
+	Armor = 1100
+	ArmorType = "Light"
+	Health = 400
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Wood"
+	MIcon = "Armor\defensivestaves\staffball.dds"
+	MBModel = "Armor\defensivestaves\solidwoodstaffbrown.NIF"
+	MWModel = "Armor\defensivestaves\solidwoodstaffbrown.NIF"
+	FIcon = "Armor\defensivestaves\staffball.dds"
+	FBModel = "Armor\defensivestaves\solidwoodstaffbrown.NIF"
+	FWModel = "Armor\defensivestaves\solidwoodstaffbrown.NIF"
+	BasePrice = 220
+	ItemLevel = 12
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 10
+	Armor = 1100
+	ArmorType = "Light"
+	Health = 400
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Elven"
+	MIcon = "Armor\defensivestaves\staffelven.dds"
+	MBModel = "Armor\defensivestaves\elvenstaff.NIF"
+	MWModel = "Armor\defensivestaves\elvenstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffelven.dds"
+	FBModel = "Armor\defensivestaves\elvenstaff.NIF"
+	FWModel = "Armor\defensivestaves\elvenstaff.NIF"
+	BasePrice = 635
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 8
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 750
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Glass"
+	MIcon = "Armor\defensivestaves\staffglass.dds"
+	MBModel = "Armor\defensivestaves\glassstaff.NIF"
+	MWModel = "Armor\defensivestaves\glassstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffglass.dds"
+	FBModel = "Armor\defensivestaves\glassstaff.NIF"
+	FWModel = "Armor\defensivestaves\glassstaff.NIF"
+	BasePrice = 1500
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1050
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Silver"
+	MIcon = "Armor\defensivestaves\staffwar.dds"
+	MBModel = "Armor\defensivestaves\silverstaff.NIF"
+	MWModel = "Armor\defensivestaves\silverstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwar.dds"
+	FBModel = "Armor\defensivestaves\silverstaff.NIF"
+	FWModel = "Armor\defensivestaves\silverstaff.NIF"
+	BasePrice = 385
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 9
+	Armor = 1300
+	ArmorType = "Light"
+	Health = 800
+	BipedParts = Shield
+	CustomType = "L Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Staff"
+	Material = "Yew"
+	MIcon = "Armor\defensivestaves\staffwood.dds"
+	MBModel = "Armor\defensivestaves\yewstaff.NIF"
+	MWModel = "Armor\defensivestaves\yewstaff.NIF"
+	FIcon = "Armor\defensivestaves\staffwood.dds"
+	FBModel = "Armor\defensivestaves\yewstaff.NIF"
+	FWModel = "Armor\defensivestaves\yewstaff.NIF"
+	BasePrice = 100
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 6
+	Armor = 900
+	ArmorType = "Light"
+	Health = 300
+	BipedParts = Shield
+	CustomType = "L Shield"
+End

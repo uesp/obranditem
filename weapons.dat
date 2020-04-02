@@ -1,0 +1,1518 @@
+
+#############################################
+##     Weapons - Dremora                   ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Dremora"
+	Icon = "Weapons\DaedricBow.dds"
+	Model = "Weapons\Daedric\Bow.NIF"
+	BasePrice = 28
+	ItemLevel = 2
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 80
+	Damage = 10
+	IgnoreResist = true
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Dremora"
+	Icon = "Weapons\DaedricClaymore.dds"
+	Model = "Weapons\Daedric\Claymore.NIF"
+	BasePrice = 575
+	ItemLevel = 11
+	Weight = 62
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 340
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Dremora"
+	Icon = "Weapons\DaedricLongsword.dds"
+	Model = "Weapons\Daedric\LongSword.NIF"
+	BasePrice = 100
+	ItemLevel = 5
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 150
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Dremora"
+	Icon = "Weapons\DaedricMace.dds"
+	Model = "Weapons\Daedric\Mace.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 43
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 100
+	Damage = 12
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+
+
+
+#############################################
+##     Weapons - Daedric                   ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricBow.dds"
+	Model = "Weapons\Daedric\Bow.NIF"
+	BasePrice = 3200
+	ItemLevel = 28
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 420
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricLongsword.dds"
+	Model = "Weapons\Daedric\LongSword.NIF"
+	BasePrice = 3100
+	ItemLevel = 27
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 672
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricWarhammer.dds"
+	Model = "Weapons\Daedric\Warhammer.NIF"
+	BasePrice = 5000
+	ItemLevel = 35
+	Weight = 93
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 784
+	Damage = 28
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricClaymore.dds"
+	Model = "Weapons\Daedric\Claymore.NIF"
+	BasePrice = 4000
+	ItemLevel = 31
+	Weight = 62
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 728
+	Damage = 26
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricBattleAxe.dds"
+	Model = "Weapons\Daedric\Battleaxe.NIF"
+	BasePrice = 3800
+	ItemLevel = 30
+	Weight = 76
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 728
+	Damage = 26
+	IgnoreResist = true
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricMace.dds"
+	Model = "Weapons\Daedric\Mace.NIF"
+	BasePrice = 3200
+	ItemLevel = 28
+	Weight = 43
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 672
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricWarAxe.dds"
+	Model = "Weapons\Daedric\WarAxe.NIF"
+	BasePrice = 3100
+	ItemLevel = 27
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 616
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricShortsword.dds"
+	Model = "Weapons\Daedric\ShortSword.NIF"
+	BasePrice = 2900
+	ItemLevel = 26
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 588
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricDagger.dds"
+	Model = "Weapons\Daedric\Dagger.NIF"
+	BasePrice = 2700
+	ItemLevel = 25
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 532
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+
+
+#############################################
+##     Weapons - Ebony                     ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyBow.dds"
+	Model = "Weapons\Ebony\Bow.NIF"
+	BasePrice = 1550
+	ItemLevel = 19
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 364
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyLongsword.dds"
+	Model = "Weapons\Ebony\LongSword.NIF"
+	BasePrice = 1700
+	ItemLevel = 20
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 572
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyWarhammer.dds"
+	Model = "Weapons\Ebony\Warhammer.NIF"
+	BasePrice = 2800
+	ItemLevel = 26
+	Weight = 84
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 676
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyClaymore.dds"
+	Model = "Weapons\Ebony\Claymore.NIF"
+	BasePrice = 2200
+	ItemLevel = 23
+	Weight = 56
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 624
+	Damage = 24
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyBattleAxe.dds"
+	Model = "Weapons\Ebony\Battleaxe.NIF"
+	BasePrice = 2100
+	ItemLevel = 22
+	Weight = 69
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 624
+	Damage = 24
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyMace.dds"
+	Model = "Weapons\Ebony\Mace.NIF"
+	BasePrice = 1500
+	ItemLevel = 19
+	Weight = 39
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 572
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyWarAxe.dds"
+	Model = "Weapons\Ebony\WarAxe.NIF"
+	BasePrice = 1450
+	ItemLevel = 19
+	Weight = 36
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 520
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyShortsword.dds"
+	Model = "Weapons\Ebony\ShortSword.NIF"
+	BasePrice = 1400
+	ItemLevel = 18
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 494
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyDagger.dds"
+	Model = "Weapons\Ebony\Dagger.NIF"
+	BasePrice = 1250
+	ItemLevel = 17
+	Weight = 9
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 442
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+
+
+#############################################
+##     Weapons - Elven                     ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Elven"
+	Icon = "Weapons\ElvenBow.dds"
+	Model = "Weapons\Elven\Bow.NIF"
+	BasePrice = 360
+	ItemLevel = 9
+	Weight = 16
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 264
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Elven Longsword"
+	Icon = "Weapons\ElvenLongsword.dds"
+	Model = "Weapons\Elven\LongSword.NIF"
+	BasePrice = 420
+	ItemLevel = 10
+	Weight = 36
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 396
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Elven"
+	Icon = "Weapons\ElvenWarhammer.dds"
+	Model = "Weapons\Elven\Warhammer.NIF"
+	BasePrice = 800
+	ItemLevel = 14
+	Weight = 66
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 484
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Elven"
+	Icon = "Weapons\ElvenClaymore.dds"
+	Model = "Weapons\Elven\Claymore.NIF"
+	BasePrice = 600
+	ItemLevel = 12
+	Weight = 44
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 440
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Elven"
+	Icon = "Weapons\ElvenBattleaxe.dds"
+	Model = "Weapons\Elven\Battleaxe.NIF"
+	BasePrice = 580
+	ItemLevel = 12
+	Weight = 55
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 440
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Elven"
+	Icon = "Weapons\ElvenMace.dds"
+	Model = "Weapons\Elven\Mace.NIF"
+	BasePrice = 380
+	ItemLevel = 9
+	Weight = 31
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 396
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Elven"
+	Icon = "Weapons\ElvenWaraxe.dds"
+	Model = "Weapons\Elven\Waraxe.NIF"
+	BasePrice = 345
+	ItemLevel = 9
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.1
+	Speed = 0.9
+	Health = 352
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Elven"
+	Icon = "Weapons\ElvenShortsword.dds"
+	Model = "Weapons\Elven\ShortSword.NIF"
+	BasePrice = 320
+	ItemLevel = 8
+	Weight = 16
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 330
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Elven"
+	Icon = "Weapons\ElvenDagger.dds"
+	Model = "Weapons\Elven\Dagger.NIF"
+	BasePrice = 260
+	ItemLevel = 8
+	Weight = 7
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 286
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+
+
+#############################################
+##     Weapons - Glass                     ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Glass"
+	Icon = "Weapons\GlassBow.dds"
+	Model = "Weapons\Glass\Bow.NIF"
+	BasePrice = 735
+	ItemLevel = 13
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 312
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Glass"
+	Icon = "Weapons\GlassLongsword.dds"
+	Model = "Weapons\Glass\LongSword.NIF"
+	BasePrice = 840
+	ItemLevel = 14
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 480
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Glass"
+	Icon = "Weapons\GlassWarhammer.dds"
+	Model = "Weapons\Glass\Warhammer.NIF"
+	BasePrice = 1500
+	ItemLevel = 19
+	Weight = 75
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 576
+	Damage = 24
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Glass"
+	Icon = "Weapons\GlassClaymore.dds"
+	Model = "Weapons\Glass\Claymore.NIF"
+	BasePrice = 1150
+	ItemLevel = 16
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 528
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Glass"
+	Icon = "Weapons\GlassBattleAxe.dds"
+	Model = "Weapons\Glass\Battleaxe.NIF"
+	BasePrice = 1050
+	ItemLevel = 16
+	Weight = 62
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 528
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Glass"
+	Icon = "Weapons\GlassMace.dds"
+	Model = "Weapons\Glass\Mace.NIF"
+	BasePrice = 750
+	ItemLevel = 13
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 480
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Glass"
+	Icon = "Weapons\GlassWarAxe.dds"
+	Model = "Weapons\Glass\WarAxe.NIF"
+	BasePrice = 710
+	ItemLevel = 13
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 432
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Glass"
+	Icon = "Weapons\GlassShortsword.dds"
+	Model = "Weapons\Glass\ShortSword.NIF"
+	BasePrice = 670
+	ItemLevel = 12
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 408
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Glass"
+	Icon = "Weapons\GlassDagger.dds"
+	Model = "Weapons\Glass\Dagger.NIF"
+	BasePrice = 570
+	ItemLevel = 11
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 360
+	Damage = 15
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+
+
+#############################################
+##     Weapons - Dwarven                   ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenBow.dds"
+	Model = "Weapons\Dwarven\Bow.NIF"
+	BasePrice = 155
+	ItemLevel = 6
+	Weight = 14
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 220
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenLongSword.dds"
+	Model = "Weapons\Dwarven\LongSword.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 320
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenWarhammer.dds"
+	Model = "Weapons\Dwarven\Warhammer.NIF"
+	BasePrice = 430
+	ItemLevel = 10
+	Weight = 57
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 400
+	Damage = 20
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenWarAxe.dds"
+	Model = "Weapons\Dwarven\WarAxe.NIF"
+	BasePrice = 165
+	ItemLevel = 6
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 280
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenShortSword.dds"
+	Model = "Weapons\Dwarven\ShortSword.NIF"
+	BasePrice = 145
+	ItemLevel = 6
+	Weight = 14
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 260
+	Damage = 13
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenMace.dds"
+	Model = "Weapons\Dwarven\Mace.NIF"
+	BasePrice = 180
+	ItemLevel = 6
+	Weight = 27
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 320
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenDagger.dds"
+	Model = "Weapons\Dwarven\Dagger.NIF"
+	BasePrice = 110
+	ItemLevel = 5
+	Weight = 6
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 220
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenClaymore.dds"
+	Model = "Weapons\Dwarven\Claymore.NIF"
+	BasePrice = 310
+	ItemLevel = 8
+	Weight = 38
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 360
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenBattleAxe.dds"
+	Model = "Weapons\Dwarven\Battleaxe.NIF"
+	BasePrice = 300
+	ItemLevel = 8
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 360
+	Damage = 18
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+
+
+
+#############################################
+##     Weapons - Silver                    ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Silver"
+	Icon = "Weapons\SilverBow.dds"
+	Model = "Weapons\Silver\Bow.NIF"
+	BasePrice = 55
+	ItemLevel = 3
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 0
+	Speed = 1
+	Health = 180
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Silver"
+	Icon = "Weapons\SilverClaymore.dds"
+	Model = "Weapons\Silver\Claymore.NIF"
+	BasePrice = 130
+	ItemLevel = 5
+	Weight = 38
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 288
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Silver"
+	Icon = "Weapons\SilverWarhammer.dds"
+	Model = "Weapons\Silver\Warhammer.NIF"
+	BasePrice = 200
+	ItemLevel = 7
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 324
+	Damage = 18
+	IgnoreResist = true
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Silver"
+	Icon = "Weapons\SilverDagger.dds"
+	Model = "Weapons\Silver\Dagger.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 162
+	Damage = 9
+	IgnoreResist = true
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Silver"
+	Icon = "Weapons\SilverMace.dds"
+	Model = "Weapons\Silver\Mace.NIF"
+	BasePrice = 70
+	ItemLevel = 4
+	Weight = 23
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 252
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Silver"
+	Icon = "Weapons\SilverWarAxe.dds"
+	Model = "Weapons\Silver\WarAxe.NIF"
+	BasePrice = 60
+	ItemLevel = 3
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 216
+	Damage = 12
+	IgnoreResist = true
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Silver"
+	Icon = "Weapons\SilverBattleAxe.dds"
+	Model = "Weapons\Silver\Battleaxe.NIF"
+	BasePrice = 125
+	ItemLevel = 5
+	Weight = 41
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 288
+	Damage = 16
+	IgnoreResist = true
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Silver"
+	Icon = "Weapons\SilverShortsword.dds"
+	Model = "Weapons\Silver\ShortSword.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 198
+	Damage = 11
+	IgnoreResist = true
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Silver"
+	Icon = "Weapons\SilverLongsword.dds"
+	Model = "Weapons\Silver\LongSword.NIF"
+	BasePrice = 125
+	ItemLevel = 5
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 252
+	Damage = 14
+	IgnoreResist = true
+	CustomType = "Longsword"
+End
+
+
+#############################################
+##     Weapons - Iron                      ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Iron"
+	Icon = "Weapons\IronBow.dds"
+	Model = "Weapons\Iron\Bow.NIF"
+	BasePrice = 11
+	ItemLevel = 1
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 112
+	Damage = 8
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Iron"
+	Icon = "Weapons\IronClaymore.dds"
+	Model = "Weapons\Iron\Claymore.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 168
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Iron"
+	Icon = "Weapons\IronWarhammer.dds"
+	Model = "Weapons\Iron\Warhammer.NIF"
+	BasePrice = 60
+	ItemLevel = 3
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 196
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Iron"
+	Icon = "Weapons\IronDagger.dds"
+	Model = "Weapons\Iron\Dagger.NIF"
+	BasePrice = 6
+	ItemLevel = 1
+	Weight = 3
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 70
+	Damage = 5
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Iron"
+	Icon = "Weapons\IronMace.dds"
+	Model = "Weapons\Iron\Mace.NIF"
+	BasePrice = 17
+	ItemLevel = 2
+	Weight = 15
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 140
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Iron"
+	Icon = "Weapons\IronWarAxe.dds"
+	Model = "Weapons\Iron\WarAxe.NIF"
+	BasePrice = 13
+	ItemLevel = 1
+	Weight = 12
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 112
+	Damage = 8
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Iron"
+	Icon = "Weapons\IronBattleAxe.dds"
+	Model = "Weapons\Iron\Battleaxe.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 27
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 168
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Iron"
+	Icon = "Weapons\IronShortsword.dds"
+	Model = "Weapons\Iron\ShortSword.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 98
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Iron"
+	Icon = "Weapons\IronLongsword.dds"
+	Model = "Weapons\Iron\LongSword.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 140
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+
+
+
+#############################################
+##     Weapons - Steel                     ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Bow"
+	Material = "Steel"
+	Icon = "Weapons\SteelBow.dds"
+	Model = "Weapons\Steel\Bow.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 5
+	EnchantPoints = 0
+	Type = "Bow"
+	Reach = 1
+	Speed = 1
+	Health = 100
+	Damage = 9
+	IgnoreResist = false
+	CustomType = "Bow"
+End
+Item
+	ItemType = Weapon
+	Name = "Battle Axe"
+	Material = "Steel"
+	Icon = "Weapons\SteelBattleAxe.dds"
+	Model = "Weapons\Steel\BattleAxe.NIF"
+	BasePrice = 75
+	ItemLevel = 4
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.2
+	Speed = 0.8
+	Health = 224
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Battle Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Steel"
+	Icon = "Weapons\SteelClaymore.dds"
+	Model = "Weapons\Steel\Claymore.NIF"
+	BasePrice = 80
+	ItemLevel = 4
+	Weight = 26
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 224
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dagger"
+	Material = "Steel"
+	Icon = "Weapons\SteelDagger.dds"
+	Model = "Weapons\Steel\Dagger.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 4
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 112
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Dagger"
+End
+Item
+	ItemType = Weapon
+	Name = "Longsword"
+	Material = "Steel"
+	Icon = "Weapons\SteelLongsword.dds"
+	Model = "Weapons\Steel\Longsword.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 192
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Longsword"
+End
+Item
+	ItemType = Weapon
+	Name = "Mace"
+	Material = "Steel"
+	Icon = "Weapons\SteelMace.dds"
+	Model = "Weapons\Steel\Mace.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 19
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1
+	Speed = 0.9
+	Health = 192
+	Damage = 12
+	IgnoreResist = false
+	CustomType = "Mace"
+End
+Item
+	ItemType = Weapon
+	Name = "Shortsword"
+	Material = "Steel"
+	Icon = "Weapons\SteelShortsword.dds"
+	Model = "Weapons\Steel\Shortsword.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 10
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.8
+	Speed = 1.2
+	Health = 144
+	Damage = 9
+	IgnoreResist = false
+	CustomType = "Shortsword"
+End
+Item
+	ItemType = Weapon
+	Name = "War Axe"
+	Material = "Steel"
+	Icon = "Weapons\SteelWarAxe.dds"
+	Model = "Weapons\Steel\WarAxe.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 16
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.8
+	Speed = 1.1
+	Health = 160
+	Damage = 10
+	IgnoreResist = false
+	CustomType = "War Axe"
+End
+Item
+	ItemType = Weapon
+	Name = "Warhammer"
+	Material = "Steel"
+	Icon = "Weapons\SteelWarhammer.dds"
+	Model = "Weapons\Steel\Warhammer.NIF"
+	BasePrice = 125
+	ItemLevel = 5
+	Weight = 39
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 1.3
+	Speed = 0.7
+	Health = 256
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Warhammer"
+End
+Item
+	ItemType = Weapon
+	Name = "Cutlass"
+	Material = "Steel"
+	Icon = "Weapons\Cutlass.dds"
+	Model = "Weapons\Cutlass\Cutlass.NIF"
+	BasePrice = 40
+	ItemLevel = 3
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 192
+	Damage = 11
+	IgnoreResist = false
+	CustomType = "Cutlass"
+End
+
+
+
+#############################################
+##     Weapons - Akaviri                   ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Akaviri"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\Akaviri weapon\Claymore.NIF"
+	BasePrice = 150
+	ItemLevel = 6
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1
+	Speed = 1
+	Health = 240
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Akaviri"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\Akaviri weapon\LongSword.NIF"
+	BasePrice = 120
+	ItemLevel = 5
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 1
+	Speed = 1
+	Health = 200
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Katana"
+End
+
+
+
+#############################################
+##     Weapons - Other                     ##
+#############################################
+Item
+	ItemType = Weapon
+	Name = "Club"
+	Material = ""
+	Icon = "Weapons\club.dds"
+	Model = "Weapons\Club\Club.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	Weight = 8
+	EnchantPoints = 0
+	Type = "Blunt Two Hand"
+	Reach = 0.9
+	Speed = 0.9
+	Health = 70
+	Damage = 7
+	IgnoreResist = true
+	CustomType = "Club"
+End
+Item
+	ItemType = Weapon
+	Name = "Multiple"
+	Material = "Ceremonial"
+	Icon = "Weapons\DAMehrunesRazor.dds"
+	Model = "Weapons\MehrunesRazor\Dagger.NIF"
+	BasePrice = 20
+	ItemLevel = 49
+	Weight = 4
+	EnchantPoints = 0
+	Type = "Blade One Hand"
+	Reach = 0.6
+	Speed = 1.4
+	Health = 400
+	Damage = 7
+	IgnoreResist = false
+	CustomType = "Dagger"
+	Frequency = 100
+End
+

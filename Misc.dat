@@ -1,0 +1,2210 @@
+Item
+	ItemType = Misc
+	Name = "Metal Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalUrn01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalUrm02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalUrn01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalUrm01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalUrn01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalUrm02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalUrn01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalUrm01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalTankard03.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalTankard05.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalTankard01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalTankard04.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalTankard01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalTankard03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalTankard02.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalTankard02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalTankard01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalTankard01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Plate"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalPlate01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalPlate01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Goblet"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalGoblet01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalGoblet01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Metal Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleMetalBowl01.dds"
+	Model = "Clutter\MiddleClass\MiddleMetalBowl01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Vase"
+	Material = "Silver"
+	Icon = "Clutter\Upper\IconUpperUrn03.dds"
+	Model = "Clutter\UpperClass\UpperSilverVase01.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Vase"
+End
+Item
+	ItemType = Misc
+	Name = "Statuette"
+	Material = "Dog"
+	Icon = "Clutter\IconDAClavicusDogStatue.dds"
+	Model = "Clutter\DAClavicusDogStatue.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Statue"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleCoveredBowlTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleCoveredBowlTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Red Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleCoveredBowlRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleCoveredBowlRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Pickaxe"
+	Icon = "Clutter\IconPickaxe.dds"
+	Model = "Clutter\Farm\Pickaxe01dirty.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 6
+	CustomType = "Pickaxe"
+End
+Item
+	ItemType = Misc
+	Name = "Flowers"
+	Material = "Bouquet of"
+	Icon = "Clutter\IconBoutique01.dds"
+	Model = "Clutter\FlowerBouquet01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Flowers"
+End
+Item
+	ItemType = Misc
+	Name = "Lion Pelt"
+	Icon = "Clutter\IconLionHide.dds"
+	Model = "Clutter\LionHide.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 5
+	CustomType = "Pelt"
+End
+Item
+	ItemType = Misc
+	Name = "Bear Pelt"
+	Icon = "Clutter\IconBearPelt.dds"
+	Model = "Clutter\BearPelt.NIF"
+	BasePrice = 30
+	ItemLevel = 2
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 8
+	CustomType = "Pelt"
+End
+Item
+	ItemType = Misc
+	Name = "Wolf Pelt"
+	Icon = "Clutter\iconwolfpelt.dds"
+	Model = "Clutter\WolfPelt.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pelt"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter01.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter06.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter01.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter05.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter02.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter04.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter01.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\MiddleClass\IconMiddlePlanter01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPlanter03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\MiddleClass\IconMiddlePlanter01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPlanter02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\MiddleClass\IconMiddlePlanter01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPlanter01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter02.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Planter"
+	Icon = "Clutter\Upper\IconUpperPlanter01.dds"
+	Model = "Clutter\UpperClass\UpperClassPlanter01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Planter"
+End
+Item
+	ItemType = Misc
+	Name = "Pickaxe"
+	Icon = "Clutter\IconPickaxe.dds"
+	Model = "Clutter\Farm\Pickaxe01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Pickaxe"
+End
+Item
+	ItemType = Misc
+	Name = "Statuette"
+	Material = "Dog"
+	Icon = "Clutter\IconDAClavicusDogStatue.dds"
+	Model = "Clutter\DAClavicusDogStatue.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Statue"
+End
+Item
+	ItemType = Misc
+	Name = "Orb"
+	Icon = "Clutter\IconMagicBall.dds"
+	Model = "Clutter\DAVaerminOrb.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Orb"
+End
+Item
+	ItemType = Misc
+	Name = "Palette"
+	Material = "Paint"
+	Icon = "Clutter\IconPalette.dds"
+	Model = "Clutter\ArtSupplies\Palette01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Palette"
+End
+Item
+	ItemType = Misc
+	Name = "Jar"
+	Material = "Brush"
+	Icon = "Clutter\IconPaintbrushJar.dds"
+	Model = "Clutter\ArtSupplies\PaintbrushJar01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.25
+	CustomType = "Jar"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush06.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush05.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush04.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\PaintBrush01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Brush"
+	Material = "Paint"
+	Icon = "Clutter\IconPaintbrush.dds"
+	Model = "Clutter\ArtSupplies\MS14PaintBrush.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Brush"
+End
+Item
+	ItemType = Misc
+	Name = "Crystal Ball"
+	Icon = "Clutter\IconMagicBall.dds"
+	Model = "Clutter\MagesGuild\CrystalBall01.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Crystal Ball"
+End
+Item
+	ItemType = Misc
+	Name = "Hourglass"
+	Icon = "Clutter\IconHourGlass.dds"
+	Model = "Clutter\MagesGuild\Hourglass01.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0
+	CustomType = "Hourglass"
+End
+Item
+	ItemType = Misc
+	Name = "Tankard"
+	Material = "Ceramic"
+	Icon = "Clutter\IconLowerMug01.dds"
+	Model = "Clutter\UpperClass\UpperTankardCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Yarn"
+	Icon = "Clutter\IconYarn.dds"
+	Model = "Clutter\Farm\Yarn02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Yarn"
+End
+Item
+	ItemType = Misc
+	Name = "Yarn"
+	Icon = "Clutter\IconYarn.dds"
+	Model = "Clutter\Farm\Yarn01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Yarn"
+End
+Item
+	ItemType = Misc
+	Name = "Tongs"
+	Icon = "Clutter\IconTong.dds"
+	Model = "Clutter\Farm\Tongs01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	CustomType = "Tongs"
+End
+Item
+	ItemType = Misc
+	Name = "Shears"
+	Icon = "Clutter\IconShears.dds"
+	Model = "Clutter\Farm\Shears01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Shears"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Vase"
+	Icon = "Clutter\Upper\IconUpperVase01.dds"
+	Model = "Clutter\UpperClass\UpperVaseCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Vase"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Urn"
+	Icon = "Clutter\Upper\IconUpperUrn04.dds"
+	Model = "Clutter\UpperClass\UpperUrnCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Plate"
+	Icon = "Clutter\Upper\IconUpperPlate01.dds"
+	Model = "Clutter\UpperClass\UpperPlateCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Pitcher"
+	Icon = "Clutter\Upper\IconUpperPitcher01.dds"
+	Model = "Clutter\UpperClass\UpperPitcherCermic02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Pitcher"
+	Icon = "Clutter\Upper\IconUpperPitcher01.dds"
+	Model = "Clutter\UpperClass\UpperPitcherCermic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Goblet"
+	Icon = "Clutter\Upper\IconUpperGoblet01.dds"
+	Model = "Clutter\UpperClass\UpperGobletCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Cup"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup01.dds"
+	Model = "Clutter\UpperClass\UpperCupCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Ceramic Bowl"
+	Icon = "Clutter\Upper\IconUpperBowl01.dds"
+	Model = "Clutter\UpperClass\UpperBowlCeramic01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Folded Cloth"
+	Icon = "Clutter\IconFoldedCloth01.dds"
+	Model = "Clutter\FoldedCloth05.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Folded Cloth"
+	Icon = "Clutter\IconFoldedCloth02.dds"
+	Model = "Clutter\FoldedCloth04.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Folded Cloth"
+	Icon = "Clutter\IconFoldedCloth03.dds"
+	Model = "Clutter\FoldedCloth03.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Cloth"
+	Icon = "Clutter\IconClothBolt03.dds"
+	Model = "Clutter\ClothBolt05.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Folded Cloth"
+	Icon = "Clutter\IconFoldedCloth02.dds"
+	Model = "Clutter\FoldedCloth02.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Folded Cloth"
+	Icon = "Clutter\IconFoldedCloth01.dds"
+	Model = "Clutter\FoldedCloth01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Cloth"
+	Icon = "Clutter\IconClothBolt03.dds"
+	Model = "Clutter\ClothBolt04.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Cloth"
+	Icon = "Clutter\IconClothBolt.dds"
+	Model = "Clutter\ClothBolt03.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Cloth"
+	Icon = "Clutter\IconClothBolt02.dds"
+	Model = "Clutter\ClothBolt02.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Cloth"
+	Icon = "Clutter\IconClothBolt.dds"
+	Model = "Clutter\ClothBolt01.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 4.5
+	CustomType = "Cloth"
+End
+Item
+	ItemType = Misc
+	Name = "Quill"
+	Icon = "Clutter\IconQuill.dds"
+	Model = "Clutter\Quill01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Quill"
+End
+Item
+	ItemType = Misc
+	Name = "Inkwell"
+	Icon = "Clutter\IconInkWell.dds"
+	Model = "Clutter\Inkwell01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Inkwell"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Vase"
+	Icon = "Clutter\Upper\IconUpperUrn03.dds"
+	Model = "Clutter\UpperClass\UpperSilverVase01.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Vase"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Urn"
+	Icon = "Clutter\Upper\IconUpperUrn02.dds"
+	Model = "Clutter\UpperClass\UpperSilverUrn02.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Urn"
+	Icon = "Clutter\Upper\IconUpperUrn01.dds"
+	Model = "Clutter\UpperClass\UpperSilverUrn01.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Tankard"
+	Icon = "Clutter\Upper\IconUpperTankard01.dds"
+	Model = "Clutter\UpperClass\UpperSilverTankard01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Spoon"
+	Icon = "Clutter\IconSpoon.dds"
+	Model = "Clutter\UpperClass\UpperSilverSpoon01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Spoon"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Plate"
+	Icon = "Clutter\Upper\IconUpperPlate02.dds"
+	Model = "Clutter\UpperClass\UpperSilverPlate01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Pitcher"
+	Icon = "Clutter\Upper\IconUpperPitcher01.dds"
+	Model = "Clutter\UpperClass\UpperSilverPitcher02.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Pitcher"
+	Icon = "Clutter\Upper\IconUpperPitcher01.dds"
+	Model = "Clutter\UpperClass\UpperSilverPitcher01.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Knife"
+	Icon = "Clutter\IconLowerKnife.dds"
+	Model = "Clutter\UpperClass\UpperSilverKnife01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Knife"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Goblet"
+	Icon = "Clutter\Upper\IconUpperGoblet02.dds"
+	Model = "Clutter\UpperClass\UpperSilverGoblet02.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Goblet"
+	Icon = "Clutter\Upper\IconUpperGoblet02.dds"
+	Model = "Clutter\UpperClass\UpperSilverGoblet01.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Glass"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup01.dds"
+	Model = "Clutter\UpperClass\UpperSilverGlass01.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Glass"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Fork"
+	Icon = "Clutter\IconFork.dds"
+	Model = "Clutter\UpperClass\UpperSilverFork01.NIF"
+	BasePrice = 2
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Fork"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Carafe"
+	Icon = "Clutter\Upper\IconUpperCarafe.dds"
+	Model = "Clutter\UpperClass\UpperSilverCarafe01.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Carafe"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Bowl"
+	Icon = "Clutter\Upper\IconUpperBowl03.dds"
+	Model = "Clutter\UpperClass\UpperSilverBowl02.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Silver Bowl"
+	Icon = "Clutter\Upper\IconUpperBowl02.dds"
+	Model = "Clutter\UpperClass\UpperSilverBowl01.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Plate"
+	Icon = "Clutter\IconLowerPlate01.dds"
+	Model = "Clutter\LowerClass\LowerPlateTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Pitcher"
+	Icon = "Clutter\IconLowerPitcher01.dds"
+	Model = "Clutter\LowerClass\LowerPitcherTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Mug"
+	Icon = "Clutter\IconLowerMug01.dds"
+	Model = "Clutter\LowerClass\LowerMugTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Mug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug04.dds"
+	Model = "Clutter\LowerClass\LowerJugTan06.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug04.dds"
+	Model = "Clutter\LowerClass\LowerJugTan05.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug03.dds"
+	Model = "Clutter\LowerClass\LowerJugTan04.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug02.dds"
+	Model = "Clutter\LowerClass\LowerJugTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug02.dds"
+	Model = "Clutter\LowerClass\LowerJugTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Jug"
+	Icon = "Clutter\IconLowerJug01.dds"
+	Model = "Clutter\LowerClass\LowerJugTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Jug"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Cup"
+	Icon = "Clutter\IconLowerCup01.dds"
+	Model = "Clutter\LowerClass\LowerCupTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Cup"
+	Icon = "Clutter\IconLowerCup02.dds"
+	Model = "Clutter\LowerClass\LowerCupTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Cup"
+	Icon = "Clutter\IconLowerCup01.dds"
+	Model = "Clutter\LowerClass\LowerCupTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot03.dds"
+	Model = "Clutter\LowerClass\LowerBowlTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot02.dds"
+	Model = "Clutter\LowerClass\LowerBowlTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot01.dds"
+	Model = "Clutter\LowerClass\LowerBowlTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterPlate01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterPlate02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterPlate01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterPlate01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterBowl01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterBowl02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterBowl01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterBowl01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Spoon"
+	Icon = "Clutter\IconSpoon.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterSpoon01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Spoon"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Fork"
+	Icon = "Clutter\IconLowerFork.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterFork01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Fork"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Knife"
+	Icon = "Clutter\IconLowerKnife.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterKnife01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Knife"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterPitcher01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterPitcher01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Pot"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterVase01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterVase03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pot"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Pot"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterVase01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterVase02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pot"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Pot"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterVase01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterVase01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Pot"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Cup"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterCup01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Cup"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterCup02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Cup"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup02.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterCup03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Cup"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterCup01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterCup04.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Mug"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterMug01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterMug01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Mug"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Mug"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterMug01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterMug02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Mug"
+End
+Item
+	ItemType = Misc
+	Name = "Pewter Mug"
+	Icon = "Clutter\MiddleClass\IconMiddlePewterMug01.dds"
+	Model = "Clutter\MiddleClass\MiddleClassPewterMug03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Mug"
+End
+Item
+	ItemType = Misc
+	Name = "Weight"
+	Icon = "Clutter\Upper\IconUpperScaleWeight.dds"
+	Model = "Clutter\UpperClass\UpperScaleWeight01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Weight"
+End
+Item
+	ItemType = Misc
+	Name = "Scales"
+	Icon = "Clutter\IconScales.dds"
+	Model = "Clutter\UpperClass\UpperScales01.NIF"
+	BasePrice = 3
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	CustomType = "Scales"
+End
+Item
+	ItemType = Misc
+	Name = "Hourglass"
+	Icon = "Clutter\IconHourGlass.dds"
+	Model = "Clutter\MagesGuild\Hourglass01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Hourglass"
+End
+Item
+	ItemType = Misc
+	Name = "Crystal Ball"
+	Icon = "Clutter\IconMagicBall.dds"
+	Model = "Clutter\MagesGuild\CrystalBall02.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	CustomType = "Crystal Ball"
+End
+Item
+	ItemType = Misc
+	Name = "Crystal Ball"
+	Icon = "Clutter\IconMagicBall.dds"
+	Model = "Clutter\MagesGuild\CrystalBall01.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Crystal Ball"
+End
+Item
+	ItemType = Misc
+	Name = "Tongs"
+	Icon = "Clutter\IconCallipers01.dds"
+	Model = "Clutter\MetalSmith\Tongs01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Tongs"
+End
+Item
+	ItemType = Misc
+	Name = "Calipers"
+	Icon = "Clutter\IconCallipers01.dds"
+	Model = "Clutter\MetalSmith\Callipers01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Calipers"
+End
+Item
+	ItemType = Misc
+	Name = "Covered Pot"
+	Icon = "Clutter\IconLowerCoveredPot01.dds"
+	Model = "Clutter\LowerClass\LowerCoveredPot02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pot"
+End
+Item
+	ItemType = Misc
+	Name = "Covered Pot"
+	Icon = "Clutter\IconLowerCoveredPot01.dds"
+	Model = "Clutter\LowerClass\LowerCoveredPot01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pot"
+End
+Item
+	ItemType = Misc
+	Name = "Stone Pitcher"
+	Icon = "Clutter\IconLowerPitcher01.dds"
+	Model = "Clutter\LowerClass\LowerClassPitcher01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot04.dds"
+	Model = "Clutter\LowerClass\LowerClassBowl03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot01.dds"
+	Model = "Clutter\LowerClass\LowerClassBowl02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Bowl"
+	Icon = "Clutter\IconLowerPot01.dds"
+	Model = "Clutter\LowerClass\LowerClassBowl01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Stone Mug"
+	Icon = "Clutter\IconLowerMug01.dds"
+	Model = "Clutter\LowerClass\LowerClassMug01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Mug"
+End
+Item
+	ItemType = Misc
+	Name = "Stone Cup"
+	Icon = "Clutter\IconLowerCup01.dds"
+	Model = "Clutter\LowerClass\LowerClassCup03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Stone Cup"
+	Icon = "Clutter\IconLowerCup02.dds"
+	Model = "Clutter\LowerClass\LowerClassCup02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Spoon"
+	Icon = "Clutter\IconSpoon.dds"
+	Model = "Clutter\LowerClass\LowerClassSpoon01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Spoon"
+End
+Item
+	ItemType = Misc
+	Name = "Plate"
+	Icon = "Clutter\IconLowerPlate01.dds"
+	Model = "Clutter\LowerClass\LowerClassPlate01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Knife"
+	Icon = "Clutter\IconLowerKnife.dds"
+	Model = "Clutter\LowerClass\LowerClassKnife01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Knife"
+End
+Item
+	ItemType = Misc
+	Name = "Fork"
+	Icon = "Clutter\IconLowerFork.dds"
+	Model = "Clutter\LowerClass\LowerClassFork01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.1
+	CustomType = "Fork"
+End
+Item
+	ItemType = Misc
+	Name = "Stone Cup"
+	Icon = "Clutter\IconLowerCup01.dds"
+	Model = "Clutter\LowerClass\LowerClassCup01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlTan02.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlTan03.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Cup"
+	Icon = "Clutter\MiddleClass\IconMiddleCupRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleCupRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Cup"
+	Icon = "Clutter\MiddleClass\IconMiddleCupRed02.dds"
+	Model = "Clutter\MiddleClass\MiddleCupRed02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Cup"
+	Icon = "Clutter\MiddleClass\IconMiddleCupTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleCupTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Cup"
+	Icon = "Clutter\MiddleClass\IconMiddleCupTan02.dds"
+	Model = "Clutter\MiddleClass\MiddleCupTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Goblet"
+	Icon = "Clutter\MiddleClass\IconMiddleGobletRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleGobletRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Goblet"
+	Icon = "Clutter\MiddleClass\IconMiddleGobletTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleGobletTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Goblet"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherRed01.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherRed02.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherRed02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherRed03.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherRed03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherTan01.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherTan02.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Pitcher"
+	Icon = "Clutter\MiddleClass\IconMiddlePitcherTan03.dds"
+	Model = "Clutter\MiddleClass\MiddlePitcherTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Pitcher"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePlateRed01.dds"
+	Model = "Clutter\MiddleClass\MiddlePlateRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePlateRed02.dds"
+	Model = "Clutter\MiddleClass\MiddlePlateRed02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePlateTan01.dds"
+	Model = "Clutter\MiddleClass\MiddlePlateTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Plate"
+	Icon = "Clutter\MiddleClass\IconMiddlePlateTan02.dds"
+	Model = "Clutter\MiddleClass\MiddlePlateTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Plate"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleTankardTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleTankardTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnRed02.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnRed02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnRed03.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnRed03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnTan02.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnTan02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Urn"
+	Icon = "Clutter\MiddleClass\IconMiddleUrnTan03.dds"
+	Model = "Clutter\MiddleClass\MiddleUrnTan03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Urn"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Vase"
+	Icon = "Clutter\MiddleClass\IconMiddleVaseRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleVaseRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Vase"
+End
+Item
+	ItemType = Misc
+	Name = "Tan Vase"
+	Icon = "Clutter\MiddleClass\IconMiddleVaseTan01.dds"
+	Model = "Clutter\MiddleClass\MiddleVaseTan01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Vase"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Tankard"
+	Icon = "Clutter\MiddleClass\IconMiddleTankardRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleTankardRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Tankard"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlRed01.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlRed01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlRed02.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlRed02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Clay Bowl"
+	Icon = "Clutter\MiddleClass\IconMiddleBowlRed03.dds"
+	Model = "Clutter\MiddleClass\MiddleBowlRed03.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.5
+	CustomType = "Bowl"
+End
+Item
+	ItemType = Misc
+	Name = "Skull"
+	Icon = "Clutter\IconSkull.dds"
+	Model = "Dungeons\Misc\skull01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Skeletal Hand"
+	Icon = "Clutter\IconMS02SkeletonHand.dds"
+	Model = "Architecture\Anvil\LorgenHand01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 3
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Hand Scythe"
+	Icon = "Clutter\IconHandScythe.dds"
+	Model = "Clutter\Farm\HandScythe01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1.5
+	CustomType = "Hand Scythe"
+End
+Item
+	ItemType = Misc
+	Name = "Empty Bottle"
+	Icon = "Clutter\Potions\IconPotion01.dds"
+	Model = "Clutter\Potions\Potion01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Cup"
+End
+Item
+	ItemType = Misc
+	Name = "Bone"
+	Icon = "Clutter\IconBone01.dds"
+	Model = "Dungeons\Misc\skelBigBone01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 5
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Basket"
+	Icon = "Clutter\IconBasket02.dds"
+	Model = "Clutter\LowerClass\LowerThatchbasket02.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.25
+	CustomType = "Basket"
+End
+Item
+	ItemType = Misc
+	Name = "Basket"
+	Icon = "Clutter\IconBasket01.dds"
+	Model = "Clutter\LowerClass\LowerThatchbasket01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.25
+	CustomType = "Basket"
+End
+Item
+	ItemType = Misc
+	Name = "Bones"
+	Icon = "Clutter\IconBone04.dds"
+	Model = "Dungeons\Misc\skelRibcage01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 5
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Bone"
+	Icon = "Clutter\IconBone03.dds"
+	Model = "Dungeons\Misc\skelPelvis01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 7
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Bone"
+	Icon = "Clutter\IconBone02.dds"
+	Model = "Dungeons\Misc\skelClavicle01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 1
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Bone"
+	Icon = "Clutter\IconBone01.dds"
+	Model = "Dungeons\Misc\skelBoneThin01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 2
+	CustomType = "Bones"
+End
+Item
+	ItemType = Misc
+	Name = "Ladle"
+	Icon = "Clutter\IconLowerLadel.dds"
+	Model = "Clutter\LowerClass\LowerClassLadel01.NIF"
+	BasePrice = 0
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 50
+	Weight = 0.2
+	CustomType = "Spoon"
+End

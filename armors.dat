@@ -1,0 +1,1326 @@
+
+#############################################
+##     Armor - Chainmail                   ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Helmet.dds"
+	FIcon = "Armor\Chainmail\F\Helmet.dds"
+	MBModel = "Armor\Chainmail\M\Helmet.NIF"
+	MWModel = "Armor\Chainmail\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Helmet.NIF"
+	FWModel = "Armor\Chainmail\M\Helmet_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 1.8
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Cuirass.dds"
+	FIcon = "Armor\Chainmail\F\Cuirass.dds"
+	MBModel = "Armor\Chainmail\M\Cuirass.NIF"
+	MWModel = "Armor\Chainmail\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Cuirass.NIF"
+	FWModel = "Armor\Chainmail\F\Cuirass_gnd.NIF"
+	BasePrice = 90
+	ItemLevel = 4
+	Weight = 9
+	Armor = 800
+	ArmorType = "Light"
+	Health = 270
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Gauntlets.dds"
+	MBModel = "Armor\Chainmail\M\Gauntlets.NIF"
+	MWModel = "Armor\Chainmail\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Gauntlets.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 1.8
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Greaves.dds"
+	MBModel = "Armor\Chainmail\M\Greaves.NIF"
+	MWModel = "Armor\Chainmail\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Greaves.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	Weight = 5.4
+	Armor = 400
+	ArmorType = "Light"
+	Health = 202
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Chainmail"
+	MIcon = "Armor\Chainmail\M\Boots.dds"
+	MBModel = "Armor\Chainmail\M\Boots.NIF"
+	MWModel = "Armor\Chainmail\M\Boots_gnd.NIF"
+	FBModel = "Armor\Chainmail\F\Boots.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 2
+	Armor = 300
+	ArmorType = "Light"
+	Health = 135
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Daedric                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Helmet.dds"
+	FIcon = "Armor\Daedric\F\Helmet.dds"
+	MBModel = "Armor\Daedric\M\Helmet.NIF"
+	MWModel = "Armor\Daedric\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Helmet.NIF"
+	FWModel = "Armor\Daedric\F\Helmet_gnd.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	Weight = 12
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Head | Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Cuirass.dds"
+	FIcon = "Armor\Daedric\F\Cuirass.dds"
+	MBModel = "Armor\Daedric\M\Cuirass.NIF"
+	MWModel = "Armor\Daedric\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Cuirass.NIF"
+	FWModel = "Armor\Daedric\F\Cuirass_gnd.NIF"
+	BasePrice = 4800
+	ItemLevel = 34
+	Weight = 60
+	Armor = 1875
+	ArmorType = "Heavy"
+	Health = 2700
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Gauntlets.dds"
+	MBModel = "Armor\Daedric\M\Gauntlets.NIF"
+	MWModel = "Armor\Daedric\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Gauntlets.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	Weight = 12
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\Shield.dds"
+	MBModel = "Armor\Daedric\Shield.NIF"
+	MWModel = "Armor\Daedric\Shield.NIF"
+	BasePrice = 2500
+	ItemLevel = 25
+	Weight = 24
+	Armor = 2250
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Greaves.dds"
+	FIcon = "Armor\Daedric\F\Greaves.dds"
+	MBModel = "Armor\Daedric\M\Greaves.NIF"
+	MWModel = "Armor\Daedric\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Greaves.NIF"
+	FWModel = "Armor\Daedric\F\Greaves_gnd.NIF"
+	BasePrice = 2500
+	ItemLevel = 25
+	Weight = 36
+	Armor = 1125
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Boots.dds"
+	MBModel = "Armor\Daedric\M\Boots.NIF"
+	MWModel = "Armor\Daedric\M\Boots_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Boots.NIF"
+	BasePrice = 1350
+	ItemLevel = 18
+	Weight = 18
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Dwarven                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Helmet.dds"
+	MBModel = "Armor\Dwarven\M\Helmet.NIF"
+	MWModel = "Armor\Dwarven\M\Helmet_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Head | Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Curiass.dds"
+	MBModel = "Armor\Dwarven\M\Cuirass.NIF"
+	MWModel = "Armor\Dwarven\M\Cuirass_gnd.NIF"
+	BasePrice = 400
+	ItemLevel = 10
+	Weight = 40
+	Armor = 1250
+	ArmorType = "Heavy"
+	Health = 800
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Gauntlet.dds"
+	MBModel = "Armor\Dwarven\M\Gauntlets.NIF"
+	MWModel = "Armor\Dwarven\M\Gauntlets_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\Shield.dds"
+	MBModel = "Armor\Dwarven\Shield.NIF"
+	MWModel = "Armor\Dwarven\Shield.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	Weight = 16
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Greaves.dds"
+	MBModel = "Armor\Dwarven\M\Greaves.NIF"
+	MWModel = "Armor\Dwarven\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Dwarven\F\Greaves.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	Weight = 24
+	Armor = 750
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Boots.dds"
+	MBModel = "Armor\Dwarven\M\Boots.NIF"
+	MWModel = "Armor\Dwarven\M\Boots_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	Weight = 12
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 400
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Ebony                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Helmet.dds"
+	FIcon = "Armor\Ebony\F\Helmet.dds"
+	MBModel = "Armor\Ebony\M\Helmet.NIF"
+	MWModel = "Armor\Ebony\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Helmet.NIF"
+	FWModel = "Armor\Ebony\F\Helmet_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	Weight = 10.5
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Cuirass.dds"
+	FIcon = "Armor\Ebony\F\Cuirass.dds"
+	MBModel = "Armor\Ebony\M\Cuirass.NIF"
+	MWModel = "Armor\Ebony\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Cuirass.NIF"
+	FWModel = "Armor\Ebony\F\Cuirass_gnd.NIF"
+	BasePrice = 1900
+	ItemLevel = 21
+	Weight = 52.5
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Gauntlets.dds"
+	MBModel = "Armor\Ebony\M\Gauntlets.NIF"
+	MWModel = "Armor\Ebony\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Gauntlets.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	Weight = 10.5
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\Shield.dds"
+	MBModel = "Armor\Ebony\Shield.NIF"
+	MWModel = "Armor\Ebony\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	Weight = 21
+	Armor = 1800
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Greaves.dds"
+	MBModel = "Armor\Ebony\M\Greaves.NIF"
+	MWModel = "Armor\Ebony\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Greaves.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	Weight = 31.5
+	Armor = 900
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Boots.dds"
+	FIcon = "Armor\Ebony\F\Boots.dds"
+	MBModel = "Armor\Ebony\M\Boots.NIF"
+	MWModel = "Armor\Ebony\M\Boots_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Boots.NIF"
+	FWModel = "Armor\Ebony\F\Boots_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 11
+	Weight = 15.75
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Elven                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Helmet.dds"
+	FIcon = "Armor\Elven\Helmet.dds"
+	MBModel = "Armor\Elven\Helmet.NIF"
+	MWModel = "Armor\Elven\Helmet_gnd.NIF"
+	FBModel = "Armor\Elven\Helmet.NIF"
+	FWModel = "Armor\Elven\Helmet_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	Weight = 2.6
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Cuirass.dds"
+	FIcon = "Armor\Elven\Cuirass.dds"
+	MBModel = "Armor\Elven\M\Cuirass.NIF"
+	MWModel = "Armor\Elven\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Elven\F\Cuirass.NIF"
+	FWModel = "Armor\Elven\F\Cuirass_gnd.NIF"
+	BasePrice = 600
+	ItemLevel = 12
+	Weight = 13
+	Armor = 1000
+	ArmorType = "Light"
+	Health = 880
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Gauntlets.dds"
+	FIcon = "Armor\Elven\Gauntlets.dds"
+	MBModel = "Armor\Elven\M\Gauntlets.NIF"
+	MWModel = "Armor\Elven\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Elven\M\Gauntlets.NIF"
+	FWModel = "Armor\Elven\M\Gauntlets_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	Weight = 2.6
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Elven"
+	MIcon = "Armor\Elven\shield.dds"
+	MBModel = "Armor\Elven\Shield.NIF"
+	MWModel = "Armor\Elven\Shield.NIF"
+	FBModel = "Armor\Elven\Shield.NIF"
+	FWModel = "Armor\Elven\Shield.NIF"
+	BasePrice = 315
+	ItemLevel = 8
+	Weight = 5.2
+	Armor = 1200
+	ArmorType = "Light"
+	Health = 660
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Greaves.dds"
+	MBModel = "Armor\Elven\M\Greaves.NIF"
+	MWModel = "Armor\Elven\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Elven\F\Greaves.NIF"
+	BasePrice = 315
+	ItemLevel = 8
+	Weight = 7.8
+	Armor = 600
+	ArmorType = "Light"
+	Health = 660
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Elven"
+	MIcon = "Armor\Elven\Boots.dds"
+	FIcon = "Armor\Elven\Boots.dds"
+	MBModel = "Armor\Elven\M\Boots.NIF"
+	MWModel = "Armor\Elven\M\Boots_gnd.NIF"
+	FBModel = "Armor\Elven\F\Boots.NIF"
+	FWModel = "Armor\Elven\F\Boots_gnd.NIF"
+	BasePrice = 170
+	ItemLevel = 6
+	Weight = 3.9
+	Armor = 400
+	ArmorType = "Light"
+	Health = 440
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Glass                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Helmet.dds"
+	MBModel = "Armor\Glass\Helmet.NIF"
+	MWModel = "Armor\Glass\Helmet_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	Weight = 3
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Cuirass.dds"
+	FIcon = "Armor\Glass\F\Cuirass.dds"
+	MBModel = "Armor\Glass\M\Cuirass.NIF"
+	MWModel = "Armor\Glass\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Glass\F\Cuirass.NIF"
+	FWModel = "Armor\Glass\F\Cuirass_gnd.NIF"
+	BasePrice = 1800
+	ItemLevel = 21
+	Weight = 15
+	Armor = 1250
+	ArmorType = "Light"
+	Health = 1350
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Gauntlets.dds"
+	MBModel = "Armor\Glass\M\Gauntlets.NIF"
+	MWModel = "Armor\Glass\M\Gauntlets_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	Weight = 3
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Glass"
+	MIcon = "Armor\Glass\Shield.dds"
+	MBModel = "Armor\Glass\Shield.NIF"
+	MWModel = "Armor\Glass\Shield.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	Weight = 6
+	Armor = 1500
+	ArmorType = "Light"
+	Health = 1000
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Greaves.dds"
+	FIcon = "Armor\Glass\F\Greaves.dds"
+	MBModel = "Armor\Glass\M\Greaves.NIF"
+	MWModel = "Armor\Glass\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Glass\F\Greaves.NIF"
+	FWModel = "Armor\Glass\F\Greaves_gnd.NIF"
+	BasePrice = 1000
+	ItemLevel = 15
+	Weight = 9
+	Armor = 750
+	ArmorType = "Light"
+	Health = 1000
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Glass"
+	MIcon = "Armor\Glass\M\Boots.dds"
+	MBModel = "Armor\Glass\M\Boots.NIF"
+	MWModel = "Armor\Glass\M\Boots_gnd.NIF"
+	BasePrice = 500
+	ItemLevel = 11
+	Weight = 4.5
+	Armor = 500
+	ArmorType = "Light"
+	Health = 675
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Iron                        ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Helmet.dds"
+	MBModel = "Armor\Iron\M\Helmet.NIF"
+	MWModel = "Armor\Iron\M\Helmet_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 6
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Cuirass.dds"
+	FIcon = "Armor\Iron\F\Cuirass.dds"
+	MBModel = "Armor\Iron\M\Cuirass.NIF"
+	MWModel = "Armor\Iron\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Iron\F\Cuirass.NIF"
+	FWModel = "Armor\Iron\F\Cuirass_gnd.NIF"
+	BasePrice = 85
+	ItemLevel = 4
+	Weight = 30
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 300
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Gauntlets.dds"
+	FIcon = "Armor\Iron\F\Gauntlets.dds"
+	MBModel = "Armor\Iron\M\Gauntlets.NIF"
+	MWModel = "Armor\Iron\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Iron\F\Gauntlets.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 6
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Iron"
+	MIcon = "Armor\Iron\Shield.dds"
+	MBModel = "Armor\Iron\Shield.NIF"
+	MWModel = "Armor\Iron\Shield.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	Weight = 12
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 225
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Greaves.dds"
+	FIcon = "Armor\Iron\F\Greaves.dds"
+	MBModel = "Armor\Iron\M\Greaves.NIF"
+	MWModel = "Armor\Iron\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Iron\F\Greaves.NIF"
+	BasePrice = 45
+	ItemLevel = 3
+	Weight = 18
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 225
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Boots.dds"
+	MBModel = "Armor\Iron\M\Boots.NIF"
+	MWModel = "Armor\Iron\M\Boots_gnd.NIF"
+	FBModel = "Armor\Iron\F\Boots.NIF"
+	BasePrice = 25
+	ItemLevel = 2
+	Weight = 9
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 150
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Leather                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Helmet.dds"
+	MBModel = "Armor\Thief\Helmet.NIF"
+	MWModel = "Armor\Thief\Helmet_gnd.NIF"
+	FBModel = "Armor\Thief\Helmet.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Cuirass.dds"
+	FIcon = "Armor\Thief\F\Cuirass.dds"
+	MBModel = "Armor\Thief\M\Cuirass.NIF"
+	MWModel = "Armor\Thief\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Thief\F\Cuirass.NIF"
+	FWModel = "Armor\Thief\F\Cuirass_gnd.NIF"
+	BasePrice = 35
+	ItemLevel = 2
+	Weight = 7.5
+	Armor = 625
+	ArmorType = "Light"
+	Health = 160
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Bracers"
+	Material = "Leather"
+	MIcon = "Armor\DaedricBracers\Bracers.dds"
+	FIcon = "Armor\DaedricBracers\Bracers.dds"
+	MBModel = "Armor\Bracers\Bracer01M.NIF"
+	MWModel = "Armor\Bracers\Bracer01_gnd.NIF"
+	FBModel = "Armor\Bracers\Bracer01F.NIF"
+	FWModel = "Armor\Bracers\Bracer01_gnd.NIF"
+	BasePrice = 5
+	ItemLevel = 1
+	Weight = 1.5
+	Armor = 100
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hand
+	CustomType = "Bracers"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Gauntlets.dds"
+	FIcon = "Armor\Thief\M\Gauntlets.dds"
+	MBModel = "Armor\Thief\M\Gauntlets.NIF"
+	MWModel = "Armor\Thief\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Thief\F\Gauntlets.NIF"
+	FWModel = "Armor\Thief\M\Gauntlets_gnd.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Leather"
+	MIcon = "Armor\Leather\Shield.dds"
+	MBModel = "Armor\Leather\Shield.NIF"
+	MWModel = "Armor\Leather\Shield.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 3
+	Armor = 750
+	ArmorType = "Light"
+	Health = 120
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Greaves.dds"
+	MBModel = "Armor\Thief\M\Greaves.NIF"
+	MWModel = "Armor\Thief\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Thief\F\Greaves.NIF"
+	BasePrice = 20
+	ItemLevel = 2
+	Weight = 4.5
+	Armor = 375
+	ArmorType = "Light"
+	Health = 120
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Leather"
+	MIcon = "Armor\Thief\M\Boots.dds"
+	FIcon = "Armor\Thief\M\Boots.dds"
+	MBModel = "Armor\Thief\M\Boots.NIF"
+	MWModel = "Armor\Thief\M\Boots_gnd.NIF"
+	FBModel = "Armor\Thief\F\Boots.NIF"
+	BasePrice = 10
+	ItemLevel = 1
+	Weight = 1.5
+	Armor = 250
+	ArmorType = "Light"
+	Health = 80
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Fur                         ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Helmet.dds"
+	FIcon = "Armor\Fur\F\Helmet.dds"
+	MBModel = "Armor\Fur\M\Helmet.NIF"
+	MWModel = "Armor\Fur\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Fur\F\Helmet.NIF"
+	FWModel = "Armor\Fur\F\Helmet_gnd.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 1
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Cuirass.dds"
+	FIcon = "Armor\Fur\F\Cuirass.dds"
+	MBModel = "Armor\Fur\M\Cuirass.NIF"
+	MWModel = "Armor\Fur\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Fur\F\Cuirass.NIF"
+	FWModel = "Armor\Fur\F\Cuirass_gnd.NIF"
+	BasePrice = 15
+	ItemLevel = 1
+	Weight = 5
+	Armor = 500
+	ArmorType = "Light"
+	Health = 100
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Gauntlets.dds"
+	FIcon = "Armor\Fur\F\Gauntlets.dds"
+	MBModel = "Armor\Fur\M\Gauntlets.NIF"
+	MWModel = "Armor\Fur\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Fur\F\Gauntlets.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 1
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Fur"
+	MIcon = "Armor\Fur\Shield.dds"
+	MBModel = "Armor\Fur\Shield.NIF"
+	MWModel = "Armor\Fur\Shield.NIF"
+	FBModel = "Armor\Fur\Shield.NIF"
+	FWModel = "Armor\Fur\Shield.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 2
+	Armor = 200
+	ArmorType = "Light"
+	Health = 75
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Greaves.dds"
+	FIcon = "Armor\Fur\F\Greaves.dds"
+	MBModel = "Armor\Fur\M\Greaves.NIF"
+	MWModel = "Armor\Fur\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Fur\F\Greaves.NIF"
+	BasePrice = 8
+	ItemLevel = 1
+	Weight = 3
+	Armor = 300
+	ArmorType = "Light"
+	Health = 75
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Fur"
+	MIcon = "Armor\Fur\M\Boots.dds"
+	FIcon = "Armor\Fur\F\Boots.dds"
+	MBModel = "Armor\Fur\M\Boots.NIF"
+	MWModel = "Armor\Fur\M\Boots_gnd.NIF"
+	FBModel = "Armor\Fur\F\Boots.NIF"
+	BasePrice = 4
+	ItemLevel = 1
+	Weight = 1.5
+	Armor = 200
+	ArmorType = "Light"
+	Health = 50
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Mithril                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Helmet.dds"
+	MBModel = "Armor\Mithril\M\Helmet.NIF"
+	MWModel = "Armor\Mithril\M\Helmet_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	Weight = 2.2
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Cuirass.dds"
+	FIcon = "Armor\Mithril\F\Cuirass.dds"
+	MBModel = "Armor\Mithril\M\Cuirass.NIF"
+	MWModel = "Armor\Mithril\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Mithril\F\Cuirass.NIF"
+	FWModel = "Armor\Mithril\F\Cuirass_gnd.NIF"
+	BasePrice = 225
+	ItemLevel = 7
+	Weight = 11
+	Armor = 875
+	ArmorType = "Light"
+	Health = 480
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Gauntlets.dds"
+	MBModel = "Armor\Mithril\M\Gauntlets.NIF"
+	MWModel = "Armor\Mithril\M\Gauntlets_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	Weight = 2.2
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\Shield.dds"
+	MBModel = "Armor\Mithril\Shield.NIF"
+	MWModel = "Armor\Mithril\Shield.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	Weight = 4.4
+	Armor = 1050
+	ArmorType = "Light"
+	Health = 360
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Greaves.dds"
+	MBModel = "Armor\Mithril\M\Greaves.NIF"
+	MWModel = "Armor\Mithril\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Mithril\F\Greaves.NIF"
+	BasePrice = 115
+	ItemLevel = 5
+	Weight = 6.6
+	Armor = 525
+	ArmorType = "Light"
+	Health = 360
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Mithril"
+	MIcon = "Armor\Mithril\M\Boots.dds"
+	MBModel = "Armor\Mithril\M\Boots.NIF"
+	MWModel = "Armor\Mithril\M\Boots_gnd.NIF"
+	BasePrice = 65
+	ItemLevel = 4
+	Weight = 3.3
+	Armor = 350
+	ArmorType = "Light"
+	Health = 240
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Orcish                      ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Helmet.dds"
+	MBModel = "Armor\Orcish\Helmet.NIF"
+	MWModel = "Armor\Orcish\Helmet_gnd.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	Weight = 9
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Cuirass.dds"
+	FIcon = "Armor\Orcish\F\Cuirass.dds"
+	MBModel = "Armor\Orcish\M\Cuirass.NIF"
+	MWModel = "Armor\Orcish\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Cuirass.NIF"
+	FWModel = "Armor\Orcish\F\Cuirass_gnd.NIF"
+	BasePrice = 940
+	ItemLevel = 15
+	Weight = 45
+	Armor = 1375
+	ArmorType = "Heavy"
+	Health = 1200
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Gauntlets.dds"
+	MBModel = "Armor\Orcish\M\Gauntlets.NIF"
+	MWModel = "Armor\Orcish\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Gauntlets.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	Weight = 9
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\Shield.dds"
+	FIcon = "Armor\Orcish\Shield.dds"
+	MBModel = "Armor\Orcish\Shield.NIF"
+	MWModel = "Armor\Orcish\Shield.NIF"
+	BasePrice = 460
+	ItemLevel = 10
+	Weight = 18
+	Armor = 1650
+	ArmorType = "Heavy"
+	Health = 900
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Greaves.dds"
+	MBModel = "Armor\Orcish\M\Greaves.NIF"
+	MWModel = "Armor\Orcish\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Greaves.NIF"
+	BasePrice = 460
+	ItemLevel = 10
+	Weight = 27
+	Armor = 825
+	ArmorType = "Heavy"
+	Health = 900
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Boots.dds"
+	MBModel = "Armor\Orcish\M\Boots.NIF"
+	MWModel = "Armor\Orcish\M\Boots_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Boots.NIF"
+	BasePrice = 250
+	ItemLevel = 7
+	Weight = 13.5
+	Armor = 550
+	ArmorType = "Heavy"
+	Health = 600
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+
+
+#############################################
+##     Armor - Steel                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Helmet.dds"
+	MBModel = "Armor\Steel\M\Helmet.NIF"
+	MWModel = "Armor\Steel\M\Helmet_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 7
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Hair
+	CustomType = "Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Cuirass.dds"
+	MBModel = "Armor\Steel\M\Cuirass.NIF"
+	MWModel = "Armor\Steel\M\Cuirass_gnd.NIF"
+	BasePrice = 180
+	ItemLevel = 6
+	Weight = 35
+	Armor = 1125
+	ArmorType = "Heavy"
+	Health = 500
+	BipedParts = Upper Body
+	CustomType = "Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Gauntlets.dds"
+	MBModel = "Armor\Steel\M\Gauntlets.NIF"
+	MWModel = "Armor\Steel\M\Gauntlets_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 7
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Hand
+	CustomType = "Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Shield"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Shield.dds"
+	MBModel = "Armor\Steel\Shield.NIF"
+	MWModel = "Armor\Steel\Shield.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	Weight = 14
+	Armor = 1350
+	ArmorType = "Heavy"
+	Health = 375
+	BipedParts = Shield
+	CustomType = "Shield"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Greaves.dds"
+	MBModel = "Armor\Steel\M\Greaves.NIF"
+	MWModel = "Armor\Steel\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Steel\F\Greaves.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	Weight = 21
+	Armor = 675
+	ArmorType = "Heavy"
+	Health = 375
+	BipedParts = Lower Body
+	CustomType = "Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Boots.dds"
+	MBModel = "Armor\Steel\M\Boots.NIF"
+	MWModel = "Armor\Steel\M\Boots_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 3
+	Weight = 10.5
+	Armor = 450
+	ArmorType = "Heavy"
+	Health = 250
+	BipedParts = Foot
+	CustomType = "Boots"
+End
+
+#############################################
+##                                         ##
+#############################################

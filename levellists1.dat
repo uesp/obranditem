@@ -1,0 +1,9 @@
+LevelList
+	Name = TestMask
+	Parent = NULL
+	MaxRecords = 70
+	ChanceNone = 5
+	CalculateAll = true
+	CalculateEach = true
+	CustomTypes = test
+End

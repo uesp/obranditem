@@ -1,0 +1,1223 @@
+###################################
+##         Simple Sigils         ##
+###################################
+Item
+	ItemType = Sigil
+	Name = "Simple Geode-set Sigil"
+	BasePrice = 100
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Zircon-set Sigil"
+	BasePrice = 115
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Tourmaline-set Sigil"
+	BasePrice = 130
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Jasper-inset Sigil"
+	BasePrice = 145
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Agate-inlaid Sigil"
+	BasePrice = 160
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Aquamarine-set Sigil"
+	BasePrice = 175
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Turquoise-set Sigil"
+	BasePrice = 195
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Amethyst-set Sigil"
+	BasePrice = 215
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Garnet-set Sigil"
+	BasePrice = 235
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Topaz-inset Sigil"
+	BasePrice = 255
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Starstone-set Sigil"
+	BasePrice = 275
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Moonstone-set Sigil"
+	BasePrice = 295
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Sunstone-set Sigil"
+	BasePrice = 320
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Dreamstone-set Sigil"
+	BasePrice = 355
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Opal-inset Sigil"
+	BasePrice = 380
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Pearl-inlaid Sigil"
+	BasePrice = 405
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Emerald-set Sigil"
+	BasePrice = 430
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Sapphire-set Sigil"
+	BasePrice = 455
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Ruby-inset Sigil"
+	BasePrice = 485
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Simple Diamond-set Sigil"
+	BasePrice = 515
+	ItemLevel = 1
+	Weight = 1
+	Uses = 170
+	CustomType = Sigil
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+
+
+###################################
+##       Shimmering Stones       ##
+###################################
+Item
+	ItemType = Sigil
+	Name = "Shimmering Geode-set Sigil"
+	BasePrice = 200
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Zircon-set Sigil"
+	BasePrice = 215
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Tourmaline-set Sigil"
+	BasePrice = 230
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Jasper-inset Sigil"
+	BasePrice = 245
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Agate-inlaid Sigil"
+	BasePrice = 260
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Aquamarine-set Sigil"
+	BasePrice = 275
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Turquoise-set Sigil"
+	BasePrice = 295
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Amethyst-set Sigil"
+	BasePrice = 315
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Garnet-set Sigil"
+	BasePrice = 335
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Topaz-inset Sigil"
+	BasePrice = 355
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Starstone-set Sigil"
+	BasePrice = 375
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Moonstone-set Sigil"
+	BasePrice = 395
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Sunstone-set Sigil"
+	BasePrice = 420
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Dreamstone-set Sigil"
+	BasePrice = 455
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Opal-inset Sigil"
+	BasePrice = 480
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Pearl-inlaid Sigil"
+	BasePrice = 505
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Emerald-set Sigil"
+	BasePrice = 530
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Sapphire-set Sigil"
+	BasePrice = 555
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Ruby-inset Sigil"
+	BasePrice = 585
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Shimmering Diamond-set Sigil"
+	BasePrice = 615
+	ItemLevel = 1
+	Weight = 1
+	Uses = 190
+	CustomType = Sigil
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+
+
+###################################
+##       Sparkling Stones       ##
+###################################
+Item
+	ItemType = Sigil
+	Name = "Sparkling Geode-set Sigil"
+	BasePrice = 300
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Zircon-set Sigil"
+	BasePrice = 315
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Tourmaline-set Sigil"
+	BasePrice = 330
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Jasper-inset Sigil"
+	BasePrice = 345
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Agate-inlaid Sigil"
+	BasePrice = 360
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Aquamarine-set Sigil"
+	BasePrice = 375
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Turquoise-set Sigil"
+	BasePrice = 395
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Amethyst-set Sigil"
+	BasePrice = 415
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Garnet-set Sigil"
+	BasePrice = 435
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Topaz-inset Sigil"
+	BasePrice = 455
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Starstone-set Sigil"
+	BasePrice = 475
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Moonstone-set Sigil"
+	BasePrice = 495
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Sunstone-set Sigil"
+	BasePrice = 520
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Dreamstone-set Sigil"
+	BasePrice = 555
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Opal-inset Sigil"
+	BasePrice = 580
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Pearl-inlaid Sigil"
+	BasePrice = 605
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Emerald-set Sigil"
+	BasePrice = 630
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Sapphire-set Sigil"
+	BasePrice = 655
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Ruby-inset Sigil"
+	BasePrice = 685
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Sparkling Diamond-set Sigil"
+	BasePrice = 715
+	ItemLevel = 1
+	Weight = 1
+	Uses = 210
+	CustomType = Sigil
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+
+
+###################################
+##         Glowing Stones        ##
+###################################
+Item
+	ItemType = Sigil
+	Name = "Glowing Geode-set Sigil"
+	BasePrice = 400
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Zircon-set Sigil"
+	BasePrice = 415
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Tourmaline-set Sigil"
+	BasePrice = 430
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Jasper-inset Sigil"
+	BasePrice = 445
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Agate-inlaid Sigil"
+	BasePrice = 460
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Aquamarine-set Sigil"
+	BasePrice = 475
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Turquoise-set Sigil"
+	BasePrice = 495
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Amethyst-set Sigil"
+	BasePrice = 515
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Garnet-set Sigil"
+	BasePrice = 535
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Topaz-inset Sigil"
+	BasePrice = 555
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Starstone-set Sigil"
+	BasePrice = 575
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Moonstone-set Sigil"
+	BasePrice = 595
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Sunstone-set Sigil"
+	BasePrice = 620
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Dreamstone-set Sigil"
+	BasePrice = 655
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Opal-inset Sigil"
+	BasePrice = 680
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Pearl-inlaid Sigil"
+	BasePrice = 705
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Emerald-set Sigil"
+	BasePrice = 730
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Sapphire-set Sigil"
+	BasePrice = 755
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Ruby-inset Sigil"
+	BasePrice = 785
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Glowing Diamond-set Sigil"
+	BasePrice = 815
+	ItemLevel = 1
+	Weight = 1
+	Uses = 230
+	CustomType = Sigil
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+
+
+###################################
+##         Radiant Stones        ##
+###################################
+Item
+	ItemType = Sigil
+	Name = "Radiant Geode-set Sigil"
+	BasePrice = 500
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Zircon-set Sigil"
+	BasePrice = 515
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Tourmaline-set Sigil"
+	BasePrice = 530
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Jasper-inset Sigil"
+	BasePrice = 545
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Agate-inlaid Sigil"
+	BasePrice = 560
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Aquamarine-set Sigil"
+	BasePrice = 575
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Turquoise-set Sigil"
+	BasePrice = 595
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Amethyst-set Sigil"
+	BasePrice = 615
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Garnet-set Sigil"
+	BasePrice = 635
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Topaz-inset Sigil"
+	BasePrice = 655
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Starstone-set Sigil"
+	BasePrice = 675
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Moonstone-set Sigil"
+	BasePrice = 695
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 35
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Sunstone-set Sigil"
+	BasePrice = 720
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 15
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Dreamstone-set Sigil"
+	BasePrice = 755
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Opal-inset Sigil"
+	BasePrice = 780
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 40
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Pearl-inlaid Sigil"
+	BasePrice = 805
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 20
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Emerald-set Sigil"
+	BasePrice = 830
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Sapphire-set Sigil"
+	BasePrice = 855
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 45
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Ruby-inset Sigil"
+	BasePrice = 885
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 25
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End
+Item
+	ItemType = Sigil
+	Name = "Radiant Diamond-set Sigil"
+	BasePrice = 915
+	ItemLevel = 1
+	Weight = 1
+	Uses = 250
+	CustomType = Sigil
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	EffectMask = Enchant
+End

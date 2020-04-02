@@ -1,0 +1,881 @@
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Iron"
+	Icon = "Weapons\IronClaymore.dds"
+	Model = "Weapons\Iron\Claymore.NIF"
+	BasePrice = 40
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 475
+	Damage = 16
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Iron"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\irondaikatana.nif"
+	BasePrice = 30
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 34
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 400
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Iron"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\ironninjato.nif"
+	BasePrice = 33
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 35
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 425
+	Damage = 14
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Steel"
+	Icon = "Weapons\SteelClaymore.dds"
+	Model = "Weapons\Steel\Claymore.NIF"
+	BasePrice = 80
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 37
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 450
+	Damage = 19
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Steel"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\steeldaikatana.nif"
+	BasePrice = 55
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 32
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 400
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Steel"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\steelninjato.nif"
+	BasePrice = 58
+	ItemLevel = 3
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 33
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 415
+	Damage = 17
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Silver"
+	Icon = "Weapons\SilverClaymore.dds"
+	Model = "Weapons\Silver\Claymore.NIF"
+	BasePrice = 130
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 46
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 525
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Silver"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\silverdaikatana.nif"
+	BasePrice = 150
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 475
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Silver"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\silverninjato.nif"
+	BasePrice = 163
+	ItemLevel = 5
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 500
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Dwarven"
+	Icon = "Weapons\DwarvenClaymore.dds"
+	Model = "Weapons\Dwarven\Claymore.NIF"
+	BasePrice = 310
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 52
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 575
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Dwarven"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\dwarvendaikatana.nif"
+	BasePrice = 240
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 45
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 475
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Dwarven"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\dwarvenninjato.nif"
+	BasePrice = 260
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 46
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 500
+	Damage = 21
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Scythe"
+	Icon = "weapons\ironscythe.dds"
+	Model = "weapons\iron\scytheweapon.nif"
+	BasePrice = 700
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 48.0
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.65
+	Health = 450
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Scythe"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Elven"
+	Icon = "Weapons\ElvenClaymore.dds"
+	Model = "Weapons\Elven\Claymore.NIF"
+	BasePrice = 600
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 26
+	EnchantPoints = 5000
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 400
+	Damage = 24
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Elven"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\elvendaikatana.nif"
+	BasePrice = 485
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 23
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 365
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Elven"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\elvenninjato.nif"
+	BasePrice = 520
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 24
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 375
+	Damage = 22
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Icon = "Weapons\Braided\bclaymore.dds"
+	Model = "Weapons\Braided\bclaymore.nif"
+	BasePrice = 650
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 40
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.85
+	Health = 450
+	Damage = 25
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Scythe"
+	Material = "Bloody"
+	Icon = "weapons\ironscythe.dds"
+	Model = "weapons\iron\scytheweapon.nif"
+	BasePrice = 1400
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 48
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.65
+	Health = 750
+	Damage = 28
+	IgnoreResist = false
+	CustomType = "Scythe"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Glass"
+	Icon = "Weapons\GlassClaymore.dds"
+	Model = "Weapons\Glass\Claymore.NIF"
+	BasePrice = 1150
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 22
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 350
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Glass"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\glassdaikatana.nif"
+	BasePrice = 950
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 20
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 310
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Glass"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\glassninjato.nif"
+	BasePrice = 1080
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 21
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 325
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Black"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "weapons\SevArmory\blackhanddaikatana.nif"
+	BasePrice = 1200
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 45
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 450
+	Damage = 25
+	IgnoreResist = true
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Black"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\blackhandninjato.nif"
+	BasePrice = 1100
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 30
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 425
+	Damage = 25
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Scythe"
+	Material = "Glass"
+	Icon = "weapons\glassscythe.dds"
+	Model = "weapons\scythes\tdaglassscythe.nif"
+	BasePrice = 2500
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 55
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.63
+	Health = 700
+	Damage = 30
+	IgnoreResist = false
+	CustomType = "Scythe"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Ebony"
+	Icon = "Weapons\EbonyClaymore.dds"
+	Model = "Weapons\Ebony\Claymore.NIF"
+	BasePrice = 2200
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 58
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 650
+	Damage = 28
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Ebony"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\ebonydaikatana.nif"
+	BasePrice = 1970
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 550
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Ebony"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\ebonyninjato.nif"
+	BasePrice = 2080
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 42
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 530
+	Damage = 26
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Scythe"
+	Material = "Black"
+	Icon = "weapons\glassscythe.dds"
+	Model = "weapons\scythes\tdablackglassscythe.nif"
+	BasePrice = 4500
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 58
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.63
+	Health = 800
+	Damage = 32
+	IgnoreResist = true
+	CustomType = "Scythe"
+End
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Material = "Daedric"
+	Icon = "Weapons\DaedricClaymore.dds"
+	Model = "Weapons\Daedric\Claymore.NIF"
+	BasePrice = 4000
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 64
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.2
+	Speed = 0.85
+	Health = 750
+	Damage = 30
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Dai-Katana"
+	Material = "Daedric"
+	Icon = "Weapons\AkaviriLongsword.dds"
+	Model = "Weapons\SevArmory\daedricdaikatana.nif"
+	BasePrice = 3600
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 55
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.1
+	Speed = 1.2
+	Health = 675
+	Damage = 28
+	IgnoreResist = true
+	CustomType = "Dai-Katana"
+End
+Item
+	ItemType = Weapon
+	Name = "Ninjato"
+	Material = "Daedric"
+	Icon = "Weapons\ninjato.dds"
+	Model = "weapons\SevArmory\daedricninjato.nif"
+	BasePrice = 3870
+	ItemLevel = 22
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 51
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.0
+	Speed = 1.1
+	Health = 625
+	Damage = 28
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Polearm"
+	Icon = "Weapons\steelwaraxe.dds"
+	Model = "weapons\custom\customstaves\polearm1.nif"
+	BasePrice = 500
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.8
+	Health = 550
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Polearm"
+	Icon = "Weapons\steelwaraxe.dds"
+	Model = "weapons\custom\customstaves\polearm2.nif"
+	BasePrice = 600
+	ItemLevel = 12
+	MinEffectLevel = 1
+	MaxEffectLevel = 30
+	Weight = 47
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.9
+	Health = 525
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Spear"
+	Icon = "Weapons\dawabbajack.dds"
+	Model = "weapons\custom\customstaves\spear1.nif"
+	BasePrice = 350
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1.0
+	Health = 400
+	Damage = 19
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Spear"
+	Icon = "Weapons\dawabbajack.dds"
+	Model = "weapons\custom\customstaves\spear2.nif"
+	BasePrice = 350
+	ItemLevel = 8
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 28
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1.0
+	Health = 400
+	Damage = 21
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Sword"
+	Icon = "RD\rddeimos.dds"
+	Model = "RD\rddhaimos.NIF"
+	BasePrice = 850
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 50
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.4
+	Speed = 0.85
+	Health = 700
+	Damage = 23
+	IgnoreResist = false
+	CustomType = "Claymore"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Elmwood"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\elmwood_sabre_2h_long.nif"
+	BasePrice = 325
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1
+	Health = 550
+	Damage = 20
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "White"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\whiteleather_sabre_2h_long.nif"
+	BasePrice = 650
+	ItemLevel = 10
+	MinEffectLevel = 1
+	MaxEffectLevel = 25
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1
+	Health = 600
+	Damage = 22
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Ivory"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\ivory_sabre_2h_long.nif"
+	BasePrice = 1200
+	ItemLevel = 14
+	MinEffectLevel = 5
+	MaxEffectLevel = 30
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1
+	Health = 675
+	Damage = 24
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Ebony"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\ebony_sabre_2h_long.nif"
+	BasePrice = 2350
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1
+	Health = 750
+	Damage = 26
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Sabre"
+	Material = "Brightwood"
+	Icon = "Weapons\Adonnay\elvensabre.dds"
+	Model = "Weapons\Adonnay\sabre_2h_long.nif"
+	BasePrice = 4250
+	ItemLevel = 24
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 25
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 1
+	Health = 900
+	Damage = 32
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+Item
+	ItemType = Weapon
+	Name = "Katana"
+	Material = "Honami"
+	Icon = "va\daito01.dds"
+	Model = "va\Weapons\daito01.nif"
+	BasePrice = 8500
+	ItemLevel = 25
+	MinEffectLevel = 20
+	MaxEffectLevel = 50
+	Weight = 18
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.05
+	Speed = 1.1
+	Health = 900
+	Damage = 32
+	IgnoreResist = true
+	CustomType = "Katana"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "WitchBlade"
+	# Witch King's Sword
+	Icon = "Weapons\SteelLongsword.dds"
+	Model = "Weapons\templar\sword\witchking.nif"
+	BasePrice = 9000
+	ItemLevel = 30
+	MinEffectLevel = 30
+	MaxEffectLevel = 50
+	Weight = 68
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.4
+	Speed = 0.6
+	Health = 1400
+	Damage = 44
+	IgnoreResist = true
+	CustomType = "Claymore"
+End
+
+
+
+Item
+	ItemType = Weapon
+	Name = "Claymore"
+	Icon = "Weapons\Noble Plate\noble claymore.dds"
+	Model = "Weapons\Noble Plate\nobleclaymore.nif"
+	BasePrice = 1100
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 30
+	EnchantPoints = 0
+	Type = "Blade Two Hand"
+	Reach = 1.3
+	Speed = 0.9
+	Health = 550
+	Damage = 24
+	IgnoreResist = false
+	CustomType = "Claymore"
+End

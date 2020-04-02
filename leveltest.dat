@@ -1,0 +1,28 @@
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\LowerClass\01\M\Pants.dds"
+	FIcon = "Clothes\LowerClass\01\F\Pants.dds"
+	MBModel = "Clothes\LowerClass\01\M\Pants.NIF"
+	MWModel = "Clothes\LowerClass\01\M\Pants_gnd.NIF"
+	FBModel = "Clothes\LowerClass\01\F\Pants.NIF"
+	FWModel = "Clothes\LowerClass\01\F\Pants_gnd.NIF"
+	BasePrice = 1
+	ItemLevel = 1
+	Weight = 1
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End
+Item
+	ItemType = Clothing
+	Name = "Pants"
+	MIcon = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.dds"
+	MBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants.NIF"
+	MWModel = "Clothes\MiddleClass\MCPantsHobbitBritch\M\Pants_gnd.NIF"
+	FBModel = "Clothes\MiddleClass\MCPantsHobbitBritch\F\Pants.NIF"
+	BasePrice = 1
+	ItemLevel = 50
+	Weight = 0
+	BipedParts = Lower Body
+	CustomType = "Pants"
+End

@@ -1,0 +1,1183 @@
+#############################################
+##     Armor - Iron                        ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Helmet.dds"
+	MBModel = "Armor\Iron\M\Helmet.NIF"
+	MWModel = "Armor\Iron\M\Helmet_gnd.NIF"
+	FIcon = "Armor\Iron\M\Helmet.dds"
+	FBModel = "Armor\Iron\M\Helmet.NIF"
+	FWModel = "Armor\Iron\M\Helmet_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 7
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 425
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Cuirass.dds"
+	FIcon = "Armor\Iron\F\Cuirass.dds"
+	MBModel = "Armor\Iron\M\Cuirass.NIF"
+	MWModel = "Armor\Iron\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Iron\F\Cuirass.NIF"
+	FWModel = "Armor\Iron\F\Cuirass_gnd.NIF"
+	BasePrice = 85
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 31
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 875
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Gauntlets.dds"
+	FIcon = "Armor\Iron\F\Gauntlets.dds"
+	MBModel = "Armor\Iron\M\Gauntlets.NIF"
+	MWModel = "Armor\Iron\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Iron\F\Gauntlets.NIF"
+	FWModel = "Armor\Iron\M\Gauntlets_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 7
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 425
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Greaves.dds"
+	FIcon = "Armor\Iron\F\Greaves.dds"
+	MBModel = "Armor\Iron\M\Greaves.NIF"
+	MWModel = "Armor\Iron\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Iron\F\Greaves.NIF"
+	FWModel = "Armor\Iron\M\Greaves_gnd.NIF"
+	BasePrice = 45
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 19
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 650
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Iron"
+	MIcon = "Armor\Iron\M\Boots.dds"
+	FIcon = "Armor\Iron\M\Boots.dds"
+	MBModel = "Armor\Iron\M\Boots.NIF"
+	MWModel = "Armor\Iron\M\Boots_gnd.NIF"
+	FBModel = "Armor\Iron\F\Boots.NIF"
+	FWModel = "Armor\Iron\M\Boots_gnd.NIF"
+	BasePrice = 25
+	ItemLevel = 1
+	MinEffectLevel = 1
+	MaxEffectLevel = 10
+	Weight = 10
+	Armor = 400
+	ArmorType = "Heavy"
+	Health = 425
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Steel                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Helmet.dds"
+	MBModel = "Armor\Steel\M\Helmet.NIF"
+	MWModel = "Armor\Steel\M\Helmet_gnd.NIF"
+	FIcon = "Armor\Steel\Helmet.dds"
+	FBModel = "Armor\Steel\M\Helmet.NIF"
+	FWModel = "Armor\Steel\M\Helmet_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 6
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 475
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Cuirass.dds"
+	MBModel = "Armor\Steel\M\Cuirass.NIF"
+	MWModel = "Armor\Steel\M\Cuirass_gnd.NIF"
+	FIcon = "Armor\Steel\Cuirass.dds"
+	FBModel = "Armor\Steel\M\Cuirass.NIF"
+	FWModel = "Armor\Steel\M\Cuirass_gnd.NIF"
+	BasePrice = 180
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 29
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 925
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Gauntlets.dds"
+	MBModel = "Armor\Steel\M\Gauntlets.NIF"
+	MWModel = "Armor\Steel\M\Gauntlets_gnd.NIF"
+	FIcon = "Armor\Steel\Gauntlets.dds"
+	FBModel = "Armor\Steel\M\Gauntlets.NIF"
+	FWModel = "Armor\Steel\M\Gauntlets_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 6
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 475
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Greaves.dds"
+	FIcon = "Armor\Steel\Greaves.dds"
+	MBModel = "Armor\Steel\M\Greaves.NIF"
+	MWModel = "Armor\Steel\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Steel\F\Greaves.NIF"
+	FWModel = "Armor\Steel\M\Greaves_gnd.NIF"
+	BasePrice = 95
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 18
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 700
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Steel"
+	MIcon = "Armor\Steel\Boots.dds"
+	MBModel = "Armor\Steel\M\Boots.NIF"
+	MWModel = "Armor\Steel\M\Boots_gnd.NIF"
+	FIcon = "Armor\Steel\Boots.dds"
+	FBModel = "Armor\Steel\M\Boots.NIF"
+	FWModel = "Armor\Steel\M\Boots_gnd.NIF"
+	BasePrice = 50
+	ItemLevel = 4
+	MinEffectLevel = 1
+	MaxEffectLevel = 15
+	Weight = 9
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 475
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Dwarven                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Helmet.dds"
+	MBModel = "Armor\Dwarven\M\Helmet.NIF"
+	MWModel = "Armor\Dwarven\M\Helmet_gnd.NIF"
+	FIcon = "Armor\Dwarven\M\Helmet.dds"
+	FBModel = "Armor\Dwarven\M\Helmet.NIF"
+	FWModel = "Armor\Dwarven\M\Helmet_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 675
+	BipedParts = Head | Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Curiass.dds"
+	MBModel = "Armor\Dwarven\M\Cuirass.NIF"
+	MWModel = "Armor\Dwarven\M\Cuirass_gnd.NIF"
+	FIcon = "Armor\Dwarven\M\Curiass.dds"
+	FBModel = "Armor\Dwarven\M\Cuirass.NIF"
+	FWModel = "Armor\Dwarven\M\Cuirass_gnd.NIF"
+	BasePrice = 400
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 39
+	Armor = 1400
+	ArmorType = "Heavy"
+	Health = 1400
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Gauntlet.dds"
+	MBModel = "Armor\Dwarven\M\Gauntlets.NIF"
+	MWModel = "Armor\Dwarven\M\Gauntlets_gnd.NIF"
+	FIcon = "Armor\Dwarven\M\Gauntlet.dds"
+	FBModel = "Armor\Dwarven\M\Gauntlets.NIF"
+	FWModel = "Armor\Dwarven\M\Gauntlets_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 8
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 725
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Greaves.dds"
+	FIcon = "Armor\Dwarven\M\Greaves.dds"
+	MBModel = "Armor\Dwarven\M\Greaves.NIF"
+	MWModel = "Armor\Dwarven\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Dwarven\F\Greaves.NIF"
+	FWModel = "Armor\Dwarven\M\Greaves_gnd.NIF"
+	BasePrice = 210
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 22
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1050
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Dwarven"
+	MIcon = "Armor\Dwarven\M\Boots.dds"
+	MBModel = "Armor\Dwarven\M\Boots.NIF"
+	MWModel = "Armor\Dwarven\M\Boots_gnd.NIF"
+	FIcon = "Armor\Dwarven\M\Boots.dds"
+	FBModel = "Armor\Dwarven\M\Boots.NIF"
+	FWModel = "Armor\Dwarven\M\Boots_gnd.NIF"
+	BasePrice = 115
+	ItemLevel = 7
+	MinEffectLevel = 1
+	MaxEffectLevel = 20
+	Weight = 12
+	Armor = 500
+	ArmorType = "Heavy"
+	Health = 725
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Orcish                      ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Helmet.dds"
+	MBModel = "Armor\Orcish\Helmet.NIF"
+	MWModel = "Armor\Orcish\Helmet_gnd.NIF"
+	FIcon = "Armor\Orcish\M\Helmet.dds"
+	FBModel = "Armor\Orcish\Helmet.NIF"
+	FWModel = "Armor\Orcish\Helmet_gnd.NIF"
+	BasePrice = 250
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 700
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Cuirass.dds"
+	FIcon = "Armor\Orcish\F\Cuirass.dds"
+	MBModel = "Armor\Orcish\M\Cuirass.NIF"
+	MWModel = "Armor\Orcish\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Cuirass.NIF"
+	FWModel = "Armor\Orcish\F\Cuirass_gnd.NIF"
+	BasePrice = 940
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 43
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Gauntlets.dds"
+	FIcon = "Armor\Orcish\M\Gauntlets.dds"
+	MBModel = "Armor\Orcish\M\Gauntlets.NIF"
+	MWModel = "Armor\Orcish\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Gauntlets.NIF"
+	FWModel = "Armor\Orcish\M\Gauntlets_gnd.NIF"
+	BasePrice = 250
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 750
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Greaves.dds"
+	FIcon = "Armor\Orcish\M\Greaves.dds"
+	MBModel = "Armor\Orcish\M\Greaves.NIF"
+	MWModel = "Armor\Orcish\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Greaves.NIF"
+	FWModel = "Armor\Orcish\M\Greaves_gnd.NIF"
+	BasePrice = 460
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 25
+	Armor = 900
+	ArmorType = "Heavy"
+	Health = 1075
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Orcish"
+	MIcon = "Armor\Orcish\M\Boots.dds"
+	FIcon = "Armor\Orcish\M\Boots.dds"
+	MBModel = "Armor\Orcish\M\Boots.NIF"
+	MWModel = "Armor\Orcish\M\Boots_gnd.NIF"
+	FBModel = "Armor\Orcish\F\Boots.NIF"
+	FWModel = "Armor\Orcish\M\Boots_gnd.NIF"
+	BasePrice = 250
+	ItemLevel = 11
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 14
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 750
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##          Armor - Noble Armor            ##
+##        Orcish/Ebony Equivalent          ##
+#############################################
+
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	MIcon = "Armor\Noble Plate\nobleHelmet.dds"
+	MBModel = "Armor\Noble Plate\m\noblehelmet.nif"
+	MWModel = "Armor\Noble Plate\m\noblehelmet_gnd.nif"
+	FIcon = "Armor\Noble Plate\nobleHelmet.dds"
+	FBModel = "Armor\Noble Plate\f\noblehelmet.nif"
+	FWModel = "Armor\Noble Plate\f\noblehelmet_gnd.nif"
+	BasePrice = 350
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 800
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	MIcon = "Armor\Noble Plate\nobleCuirassM..dds"
+	FIcon = "Armor\Noble Plate\nobleCuirassM..dds"
+	MBModel = "Armor\Noble Plate\m\noblecuirass.nif"
+	MWModel = "Armor\Noble Plate\m\noblecuirass_gnd.nif"
+	FBModel = "Armor\Noble Plate\f\noblecuirass.nif"
+	FWModel = "Armor\Noble Plate\f\noblecuirass_gnd.nif"
+	BasePrice = 1350
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 40
+	Armor = 1500
+	ArmorType = "Heavy"
+	Health = 1650
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	MIcon = "Armor\Noble Plate\nobleGauntlets..dds"
+	FIcon = "Armor\Noble Plate\nobleGauntlets..dds"
+	MBModel = "Armor\Noble Plate\m\noblecuirass.nif"
+	MWModel = "Armor\Noble Plate\m\noblecuirass_gnd.nif"
+	FBModel = "Armor\Noble Plate\f\noblecuirass.nif"
+	FWModel = "Armor\Noble Plate\f\noblecuirass_gnd.nif"
+	BasePrice = 450
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 9
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 825
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	MIcon = "Armor\Noble Plate\noblegreaves.dds"
+	FIcon = "Armor\Noble Plate\noblegreaves.dds"
+	MBModel = "Armor\Noble Plate\m\noblegreaves.nif"
+	MWModel = "Armor\Noble Plate\m\noblegreaves_gnd.nif"
+	FBModel = "Armor\Noble Plate\f\noblegreaves.nif"
+	FWModel = "Armor\Noble Plate\f\noblegreaves_gnd.nif"
+	BasePrice = 800
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 25
+	Armor = 950
+	ArmorType = "Heavy"
+	Health = 1275
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	MIcon = "Armor\Noble Plate\nobleboots.dds"
+	FIcon = "Armor\Noble Plate\nobleboots.dds"
+	MBModel = "Armor\Noble Plate\m\nobleboots.nif"
+	MWModel = "Armor\Noble Plate\m\nobleboots_gnd.nif"
+	FBModel = "Armor\Noble Plate\f\nobleboots.nif"
+	FWModel = "Armor\Noble Plate\f\nobleboots_gnd.nif"
+	BasePrice = 425
+	ItemLevel = 13
+	MinEffectLevel = 5
+	MaxEffectLevel = 25
+	Weight = 13
+	Armor = 600
+	ArmorType = "Heavy"
+	Health = 850
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Ebony                       ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Helmet.dds"
+	FIcon = "Armor\Ebony\F\Helmet.dds"
+	MBModel = "Armor\Ebony\M\Helmet.NIF"
+	MWModel = "Armor\Ebony\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Helmet.NIF"
+	FWModel = "Armor\Ebony\F\Helmet_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Cuirass.dds"
+	FIcon = "Armor\Ebony\F\Cuirass.dds"
+	MBModel = "Armor\Ebony\M\Cuirass.NIF"
+	MWModel = "Armor\Ebony\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Cuirass.NIF"
+	FWModel = "Armor\Ebony\F\Cuirass_gnd.NIF"
+	BasePrice = 1900
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 48
+	Armor = 1600
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Gauntlets.dds"
+	FIcon = "Armor\Ebony\M\Gauntlets.dds"
+	MBModel = "Armor\Ebony\M\Gauntlets.NIF"
+	MWModel = "Armor\Ebony\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Gauntlets.NIF"
+	FWModel = "Armor\Ebony\M\Gauntlets_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Greaves.dds"
+	FIcon = "Armor\Ebony\M\Greaves.dds"
+	MBModel = "Armor\Ebony\M\Greaves.NIF"
+	MWModel = "Armor\Ebony\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Greaves.NIF"
+	FWModel = "Armor\Ebony\M\Greaves_gnd.NIF"
+	BasePrice = 1000
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 29
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Ebony"
+	MIcon = "Armor\Ebony\M\Boots.dds"
+	FIcon = "Armor\Ebony\F\Boots.dds"
+	MBModel = "Armor\Ebony\M\Boots.NIF"
+	MWModel = "Armor\Ebony\M\Boots_gnd.NIF"
+	FBModel = "Armor\Ebony\F\Boots.NIF"
+	FWModel = "Armor\Ebony\F\Boots_gnd.NIF"
+	BasePrice = 550
+	ItemLevel = 16
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 16
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Blue Archmage Battle Armor  ##
+##             Ebony Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Boots"
+	MIcon = "javbmb\javbmbbt01t.dds"
+	FIcon = "javbmb\javbmbbt01t.dds"
+	MBModel = "Armor\javbmb\javbmbbt01.nif"
+	MWModel = "Armor\javbmb\javbmbbt01_gnd.nif"
+	FBModel = "Armor\javbmb\javbmbbt01.nif"
+	FWModel = "Armor\javbmb\javbmbbt01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 16
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	MIcon = "javbmb\javbmbcu01t.dds"
+	FIcon = "javbmb\javbmbcu01t.dds"
+	MBModel = "Armor\javbmb\javbmbcu01.nif"
+	MWModel = "Armor\javbmb\javbmbcu01_gnd.nif"
+	FBModel = "Armor\javbmb\javbmbcu01f.nif"
+	FWModel = "Armor\javbmb\javbmbcu01f_gnd.nif"
+	BasePrice = 1900
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 48
+	Armor = 1600
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	MIcon = "javbmb\javbmbga01t.dds"
+	FIcon = "javbmb\javbmbga01t.dds"
+	MBModel = "Armor\javbmb\javbmbga01.nif"
+	MWModel = "Armor\javbmb\javbmbga01_gnd.nif"
+	FBModel = "Armor\javbmb\javbmbga01.nif"
+	FWModel = "Armor\javbmb\javbmbga01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	MIcon = "javbmb\javbmbgr01t.dds"
+	FIcon = "javbmb\javbmbgr01t.dds"
+	MBModel = "Armor\javbmb\javbmbgr01.nif"
+	MWModel = "Armor\javbmb\javbmbgr01_gnd.nif"
+	FBModel = "Armor\javbmb\javbmbgr01f.nif"
+	FWModel = "Armor\javbmb\javbmbgr01_gnd.nif"
+	BasePrice = 1000
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 29
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Helm"
+	MIcon = "javbmb\javbmbhlm01t.dds"
+	FIcon = "javbmb\javbmbhlm01t.dds"
+	MBModel = "Armor\javbmb\javbmbhlm01.nif"
+	MWModel = "Armor\javbmb\javbmbhlm01_gnd.nif"
+	FBModel = "Armor\javbmb\javbmbhlm01.nif"
+	FWModel = "Armor\javbmb\javbmbhlm01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+
+
+
+#############################################
+##     Armor - Red Archmage Battle Armor   ##
+##             Ebony Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Boots"
+	MIcon = "javrmb\javbmbbt01t.dds"
+	FIcon = "javrmb\javbmbbt01t.dds"
+	MBModel = "Armor\javrmb\javrmbbt01.nif"
+	MWModel = "Armor\javrmb\javrmbbt01_gnd.nif"
+	FBModel = "Armor\javrmb\javrmbbt01.nif"
+	FWModel = "Armor\javrmb\javrmbbt01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 16
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	MIcon = "javrmb\javrmbcu01t.dds"
+	FIcon = "javrmb\javrmbcu01t.dds"
+	MBModel = "Armor\javrmb\javrmbcu01.nif"
+	MWModel = "Armor\javrmb\javrmbcu01_gnd.nif"
+	FBModel = "Armor\javrmb\javrmbcu01f.nif"
+	FWModel = "Armor\javrmb\javrmbcu01f_gnd.nif"
+	BasePrice = 1900
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 48
+	Armor = 1600
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	MIcon = "javrmb\javrmbga01t.dds"
+	FIcon = "javrmb\javrmbga01t.dds"
+	MBModel = "Armor\javrmb\javrmbga01.nif"
+	MWModel = "Armor\javrmb\javrmbga01_gnd.nif"
+	FBModel = "Armor\javrmb\javrmbga01.nif"
+	FWModel = "Armor\javrmb\javrmbga01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	MIcon = "javrmb\javrmbgr01t.dds"
+	FIcon = "javrmb\javrmbgr01t.dds"
+	MBModel = "Armor\javrmb\javrmbgr01.nif"
+	MWModel = "Armor\javrmb\javrmbgr01_gnd.nif"
+	FBModel = "Armor\javrmb\javrmbgr01f.nif"
+	FWModel = "Armor\javrmb\javrmbgr01_gnd.nif"
+	BasePrice = 1000
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 29
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Helm"
+	MIcon = "javrmb\javrmbhlm01t.dds"
+	FIcon = "javrmb\javrmbhlm01t.dds"
+	MBModel = "Armor\javrmb\javrmbhlm01.nif"
+	MWModel = "Armor\javrmb\javrmbhlm01_gnd.nif"
+	FBModel = "Armor\javrmb\javrmbhlm01.nif"
+	FWModel = "Armor\javrmb\javrmbhlm01_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 17
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+
+
+
+#############################################
+##     Armor - Battledress Heavy Armor     ##
+##             Ebony Equivalent            ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Boots"
+	MIcon = "Armor\HBraided\hbboots.dds"
+	FIcon = "Armor\HBraided\hbboots.dds"
+	MBModel = "Armor\HBraided\m\hbboots.nif"
+	MWModel = "Armor\HBraided\m\hbboots_gnd.nif"
+	FBModel = "Armor\HBraided\m\hbboots.nif"
+	FWModel = "Armor\HBraided\m\hbboots_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 16
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	MIcon = "Armor\HBraided\hbgauntlets.dds"
+	FIcon = "Armor\HBraided\hbgauntlets.dds"
+	MBModel = "Armor\HBraided\M\hbgauntlets.nif"
+	MWModel = "Armor\HBraided\M\hbgauntlets_gnd.nif"
+	FBModel = "Armor\HBraided\m\hbgauntlets.nif"
+	FWModel = "Armor\HBraided\m\hbgauntlets_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Helm"
+	MIcon = "Armor\HBraided\hbhelmet.dds"
+	FIcon = "Armor\HBraided\hbhelmet.dds"
+	MBModel = "Armor\HBraided\hbhelmet.nif"
+	MWModel = "Armor\HBraided\hbhelmet_gnd.nif"
+	FBModel = "Armor\HBraided\hbhelmet.nif"
+	FWModel = "Armor\HBraided\hbhelmet_gnd.nif"
+	BasePrice = 550
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 11
+	Armor = 700
+	ArmorType = "Heavy"
+	Health = 950
+	BipedParts = Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	MIcon = "Armor\HBraided\hbgreaves.dds"
+	FIcon = "Armor\HBraided\hbgreaves.dds"
+	MBModel = "Armor\HBraided\M\hbgreaves.nif"
+	MWModel = "Armor\HBraided\M\hbgreaves_gnd.nif"
+	FBModel = "Armor\HBraided\F\hbgreaves.nif"
+	FWModel = "Armor\HBraided\M\hbgreaves_gnd.nif"
+	BasePrice = 1000
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 29
+	Armor = 1000
+	ArmorType = "Heavy"
+	Health = 1425
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	MIcon = "Armor\HBraided\hbcuirass.dds"
+	FIcon = "Armor\HBraided\hbcuirass.dds"
+	MBModel = "Armor\HBraided\M\hbcuirass.nif"
+	MWModel = "Armor\HBraided\M\hbcuirass_gnd.nif"
+	FBModel = "Armor\HBraided\F\hbcuirass.nif"
+	FWModel = "Armor\HBraided\m\hbcuirass_gnd.nif"
+	BasePrice = 1900
+	ItemLevel = 18
+	MinEffectLevel = 10
+	MaxEffectLevel = 35
+	Weight = 48
+	Armor = 1600
+	ArmorType = "Heavy"
+	Health = 1900
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+
+
+
+#############################################
+##    Armor - Green Pearl Armor (Heavy)    ##
+##            Daedric Equivalent           ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\M\Cuirass.dds"
+	FIcon = "Armor\majesty\F\Cuirass.dds"
+	MBModel = "Armor\majesty\M\Cuirass.NIF"
+	MWModel = "Armor\majesty\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\majesty\F\Cuirass.NIF"
+	FWModel = "Armor\majesty\F\Cuirass_gnd.NIF"
+	BasePrice = 5000
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 53
+	Armor = 2100
+	ArmorType = "Heavy"
+	Health = 2700
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\M\Gauntlets.dds"
+	FIcon = "Armor\majesty\M\Gauntlets.dds"
+	MBModel = "Armor\majesty\M\Gauntlets.NIF"
+	MWModel = "Armor\majesty\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\majesty\F\Gauntlets.NIF"
+	FWModel = "Armor\majesty\F\Gauntlets.NIF"
+	BasePrice = 1750
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 12
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\M\Greaves.dds"
+	FIcon = "Armor\majesty\F\Greaves.dds"
+	MBModel = "Armor\majesty\M\Greaves.NIF"
+	MWModel = "Armor\majesty\M\Greaves_gnd.NIF"
+	FBModel = "Armor\majesty\F\Greaves.NIF"
+	FWModel = "Armor\majesty\F\Greaves_gnd.NIF"
+	BasePrice = 2500
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 34
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Pearl"
+	MIcon = "Armor\majesty\M\Boots.dds"
+	MBModel = "Armor\majesty\M\Boots.NIF"
+	MWModel = "Armor\majesty\M\Boots_gnd.NIF"
+	FIcon = "Armor\majesty\M\Boots.dds"
+	FBModel = "Armor\majesty\M\Boots.NIF"
+	FWModel = "Armor\majesty\M\Boots_gnd.NIF"
+	BasePrice = 1750
+	ItemLevel = 21
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 18
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Foot
+	CustomType = "H Boots"
+End
+
+
+
+#############################################
+##     Armor - Daedric                     ##
+#############################################
+Item
+	ItemType = Armor
+	Name = "Helmet"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Helmet.dds"
+	FIcon = "Armor\Daedric\F\Helmet.dds"
+	MBModel = "Armor\Daedric\M\Helmet.NIF"
+	MWModel = "Armor\Daedric\M\Helmet_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Helmet.NIF"
+	FWModel = "Armor\Daedric\F\Helmet_gnd.NIF"
+	BasePrice = 1350
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 12
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Head | Hair
+	CustomType = "H Helmet"
+End
+Item
+	ItemType = Armor
+	Name = "Cuirass"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Cuirass.dds"
+	FIcon = "Armor\Daedric\F\Cuirass.dds"
+	MBModel = "Armor\Daedric\M\Cuirass.NIF"
+	MWModel = "Armor\Daedric\M\Cuirass_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Cuirass.NIF"
+	FWModel = "Armor\Daedric\F\Cuirass_gnd.NIF"
+	BasePrice = 4800
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 53
+	Armor = 2100
+	ArmorType = "Heavy"
+	Health = 2700
+	BipedParts = Upper Body
+	CustomType = "H Cuirass"
+End
+Item
+	ItemType = Armor
+	Name = "Gauntlets"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Gauntlets.dds"
+	FIcon = "Armor\Daedric\M\Gauntlets.dds"
+	MBModel = "Armor\Daedric\M\Gauntlets.NIF"
+	MWModel = "Armor\Daedric\M\Gauntlets_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Gauntlets.NIF"
+	FWModel = "Armor\Daedric\M\Gauntlets_gnd.NIF"
+	BasePrice = 1350
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 12
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Hand
+	CustomType = "H Gauntlets"
+End
+Item
+	ItemType = Armor
+	Name = "Greaves"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Greaves.dds"
+	FIcon = "Armor\Daedric\F\Greaves.dds"
+	MBModel = "Armor\Daedric\M\Greaves.NIF"
+	MWModel = "Armor\Daedric\M\Greaves_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Greaves.NIF"
+	FWModel = "Armor\Daedric\F\Greaves_gnd.NIF"
+	BasePrice = 2500
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 34
+	Armor = 1200
+	ArmorType = "Heavy"
+	Health = 2025
+	BipedParts = Lower Body
+	CustomType = "H Greaves"
+End
+Item
+	ItemType = Armor
+	Name = "Boots"
+	Material = "Daedric"
+	MIcon = "Armor\Daedric\M\Boots.dds"
+	FIcon = "Armor\Daedric\M\Boots.dds"
+	MBModel = "Armor\Daedric\M\Boots.NIF"
+	MWModel = "Armor\Daedric\M\Boots_gnd.NIF"
+	FBModel = "Armor\Daedric\F\Boots.NIF"
+	FWModel = "Armor\Daedric\M\Boots_gnd.NIF"
+	BasePrice = 1350
+	ItemLevel = 23
+	MinEffectLevel = 15
+	MaxEffectLevel = 50
+	Weight = 18
+	Armor = 800
+	ArmorType = "Heavy"
+	Health = 1350
+	BipedParts = Foot
+	CustomType = "H Boots"
+End

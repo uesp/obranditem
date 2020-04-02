@@ -1,0 +1,20 @@
+LevelList
+	Name = TopLevelList
+	Parent = NULL
+	Empty = true
+	MaxRecords = 100
+	ChanceNone = 1
+	CalculateAll = false
+	CalculateEach = false
+End
+LevelList
+	Name = Weapons
+	Parent = TopLevelList
+	MaxRecords = 900
+	ChanceNone = 0
+	CalculateAll = true
+	CalculateEach = false
+	ItemType = Weapon
+	ResetLevels = true
+End
+
